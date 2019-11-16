@@ -2,7 +2,7 @@
  ; This is a script of Min opera.
  ; Link: https://www.bilibili.com/video/av70246431/
  Title: 春草闖堂
- Original Script: Guanchishan@GitHub, 蓝尾星@bilibili
+ Original Script: Guanchishan@GitHub, Tseing@GitHub
 
 1
 00:00:35.900 --> 00:00:40.900
