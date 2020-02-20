@@ -1,0 +1,13 @@
+[Script Info]
+ ; This is a script of Unknown. 伓是別儂教奴唱. From 情景剧 ''三坊七巷'',provided by Cyclohexane233@Wikimedia.
+ ; Link: 
+ Title: 
+ Original Script: Guanchishan@GitHub
+
+1
+00:00:35,900 --> 00:00:06,300
+伓是別儂教奴唱
+
+2
+00:00:06,500 --> 00:00:48,900
+是奴腹老
