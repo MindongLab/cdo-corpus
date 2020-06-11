@@ -1,0 +1,14 @@
+[Script Info]
+ ; From: 情景剧 ''三坊七巷''
+ ; Provide: Cyclohexane233@Wikimedia
+ ; Link: 
+ ; Author: 
+ Title: 
+ Original Script: 关彳山
+ Original Translation:
+ Original Editing:
+ Original Timing: 关彳山
+ Update Details: 
+
+1
+00:00:00,000 --> 00:00:06,300
