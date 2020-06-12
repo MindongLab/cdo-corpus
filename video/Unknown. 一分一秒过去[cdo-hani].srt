@@ -1,9 +1,8 @@
 [Script Info]
- ; From: 情景剧 ''三坊七巷''
- ; Provide: Cyclohexane233@Wikimedia
+ ; Recorder: Cyclohexane233@Wikimedia
  ; Link: 
  ; Author: 
- Title: 
+ Title: 情景剧 ''三坊七巷''
  Original Script: 关彳山
  Original Translation:
  Original Editing:
@@ -12,13 +11,13 @@
 
 1
 00:00:01,000 --> 00:00:03,200
-一個青年倒下
 蜀隻青年倒了
+(一個青年倒下)
 
 2
 00:00:03,400 --> 00:00:05,600
-又一個青年倒下
 復蜀隻青年倒了
+(又一個青年倒下)
 
 3
 00:00:05,600 --> 00:00:10,700

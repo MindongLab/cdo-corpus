@@ -1,9 +1,8 @@
 [Script Info]
- ; From: 情景剧 ''三坊七巷''
- ; Provide: Cyclohexane233@Wikimedia
+ ; Recorder: Cyclohexane233@Wikimedia
  ; Link: 
  ; Author: 
- Title: 
+ Title: 情景剧 ''三坊七巷''
  Original Script: 关彳山
  Original Translation:
  Original Editing:

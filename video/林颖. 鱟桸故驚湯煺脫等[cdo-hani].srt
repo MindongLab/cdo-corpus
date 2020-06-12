@@ -1,6 +1,5 @@
 ﻿[Script Info]
- ; From: 
- ; Provider: 
+ ; Recorder: 
  ; Link: https://v.douyin.com/sNsX8f/
  ; Author: 林颖
  Title: 
