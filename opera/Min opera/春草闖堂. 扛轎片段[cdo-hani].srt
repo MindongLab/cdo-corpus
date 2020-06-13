@@ -2,10 +2,10 @@
  ; This is a script of Min opera. Commit 592d3f is being used by bilibili.
  ; Link: https://www.bilibili.com/video/av70246431/
  Title: 春草闖堂
- Original Script: 关彳山, Tseing@GitHub
+ Original Script: Tseing@GitHub, 关彳山
  Original Translation:
- Original Editing: 关彳山
- Original Timing: 关彳山, Tseing@GitHub
+ Original Editing: 
+ Original Timing: Tseing@GitHub, 关彳山
  Update Details: 改部分簡體字爲繁體字，「滿」改爲「罔」，「奚勢」改爲「傒勢」，去除部分冗字。下文「礼」即助詞「𡅏」。
 
 1
