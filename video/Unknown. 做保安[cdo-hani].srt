@@ -1,7 +1,8 @@
 ﻿[Script Info]
  ; Recorder: 
- ; Link: 
+ ; Link: https://v.qq.com/x/page/y0358m1whap.html
  ; Author: 林旭
+ ; Date: 2016-12-23
  Title: 做保安
  Original Script: 关彳山
  Original Translation:
