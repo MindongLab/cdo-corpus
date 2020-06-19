@@ -3,9 +3,10 @@
  ; Link: https://v.qq.com/x/page/y0358m1whap.html
  ; Author: 林旭
  ; Date: 2016-12-23
+ ; Area: mnhu
  Title: 男子去应聘，老板叫他32号来上班？
  Original Script: 关彳山
- Original Translation:
+ Original Translation: 关彳山
  Original Editing: 
  Original Timing: 关彳山
  Update Details: 
@@ -68,7 +69,8 @@
 
 15
 00:00:24,001 --> 00:00:25,499
-能做嗎 能做
+- 能做嗎
+- 能做
 
 16
 00:00:25,501 --> 00:00:26,730
