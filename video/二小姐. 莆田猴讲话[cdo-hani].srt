@@ -1,11 +1,11 @@
-﻿[Script Info]
+[Script Info]
  ; Recorder: 
  ; Link: 
  ; Author: 二小姐
  Title: 
  Original Script: 关彳山
  Original Translation:
- Original Editing: 萧疏寂@Weibo, 像子影@Weibo, 五毛@QQ
+ Original Editing: 刑部Dana, 像子影@Weibo, 五毛@QQ
  Original Timing: 关彳山
  Update Details: 
  
