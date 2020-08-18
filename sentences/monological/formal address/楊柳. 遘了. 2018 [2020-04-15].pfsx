@@ -14,7 +14,7 @@
         <Double>0.13695090439276486</Double>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>872.0233</Float>
+        <Float>682.0226</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -49,14 +49,14 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>872.0233</Float>
+        <Float>682.0226</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>1589</Long>
+        <Long>297</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -86,23 +86,23 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3685</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1589</Long>
+        <Long>115</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="mandr. trans. by word">
+            <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="yngping by char.">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">160,0,90</Object>
-        </pref>
-        <pref key="mandr. trans. by word">
-            <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -116,9 +116,6 @@
         <pref key="word">
             <Object class="java.awt.Color">90,0,0</Object>
         </pref>
-        <pref key="mandr. trans. by char.">
-            <Object class="java.awt.Color">0,90,0</Object>
-        </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
         <String>gáu-huôi lò̤-mā-cê</String>
@@ -126,14 +123,13 @@
         <String>faulty fixing</String>
         <String>yngping</String>
         <String>mandr. trans. by word</String>
-        <String>mandr. trans. by char.</String>
         <String>character</String>
         <String>word</String>
         <String>language</String>
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
-        <Int>238</Int>
+        <Int>187</Int>
     </pref>
     <prefList key="TranscriptionTable.HiddenTiers"/>
     <prefGroup key="TranscriptionTable.ColumnWidth">
@@ -145,7 +141,7 @@
         <Int>5</Int>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>0</Int>
+        <Int>6</Int>
     </pref>
     <pref key="LayoutManager.MediaAreaWidth">
         <Int>352</Int>
@@ -157,10 +153,10 @@
         <String>character</String>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
-        <Int>164</Int>
+        <Int>157</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1900</Long>
+        <Long>564</Long>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="首字母">
@@ -220,11 +216,11 @@
     </pref>
     <prefList key="InterlinearizationConfigurations"/>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 光明橋站遘了, 請趁後門落車. 2018 [2020-04-15].wav</String>
-        </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 遘了. 2018 [2020-04-15].wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

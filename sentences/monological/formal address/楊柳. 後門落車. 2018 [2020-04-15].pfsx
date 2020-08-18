@@ -56,7 +56,7 @@
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>1589</Long>
+        <Long>489</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -86,10 +86,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3685</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1589</Long>
+        <Long>438</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="character">
@@ -98,11 +98,11 @@
         <pref key="yngping by char.">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
-        <pref key="yngping">
-            <Object class="java.awt.Color">160,0,90</Object>
-        </pref>
         <pref key="mandr. trans. by word">
             <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="yngping">
+            <Object class="java.awt.Color">160,0,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -110,11 +110,11 @@
         <pref key="language">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
-        <pref key="faulty fixing">
-            <Object class="java.awt.Color">160,160,0</Object>
-        </pref>
         <pref key="word">
             <Object class="java.awt.Color">90,0,0</Object>
+        </pref>
+        <pref key="faulty fixing">
+            <Object class="java.awt.Color">160,160,0</Object>
         </pref>
         <pref key="mandr. trans. by char.">
             <Object class="java.awt.Color">0,90,0</Object>
@@ -145,7 +145,7 @@
         <Int>5</Int>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
-        <Int>0</Int>
+        <Int>6</Int>
     </pref>
     <pref key="LayoutManager.MediaAreaWidth">
         <Int>352</Int>
@@ -160,7 +160,7 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1900</Long>
+        <Long>1042</Long>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="首字母">
@@ -220,11 +220,11 @@
     </pref>
     <prefList key="InterlinearizationConfigurations"/>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 光明橋站遘了, 請趁後門落車. 2018 [2020-04-15].wav</String>
-        </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 後門落車. 2018 [2020-04-15].wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

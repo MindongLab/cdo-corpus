@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1536,814</Object>
+        <Object class="java.awt.Dimension">1550,838</Object>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -14,7 +14,7 @@
         <Double>0.13695090439276486</Double>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>872.0233</Float>
+        <Float>942.0231</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -46,17 +46,17 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">-7,-7</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>872.0233</Float>
+        <Float>942.0231</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>1589</Long>
+        <Long>12906</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -86,10 +86,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>3685</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1589</Long>
+        <Long>12906</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="character">
@@ -98,11 +98,11 @@
         <pref key="yngping by char.">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
-        <pref key="yngping">
-            <Object class="java.awt.Color">160,0,90</Object>
-        </pref>
         <pref key="mandr. trans. by word">
             <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="yngping">
+            <Object class="java.awt.Color">160,0,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -110,11 +110,11 @@
         <pref key="language">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
-        <pref key="faulty fixing">
-            <Object class="java.awt.Color">160,160,0</Object>
-        </pref>
         <pref key="word">
             <Object class="java.awt.Color">90,0,0</Object>
+        </pref>
+        <pref key="faulty fixing">
+            <Object class="java.awt.Color">160,160,0</Object>
         </pref>
         <pref key="mandr. trans. by char.">
             <Object class="java.awt.Color">0,90,0</Object>
@@ -160,7 +160,10 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1900</Long>
+        <Long>13226</Long>
+    </pref>
+    <pref key="SignalViewer.VerticalZoomLevel">
+        <Int>2000</Int>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="首字母">
@@ -220,11 +223,11 @@
     </pref>
     <prefList key="InterlinearizationConfigurations"/>
     <prefGroup key="AAM-LR Phone level audio segmentation">
-        <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 光明橋站遘了, 請趁後門落車. 2018 [2020-04-15].wav</String>
-        </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>
+        </pref>
+        <pref key="source_audio">
+            <String>///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/hf万物@QQ. 汝囝生野大去. 2020-04-16.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">
