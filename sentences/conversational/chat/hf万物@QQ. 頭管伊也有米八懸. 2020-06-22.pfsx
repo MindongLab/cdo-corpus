@@ -14,7 +14,7 @@
         <Double>0.13695090439276486</Double>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>422.02307</Float>
+        <Float>672.0231</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -49,14 +49,14 @@
         <Object class="java.awt.Point">-7,-7</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>422.02307</Float>
+        <Float>672.0231</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>2192</Long>
+        <Long>317</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -89,7 +89,7 @@
         <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>2446</Long>
+        <Long>317</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -98,14 +98,14 @@
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="yngping by char.">
-            <Object class="java.awt.Color">0,90,90</Object>
-        </pref>
         <pref key="mandr. trans. by word">
             <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="yngping by char.">
+            <Object class="java.awt.Color">0,90,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -168,10 +168,10 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>2287</Long>
+        <Long>759</Long>
     </pref>
     <pref key="SignalViewer.VerticalZoomLevel">
-        <Int>1000</Int>
+        <Int>3000</Int>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="首字母">
