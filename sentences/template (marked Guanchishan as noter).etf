@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-08-18T16:13:33+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-08-19T15:38:04+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds"/>
     <TIME_ORDER/>
     <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="character"/>
@@ -11,6 +11,8 @@
     <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="word"/>
     <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="yngping"/>
     <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="mandr. trans. by char."/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="sentence"/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="mandr. trans. by sent."/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LOCALE COUNTRY_CODE="CN" LANGUAGE_CODE="zh"/>
     <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>

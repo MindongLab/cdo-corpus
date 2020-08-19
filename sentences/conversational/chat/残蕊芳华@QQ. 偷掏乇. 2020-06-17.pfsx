@@ -56,7 +56,7 @@
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>2116</Long>
+        <Long>55</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -86,10 +86,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>536</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>2116</Long>
+        <Long>55</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="character">
@@ -98,11 +98,11 @@
         <pref key="yngping by char.">
             <Object class="java.awt.Color">0,90,90</Object>
         </pref>
-        <pref key="mandr. trans. by word">
-            <Object class="java.awt.Color">90,0,90</Object>
-        </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="mandr. trans. by word">
+            <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -160,7 +160,7 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>2446</Long>
+        <Long>241</Long>
     </pref>
     <pref key="SignalViewer.VerticalZoomLevel">
         <Int>3000</Int>
@@ -227,7 +227,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/hf万物@QQ. 總款乇印度去. 2020-06-17.wav</String>
+            <String>///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/残蕊芳华@QQ. 偷掏乇. 2020-06-17.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

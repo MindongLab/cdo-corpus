@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1536,814</Object>
+        <Object class="java.awt.Dimension">1550,838</Object>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -46,7 +46,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">-7,-7</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>872.0233</Float>
@@ -92,6 +92,9 @@
         <Long>1589</Long>
     </pref>
     <prefGroup key="TierColors">
+        <pref key="sentence">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
@@ -110,6 +113,9 @@
         <pref key="language">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
+        <pref key="mandr. trans. by sent.">
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
         <pref key="faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
         </pref>
@@ -127,8 +133,10 @@
         <String>yngping</String>
         <String>mandr. trans. by word</String>
         <String>mandr. trans. by char.</String>
+        <String>mandr. trans. by sent.</String>
         <String>character</String>
         <String>word</String>
+        <String>sentence</String>
         <String>language</String>
     </prefList>
     <prefGroup key="TierHighlightColors"/>
@@ -161,6 +169,9 @@
     </pref>
     <pref key="SelectionEndTime">
         <Long>1900</Long>
+    </pref>
+    <pref key="SignalViewer.VerticalZoomLevel">
+        <Int>2000</Int>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="首字母">

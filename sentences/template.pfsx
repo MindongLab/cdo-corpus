@@ -92,6 +92,9 @@
         <Long>1589</Long>
     </pref>
     <prefGroup key="TierColors">
+        <pref key="sentence">
+            <Object class="java.awt.Color">90,90,0</Object>
+        </pref>
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
@@ -106,6 +109,9 @@
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="mandr. trans. by sentence">
+            <Object class="java.awt.Color">160,90,90</Object>
         </pref>
         <pref key="language">
             <Object class="java.awt.Color">0,160,0</Object>
@@ -127,8 +133,10 @@
         <String>yngping</String>
         <String>mandr. trans. by word</String>
         <String>mandr. trans. by char.</String>
+        <String>mandr. trans. by sentence</String>
         <String>character</String>
         <String>word</String>
+        <String>sentence</String>
         <String>language</String>
     </prefList>
     <prefGroup key="TierHighlightColors"/>

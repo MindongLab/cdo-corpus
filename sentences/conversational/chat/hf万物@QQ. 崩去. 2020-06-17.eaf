@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-08-19T15:07:00+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/hf万物@QQ. 崩去. 2020-06-17.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./hf万物@QQ. 崩去. 2020-06-17.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:299789b3-26ac-4d39-bf38-bd0c0ee1f13f</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="89"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="89"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="89"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="89"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="357"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="709"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="709"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="character"/>
+    <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="yngping by char."/>
+    <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="gáu-huôi lò̤-mā-cê"/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="mandr. trans. by word">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>太多</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts11">
+                <ANNOTATION_VALUE>了</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="faulty fixing"/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="en" LANG_REF="zxx" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="language">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>mnhu </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="word">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>崩</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>去</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="yngping">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>bung55</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>oo0</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="mandr. trans. by char."/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="CN" LANGUAGE_CODE="zh"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130974-001" LANG_ID="mul" LANG_LABEL="multiple languages (mul)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130973-001" LANG_ID="zxx" LANG_LABEL="no linguistic content (zxx)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133158-001" LANG_ID="cmn" LANG_LABEL="Mandarin Chinese (cmn)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133082-001" LANG_ID="cdo" LANG_LABEL="Min Dong Chinese (cdo)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
