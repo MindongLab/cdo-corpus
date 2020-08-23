@@ -14,7 +14,7 @@
         <Double>0.13695090439276486</Double>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>1132.0236</Float>
+        <Float>1722.0225</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -49,14 +49,14 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>1132.0236</Float>
+        <Float>1722.0225</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>561</Long>
+        <Long>920</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -86,50 +86,62 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>193</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>561</Long>
+        <Long>987</Long>
     </pref>
     <prefGroup key="TierColors">
-        <pref key="character">
-            <Object class="java.awt.Color">160,0,0</Object>
+        <pref key="sentence">
+            <Object class="java.awt.Color">0,0,90</Object>
         </pref>
-        <pref key="mandr. trans. by word">
-            <Object class="java.awt.Color">90,0,90</Object>
+        <pref key="character">
+            <Object class="java.awt.Color">160,90,90</Object>
         </pref>
         <pref key="yngping">
-            <Object class="java.awt.Color">160,0,90</Object>
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="yngping by char.">
-            <Object class="java.awt.Color">0,90,90</Object>
+            <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="faulty fixing yp.">
+            <Object class="java.awt.Color">160,0,0</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
-            <Object class="java.awt.Color">160,0,160</Object>
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+        <pref key="cmn trans. by char.">
+            <Object class="java.awt.Color">90,160,160</Object>
+        </pref>
+        <pref key="cmn trans. by word">
+            <Object class="java.awt.Color">0,160,90</Object>
         </pref>
         <pref key="language">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="word">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
         <pref key="faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
         </pref>
-        <pref key="word">
-            <Object class="java.awt.Color">90,0,0</Object>
-        </pref>
-        <pref key="mandr. trans. by char.">
-            <Object class="java.awt.Color">0,90,0</Object>
+        <pref key="cmn trans. by sent.">
+            <Object class="java.awt.Color">0,90,160</Object>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
-        <String>gáu-huôi lò̤-mā-cê</String>
-        <String>yngping by char.</String>
-        <String>faulty fixing</String>
-        <String>yngping</String>
-        <String>mandr. trans. by word</String>
-        <String>mandr. trans. by char.</String>
-        <String>character</String>
+        <String>sentence</String>
+        <String>cmn trans. by sent.</String>
         <String>word</String>
+        <String>cmn trans. by word</String>
+        <String>gáu-huôi lò̤-mā-cê</String>
+        <String>yngping</String>
+        <String>faulty fixing yp.</String>
         <String>language</String>
+        <String>faulty fixing</String>
+        <String>character</String>
+        <String>cmn trans. by char.</String>
+        <String>yngping by char.</String>
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
@@ -142,7 +154,7 @@
         </pref>
     </prefGroup>
     <pref key="MultiTierViewer.TierSortingMode">
-        <Int>5</Int>
+        <Int>1</Int>
     </pref>
     <pref key="LayoutManager.SelectedTabIndex">
         <Int>0</Int>
@@ -154,13 +166,13 @@
         <Float>932.0</Float>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
-        <String>character</String>
+        <String>sentence</String>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>80</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>741</Long>
+        <Long>1293</Long>
     </pref>
     <pref key="SignalViewer.VerticalZoomLevel">
         <Int>500</Int>
@@ -214,9 +226,6 @@
     </pref>
     <pref key="MediaControlVolume">
         <Float>1.0</Float>
-    </pref>
-    <pref key="GridViewer.TierName">
-        <String>character</String>
     </pref>
     <pref key="GridViewer.MultiTierMode.Subdivision">
         <Boolean>false</Boolean>
