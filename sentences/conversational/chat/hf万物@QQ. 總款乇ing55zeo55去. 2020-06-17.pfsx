@@ -59,7 +59,7 @@
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>1531</Long>
+        <Long>889</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -89,10 +89,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>127</Long>
+        <Long>240</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1665</Long>
+        <Long>889</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -175,7 +175,7 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1846</Long>
+        <Long>1147</Long>
     </pref>
     <pref key="SignalViewer.VerticalZoomLevel">
         <Int>2000</Int>
