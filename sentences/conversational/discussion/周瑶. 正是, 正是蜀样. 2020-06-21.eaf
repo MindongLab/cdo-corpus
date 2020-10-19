@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-08-19T16:16:09+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-10-19T23:41:14+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/所以暂时将你眼睛闭了起来@QQ. 正是, 正是蜀样. 2020-06-21.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./所以暂时将你眼睛闭了起来@QQ. 正是, 正是蜀样. 2020-06-21.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/周瑶. 正是, 正是蜀样. 2020-06-21.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./周瑶. 正是, 正是蜀样. 2020-06-21.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:6f920961-3289-4a9b-8899-bf7f50d26c10</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>
     </HEADER>
@@ -37,7 +37,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="2020"/>
         <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="2020"/>
     </TIME_ORDER>
-    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="character">
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="周瑶" TIER_ID="character">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts6">
                 <ANNOTATION_VALUE>正</ANNOTATION_VALUE>
@@ -91,7 +91,7 @@
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="word">
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="周瑶" TIER_ID="word">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts13">
                 <ANNOTATION_VALUE>正是 </ANNOTATION_VALUE>
@@ -126,7 +126,7 @@
         </ANNOTATION>
     </TIER>
     <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="mandr. trans. by char."/>
-    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="sentence"/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" PARTICIPANT="周瑶" TIER_ID="sentence"/>
     <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="mandr. trans. by sent."/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
     <LOCALE COUNTRY_CODE="CN" LANGUAGE_CODE="zh"/>
