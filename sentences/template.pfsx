@@ -17,7 +17,7 @@
         <Double>0.13695090439276486</Double>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>872.0233</Float>
+        <Float>212.02309</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -52,7 +52,7 @@
         <Object class="java.awt.Point">0,0</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>872.0233</Float>
+        <Float>212.02309</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
@@ -96,10 +96,7 @@
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
-        <pref key="character">
-            <Object class="java.awt.Color">160,90,90</Object>
+            <Object class="java.awt.Color">0,0,90</Object>
         </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">0,0,160</Object>
@@ -107,29 +104,68 @@
         <pref key="yngping by char.">
             <Object class="java.awt.Color">90,160,0</Object>
         </pref>
-        <pref key="faulty fixing yp.">
-            <Object class="java.awt.Color">160,0,0</Object>
+        <pref key="2word">
+            <Object class="java.awt.Color">0,160,0</Object>
         </pref>
-        <pref key="gáu-huôi lò̤-mā-cê">
-            <Object class="java.awt.Color">0,90,0</Object>
+        <pref key="2character">
+            <Object class="java.awt.Color">160,90,90</Object>
         </pref>
         <pref key="cmn trans. by char.">
             <Object class="java.awt.Color">90,160,160</Object>
         </pref>
-        <pref key="cmn trans. by word">
-            <Object class="java.awt.Color">0,160,90</Object>
+        <pref key="2yngping by char.">
+            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="language">
             <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="2faulty fixing yp.">
+            <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="cmn trans. by sent.">
+            <Object class="java.awt.Color">0,90,160</Object>
+        </pref>
+        <pref key="character">
+            <Object class="java.awt.Color">160,90,90</Object>
+        </pref>
+        <pref key="2yngping">
+            <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="faulty fixing yp.">
+            <Object class="java.awt.Color">160,0,0</Object>
+        </pref>
+        <pref key="2sentence">
+            <Object class="java.awt.Color">0,0,90</Object>
+        </pref>
+        <pref key="2cmn trans. by word">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+        <pref key="gáu-huôi lò̤-mā-cê">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+        <pref key="2gáu-huôi lò̤-mā-cê">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+        <pref key="2cmn trans. by sent.">
+            <Object class="java.awt.Color">0,90,160</Object>
+        </pref>
+        <pref key="cmn trans. by word">
+            <Object class="java.awt.Color">0,160,90</Object>
+        </pref>
+        <pref key="2faulty fixing">
+            <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="2language">
+            <Object class="java.awt.Color">90,160,90</Object>
+        </pref>
+        <pref key="2cmn trans. by char.">
+            <Object class="java.awt.Color">90,160,160</Object>
         </pref>
         <pref key="word">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
         <pref key="faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
-        </pref>
-        <pref key="cmn trans. by sent.">
-            <Object class="java.awt.Color">0,90,160</Object>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
@@ -145,6 +181,20 @@
         <String>yngping by char.</String>
         <String>cmn trans. by char.</String>
         <String>language</String>
+        <String>language by sentence</String>
+        <String>2sentence</String>
+        <String>2cmn trans. by sent.</String>
+        <String>2word</String>
+        <String>2cmn trans. by word</String>
+        <String>2gáu-huôi lò̤-mā-cê</String>
+        <String>2yngping</String>
+        <String>2faulty fixing yp.</String>
+        <String>2language</String>
+        <String>2faulty fixing</String>
+        <String>2character</String>
+        <String>2cmn trans. by char.</String>
+        <String>2yngping by char.</String>
+        <String>2language by sentence</String>
     </prefList>
     <prefGroup key="TierHighlightColors"/>
     <pref key="LayoutManager.SplitPaneDividerLocation">
@@ -176,6 +226,9 @@
     </pref>
     <pref key="SelectionEndTime">
         <Long>1900</Long>
+    </pref>
+    <pref key="SignalViewer.VerticalZoomLevel">
+        <Int>300</Int>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="首字母">
