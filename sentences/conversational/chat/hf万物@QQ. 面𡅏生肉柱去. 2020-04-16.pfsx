@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1536,814</Object>
+        <Object class="java.awt.Dimension">1550,838</Object>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -46,7 +46,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">-7,-7</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>1322.0232</Float>
@@ -56,7 +56,7 @@
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>1172</Long>
+        <Long>895</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -86,10 +86,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>846</Long>
+        <Long>277</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>1209</Long>
+        <Long>2784</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -172,7 +172,7 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1569</Long>
+        <Long>1172</Long>
     </pref>
     <pref key="SignalViewer.VerticalZoomLevel">
         <Int>500</Int>

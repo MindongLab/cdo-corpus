@@ -89,23 +89,26 @@
         <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>355</Long>
+        <Long>425</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="yngping by char.">
-            <Object class="java.awt.Color">0,90,90</Object>
-        </pref>
-        <pref key="mandr. trans. by word">
-            <Object class="java.awt.Color">90,0,90</Object>
-        </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">160,0,90</Object>
         </pref>
+        <pref key="yngping by char.">
+            <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
+        </pref>
+        <pref key="cmn trans. by char.">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+        <pref key="cmn trans. by word">
+            <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="language">
             <Object class="java.awt.Color">0,160,0</Object>
@@ -116,17 +119,14 @@
         <pref key="word">
             <Object class="java.awt.Color">90,0,0</Object>
         </pref>
-        <pref key="mandr. trans. by char.">
-            <Object class="java.awt.Color">0,90,0</Object>
-        </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
         <String>gáu-huôi lò̤-mā-cê</String>
         <String>yngping by char.</String>
         <String>faulty fixing</String>
         <String>yngping</String>
-        <String>mandr. trans. by word</String>
-        <String>mandr. trans. by char.</String>
+        <String>cmn trans. by word</String>
+        <String>cmn trans. by char.</String>
         <String>character</String>
         <String>word</String>
         <String>language</String>
@@ -160,7 +160,7 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>612</Long>
+        <Long>473</Long>
     </pref>
     <pref key="SignalViewer.VerticalZoomLevel">
         <Int>3000</Int>

@@ -89,7 +89,7 @@
         <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>149</Long>
+        <Long>886</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -119,11 +119,11 @@
         <pref key="language">
             <Object class="java.awt.Color">90,160,90</Object>
         </pref>
-        <pref key="word">
-            <Object class="java.awt.Color">0,160,0</Object>
-        </pref>
         <pref key="faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="word">
+            <Object class="java.awt.Color">0,160,0</Object>
         </pref>
         <pref key="cmn trans. by sent.">
             <Object class="java.awt.Color">0,90,160</Object>

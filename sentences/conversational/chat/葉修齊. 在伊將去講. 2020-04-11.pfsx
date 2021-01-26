@@ -89,10 +89,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>19</Long>
+        <Long>365</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>359</Long>
+        <Long>844</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -175,7 +175,7 @@
         <Int>50</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1066</Long>
+        <Long>1756</Long>
     </pref>
     <pref key="SignalViewer.VerticalZoomLevel">
         <Int>2000</Int>

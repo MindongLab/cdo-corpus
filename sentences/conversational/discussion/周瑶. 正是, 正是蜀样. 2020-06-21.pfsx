@@ -56,7 +56,7 @@
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>374</Long>
+        <Long>1489</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -86,10 +86,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>1573</Long>
+        <Long>76</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>2325</Long>
+        <Long>336</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -104,17 +104,17 @@
         <pref key="yngping">
             <Object class="java.awt.Color">160,0,90</Object>
         </pref>
-        <pref key="mandr. trans. by word">
-            <Object class="java.awt.Color">90,0,90</Object>
-        </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
         </pref>
+        <pref key="cmn trans. by char.">
+            <Object class="java.awt.Color">0,90,0</Object>
+        </pref>
+        <pref key="cmn trans. by word">
+            <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
         <pref key="language">
             <Object class="java.awt.Color">0,160,0</Object>
-        </pref>
-        <pref key="mandr. trans. by sent.">
-            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
@@ -122,8 +122,8 @@
         <pref key="word">
             <Object class="java.awt.Color">90,0,0</Object>
         </pref>
-        <pref key="mandr. trans. by char.">
-            <Object class="java.awt.Color">0,90,0</Object>
+        <pref key="cmn trans. by sent.">
+            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.TierOrder">
@@ -131,9 +131,9 @@
         <String>yngping by char.</String>
         <String>faulty fixing</String>
         <String>yngping</String>
-        <String>mandr. trans. by word</String>
-        <String>mandr. trans. by char.</String>
-        <String>mandr. trans. by sent.</String>
+        <String>cmn trans. by word</String>
+        <String>cmn trans. by char.</String>
+        <String>cmn trans. by sent.</String>
         <String>character</String>
         <String>word</String>
         <String>sentence</String>

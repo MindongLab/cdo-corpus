@@ -107,10 +107,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>6867</Long>
+        <Long>516</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>8589</Long>
+        <Long>9074</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -181,6 +181,9 @@
     </pref>
     <pref key="SegmentationViewer.ZoomLevel">
         <Float>932.0</Float>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>sentence</String>
     </pref>
     <prefGroup key="TranscriptionTable.ColumnOrder">
         <pref key="1">

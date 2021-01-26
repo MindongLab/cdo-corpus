@@ -86,7 +86,7 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>873</Long>
+        <Long>291</Long>
     </pref>
     <pref key="MediaTime">
         <Long>1816</Long>
@@ -119,11 +119,11 @@
         <pref key="language">
             <Object class="java.awt.Color">90,160,90</Object>
         </pref>
-        <pref key="word">
-            <Object class="java.awt.Color">0,160,0</Object>
-        </pref>
         <pref key="faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="word">
+            <Object class="java.awt.Color">0,160,0</Object>
         </pref>
         <pref key="cmn trans. by sent.">
             <Object class="java.awt.Color">0,90,160</Object>

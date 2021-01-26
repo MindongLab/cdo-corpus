@@ -89,7 +89,7 @@
         <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>268</Long>
+        <Long>115</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -164,6 +164,9 @@
     </pref>
     <pref key="SegmentationViewer.ZoomLevel">
         <Float>932.0</Float>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>sentence</String>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>157</Int>

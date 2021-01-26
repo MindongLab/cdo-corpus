@@ -89,10 +89,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>240</Long>
+        <Long>146</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>889</Long>
+        <Long>2039</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -101,11 +101,11 @@
         <pref key="character">
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
-        <pref key="yngping by char.">
-            <Object class="java.awt.Color">90,160,0</Object>
-        </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="yngping by char.">
+            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="faulty fixing yp.">
             <Object class="java.awt.Color">160,0,0</Object>

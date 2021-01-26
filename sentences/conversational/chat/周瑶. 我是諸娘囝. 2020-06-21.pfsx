@@ -86,7 +86,7 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>1574</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
         <Long>3032</Long>

@@ -98,11 +98,11 @@
         <pref key="character">
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
-        <pref key="yngping">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
         <pref key="yngping by char.">
             <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="yngping">
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="faulty fixing yp.">
             <Object class="java.awt.Color">160,0,0</Object>
@@ -164,6 +164,9 @@
     </pref>
     <pref key="SegmentationViewer.ZoomLevel">
         <Float>932.0</Float>
+    </pref>
+    <pref key="MultiTierViewer.ActiveTierName">
+        <String>sentence</String>
     </pref>
     <pref key="LayoutManager.MediaAreaHeight">
         <Int>164</Int>

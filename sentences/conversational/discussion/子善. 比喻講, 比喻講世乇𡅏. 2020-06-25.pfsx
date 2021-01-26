@@ -86,7 +86,7 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>2342</Long>
     </pref>
     <pref key="MediaTime">
         <Long>3688</Long>
@@ -98,14 +98,14 @@
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="mandr. trans. by word">
-            <Object class="java.awt.Color">90,0,90</Object>
+        <pref key="yngping by char.">
+            <Object class="java.awt.Color">0,90,90</Object>
         </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">160,0,90</Object>
         </pref>
-        <pref key="yngping by char.">
-            <Object class="java.awt.Color">0,90,90</Object>
+        <pref key="mandr. trans. by word">
+            <Object class="java.awt.Color">90,0,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>

@@ -89,10 +89,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>1114</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>3669</Long>
+        <Long>1224</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
