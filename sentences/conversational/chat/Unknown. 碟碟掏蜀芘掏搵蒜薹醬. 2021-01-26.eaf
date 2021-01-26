@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2021-01-27T03:47:12+08:00"
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2021-01-27T04:02:08+08:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/fzho. Unknown. 碟碟掏蜀芘掏搵蒜薹醬. 2021-01-26.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./fzho. Unknown. 碟碟掏蜀芘掏搵蒜薹醬. 2021-01-26.wav"/>
+            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/Unknown. 碟碟掏蜀芘掏搵蒜薹醬. 2021-01-26.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Unknown. 碟碟掏蜀芘掏搵蒜薹醬. 2021-01-26.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:b4d45a2a-17f1-4313-98af-336ad328452e</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">28</PROPERTY>
     </HEADER>
