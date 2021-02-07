@@ -17,7 +17,7 @@
         <Double>0.13695090439276486</Double>
     </pref>
     <pref key="SignalViewer.ZoomLevel">
-        <Float>31.0</Float>
+        <Float>81.00001</Float>
     </pref>
     <pref key="LayoutManager.CurrentMode">
         <Int>1</Int>
@@ -52,14 +52,14 @@
         <Object class="java.awt.Point">-7,-7</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
-        <Float>31.0</Float>
+        <Float>81.00001</Float>
     </pref>
     <prefList key="TranscriptionTable.NonEditableTiers"/>
     <prefList key="TranscriptionTable.ColumnTypes">
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>530480</Long>
+        <Long>362926</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -89,10 +89,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>349193</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>532001</Long>
+        <Long>388604</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -101,11 +101,11 @@
         <pref key="character">
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
-        <pref key="yngping">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
         <pref key="yngping by char.">
             <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="yngping">
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="faulty fixing yp.">
             <Object class="java.awt.Color">160,0,0</Object>
@@ -176,7 +176,7 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>532665</Long>
+        <Long>368242</Long>
     </pref>
     <pref key="SignalViewer.VerticalZoomLevel">
         <Int>300</Int>
