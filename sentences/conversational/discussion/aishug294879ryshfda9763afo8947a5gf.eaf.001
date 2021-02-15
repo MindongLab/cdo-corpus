@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2021-02-15T14:41:30+08:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/Unknown. 汝講話就是佮氣氛去講世乇講正是者. 2021-01-26.wav" MIME_TYPE="audio/x-wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:09c23bb6-65ff-4171-b047-ec7b3a2b9552</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1674"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2131"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2311"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2311"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="2726"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="2730"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="2961"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="3348"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="3466"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="3659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="3659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="3663"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="3663"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="3972"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="3975"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="4429"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="default" TIER_ID="sentence">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>汝講話着敆氣氛</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>講世乇講□□都是</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="sentence" TIER_ID="cmn trans. by sent.">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>人講話要處於特定的氣氛裏頭</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="included-in" PARENT_REF="sentence" TIER_ID="word">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>講</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>世乇</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>講</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts10" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>都是</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="cmn trans. by word"/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="word" TIER_ID="gáu-huôi lò̤-mā-cê"/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="word" TIER_ID="yngping"/>
+    <TIER LANG_REF="zxx" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="word" TIER_ID="language"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="faulty fixing"/>
+    <TIER LANG_REF="mul" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="yngping" TIER_ID="faulty fixing yp."/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="included-in" PARENT_REF="word" TIER_ID="character"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="character" TIER_ID="cmn trans. by char."/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="character" TIER_ID="yngping by char."/>
+    <TIER DEFAULT_LOCALE="zh" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="sentence" TIER_ID="language by sentence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a3" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="default" TIER_ID="3sentence">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+                TIME_SLOT_REF1="ts16" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>摭</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="3sentence" TIER_ID="3cmn trans. by sent.">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>喏</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="included-in" PARENT_REF="3sentence" TIER_ID="3word"/>
+    <TIER DEFAULT_LOCALE="zh" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="3sentence" TIER_ID="3language by sentence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="3word" TIER_ID="3cmn trans. by word"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cdo"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="3word" TIER_ID="3gáu-huôi lò̤-mā-cê"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cdo"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="3word" TIER_ID="3yngping"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="zxx"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="3word" TIER_ID="3language"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="3word" TIER_ID="3faulty fixing"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="included-in" PARENT_REF="3word" TIER_ID="3character"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="3yngping" TIER_ID="3faulty fixing yp."/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="3character" TIER_ID="3cmn trans. by char."/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cdo"
+        LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="3character" TIER_ID="3yngping by char."/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="default" PARTICIPANT="关彳山" TIER_ID="2sentence">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>嗯</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
+                TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts17">
+                <ANNOTATION_VALUE>正是</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="2sentence" TIER_ID="2cmn trans. by sent."/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="included-in" PARENT_REF="2sentence" TIER_ID="2word"/>
+    <TIER DEFAULT_LOCALE="zh" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="2sentence" TIER_ID="2language by sentence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a15" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="2word" TIER_ID="2cmn trans. by word"/>
+    <TIER DEFAULT_LOCALE="en" LANG_REF="cdo"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="2word" TIER_ID="2gáu-huôi lò̤-mā-cê"/>
+    <TIER DEFAULT_LOCALE="en" LANG_REF="cdo"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="2word" TIER_ID="2yngping"/>
+    <TIER DEFAULT_LOCALE="en" LANG_REF="zxx"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="2word" TIER_ID="2language"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="2word" TIER_ID="2faulty fixing"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="included-in" PARENT_REF="2word" TIER_ID="2character"/>
+    <TIER DEFAULT_LOCALE="en" LANG_REF="mul"
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="2yngping" TIER_ID="2faulty fixing yp."/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
+        LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="2character" TIER_ID="2cmn trans. by char."/>
+    <TIER DEFAULT_LOCALE="en" LANG_REF="cdo"
+        LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="2character" TIER_ID="2yngping by char."/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="time-subdivision" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="included-in" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="symbolic-subdivision" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="symbolic-association" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="CN" LANGUAGE_CODE="zh"/>
+    <LOCALE LANGUAGE_CODE="en"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130974-001"
+        LANG_ID="mul" LANG_LABEL="multiple languages (mul)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130973-001"
+        LANG_ID="zxx" LANG_LABEL="no linguistic content (zxx)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133158-001"
+        LANG_ID="cmn" LANG_LABEL="Mandarin Chinese (cmn)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133082-001"
+        LANG_ID="cdo" LANG_LABEL="Min Dong Chinese (cdo)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
