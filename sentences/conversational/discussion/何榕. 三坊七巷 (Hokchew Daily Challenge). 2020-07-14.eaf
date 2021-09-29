@@ -1,95 +1,90 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2021-09-30T01:11:33+08:00"
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-30T01:48:42+08:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/蘇正堯. 臒眯眯去. 2020-09-14.wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./蘇正堯. 臒眯眯去. 2020-09-14.wav"/>
-        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:558466f6-0ebd-4945-af93-34a140459c15</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>
+            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/何榕. 三坊七巷 (Hokchew Daily Challenge). 2020-07-14.wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./何榕. 三坊七巷 (Hokchew Daily Challenge). 2020-07-14.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a5c76ed8-18cf-4db3-96c8-770907aaa524</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">13</PROPERTY>
     </HEADER>
     <TIME_ORDER>
-        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="29"/>
-        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="29"/>
-        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="29"/>
-        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="286"/>
-        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="286"/>
-        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="286"/>
-        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="286"/>
-        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="509"/>
-        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="509"/>
-        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="722"/>
-        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="722"/>
-        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="722"/>
-        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="722"/>
-        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="977"/>
-        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="977"/>
-        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="1596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1596"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="2243"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2243"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2243"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="2363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="2363"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="2631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="2631"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="7636"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul"
-        LINGUISTIC_TYPE_REF="default" TIER_ID="sentence">
+        LINGUISTIC_TYPE_REF="default" PARTICIPANT="何榕" TIER_ID="sentence">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
-                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts14">
-                <ANNOTATION_VALUE>臒眯眯去</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>遘福州許蜀日 三坊七巷&#x2114f; 正好有蜀場活動</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
-        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="sentence" TIER_ID="cmn trans. by sent."/>
+        LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="sentence" TIER_ID="cmn trans. by sent.">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>到达福州的那一天 三坊七巷里边 正好有一场分享会</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
         LINGUISTIC_TYPE_REF="included-in" PARENT_REF="sentence" TIER_ID="word">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
-                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
-                <ANNOTATION_VALUE>臒</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
-                TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts10">
-                <ANNOTATION_VALUE>眯眯</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>遘</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
-                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts15">
-                <ANNOTATION_VALUE>去</ANNOTATION_VALUE>
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>福州</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
         LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="cmn trans. by word">
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a2">
-                <ANNOTATION_VALUE>乖乖</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a5" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>到</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>睡覺覺</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>福州</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
         PARENT_REF="word" TIER_ID="gáu-huôi lò̤-mā-cê"/>
     <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
-        PARENT_REF="word" TIER_ID="yngping"/>
+        PARENT_REF="word" TIER_ID="yngping">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>gau213</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER LANG_REF="zxx" LINGUISTIC_TYPE_REF="symbolic-association"
         PARENT_REF="word" TIER_ID="language">
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a2">
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a3">
                 <ANNOTATION_VALUE>mnhu</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a3">
-                <ANNOTATION_VALUE>mnhu</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a4">
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a4">
                 <ANNOTATION_VALUE>mnhu</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
@@ -101,51 +96,34 @@
     <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
         LINGUISTIC_TYPE_REF="included-in" PARENT_REF="word" TIER_ID="character">
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14"
-                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts7">
-                <ANNOTATION_VALUE>臒</ANNOTATION_VALUE>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>福</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10"
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a9"
                 TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts9">
-                <ANNOTATION_VALUE>眯</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11"
-                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts12">
-                <ANNOTATION_VALUE>眯</ANNOTATION_VALUE>
-            </ALIGNABLE_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15"
-                TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts16">
-                <ANNOTATION_VALUE>去</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>州</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
     </TIER>
     <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
         LINGUISTIC_TYPE_REF="symbolic-association"
-        PARENT_REF="character" TIER_ID="cmn trans. by char.">
+        PARENT_REF="character" TIER_ID="cmn trans. by char."/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
+        PARENT_REF="character" TIER_ID="yngping by char.">
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a16" ANNOTATION_REF="a14">
-                <ANNOTATION_VALUE>乖乖</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a8">
+                <ANNOTATION_VALUE>huk21</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a10">
-                <ANNOTATION_VALUE>睡</ANNOTATION_VALUE>
-            </REF_ANNOTATION>
-        </ANNOTATION>
-        <ANNOTATION>
-            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a11">
-                <ANNOTATION_VALUE>睡</ANNOTATION_VALUE>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a9">
+                <ANNOTATION_VALUE>ziu55</ANNOTATION_VALUE>
             </REF_ANNOTATION>
         </ANNOTATION>
     </TIER>
-    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
-        PARENT_REF="character" TIER_ID="yngping by char."/>
     <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
         LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
     <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"

@@ -46,7 +46,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,50</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>872.0233</Float>
@@ -227,7 +227,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/子善. 無賺是讀張. 2020-06-21.wav</String>
+            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/子善. 無賺是讀張. 2020-06-21.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

@@ -46,7 +46,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,50</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>352.02252</Float>
@@ -95,11 +95,11 @@
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="yngping by char.">
-            <Object class="java.awt.Color">0,90,90</Object>
-        </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">160,0,90</Object>
+        </pref>
+        <pref key="yngping by char.">
+            <Object class="java.awt.Color">0,90,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -220,7 +220,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/方剑伟 (31). 不就号链铙嘛. 2020-08-15.wav</String>
+            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/方剑伟 (31). 不就号链铙嘛. 2020-08-15.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

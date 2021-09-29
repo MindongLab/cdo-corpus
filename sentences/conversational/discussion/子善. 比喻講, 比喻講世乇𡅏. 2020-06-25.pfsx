@@ -46,7 +46,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,50</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>872.0233</Float>
@@ -98,14 +98,14 @@
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="yngping by char.">
-            <Object class="java.awt.Color">0,90,90</Object>
-        </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">160,0,90</Object>
         </pref>
         <pref key="mandr. trans. by word">
             <Object class="java.awt.Color">90,0,90</Object>
+        </pref>
+        <pref key="yngping by char.">
+            <Object class="java.awt.Color">0,90,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -116,11 +116,11 @@
         <pref key="mandr. trans. by sent.">
             <Object class="java.awt.Color">90,160,0</Object>
         </pref>
-        <pref key="word">
-            <Object class="java.awt.Color">90,0,0</Object>
-        </pref>
         <pref key="faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="word">
+            <Object class="java.awt.Color">90,0,0</Object>
         </pref>
         <pref key="mandr. trans. by char.">
             <Object class="java.awt.Color">0,90,0</Object>
@@ -235,7 +235,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/子善. 比喻講, 比喻講世乇&#x2114f;. 2020-06-25.wav</String>
+            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/子善. 比喻講, 比喻講世乇&#x2114f;. 2020-06-25.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

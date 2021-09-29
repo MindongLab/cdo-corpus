@@ -46,7 +46,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,50</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>872.0233</Float>
@@ -56,7 +56,7 @@
         <String>default-lt</String>
     </prefList>
     <pref key="SelectionBeginTime">
-        <Long>1025</Long>
+        <Long>630</Long>
     </pref>
     <pref key="DetachedEditor.Bounds">
         <Object class="java.awt.Rectangle">618,282,300,300</Object>
@@ -86,10 +86,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>40</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>553</Long>
+        <Long>630</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -98,11 +98,11 @@
         <pref key="character">
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
-        <pref key="yngping by char.">
-            <Object class="java.awt.Color">90,160,0</Object>
-        </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="yngping by char.">
+            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="faulty fixing yp.">
             <Object class="java.awt.Color">160,0,0</Object>
@@ -172,7 +172,7 @@
         <Int>164</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>1451</Long>
+        <Long>1025</Long>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="首字母">
@@ -233,7 +233,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/蘇正堯. 提頭呻. 2020-04-16.wav</String>
+            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/chat/蘇正堯. 提頭呻. 2020-04-16.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

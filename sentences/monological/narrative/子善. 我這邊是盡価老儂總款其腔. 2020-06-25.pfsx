@@ -46,7 +46,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,50</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>872.0233</Float>
@@ -86,7 +86,7 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>2007</Long>
     </pref>
     <pref key="MediaTime">
         <Long>3563</Long>
@@ -116,11 +116,11 @@
         <pref key="language">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
-        <pref key="word">
-            <Object class="java.awt.Color">90,0,0</Object>
-        </pref>
         <pref key="faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="word">
+            <Object class="java.awt.Color">90,0,0</Object>
         </pref>
         <pref key="cmn trans. by sent.">
             <Object class="java.awt.Color">90,160,0</Object>
@@ -235,7 +235,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/narrative/子善. 我這邊是盡価老儂總款其腔. 2020-06-25.wav</String>
+            <String>E:/Documents/Git/cdo-corpus/sentences/monological/narrative/子善. 我這邊是盡価老儂總款其腔. 2020-06-25.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

@@ -76,7 +76,7 @@
         <String>AAM-LR Phone level audio segmentation</String>
     </pref>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,50</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>409.99994</Float>
@@ -89,12 +89,12 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/方剑伟 (31). 赠桨解读. 2020-08-24.wav</String>
+            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/方剑伟 (31). 赠桨解读. 2020-08-24.wav</String>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>
     <pref key="TimeScaleBeginTime">
-        <Long>2548</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
         <Long>2689</Long>

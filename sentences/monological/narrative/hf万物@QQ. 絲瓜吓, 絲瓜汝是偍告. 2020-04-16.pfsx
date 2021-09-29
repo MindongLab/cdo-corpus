@@ -46,7 +46,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,50</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>762.0231</Float>
@@ -86,7 +86,7 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>2408</Long>
+        <Long>2965</Long>
     </pref>
     <pref key="MediaTime">
         <Long>9452</Long>
@@ -95,11 +95,11 @@
         <pref key="character">
             <Object class="java.awt.Color">160,0,0</Object>
         </pref>
-        <pref key="yngping">
-            <Object class="java.awt.Color">160,0,90</Object>
-        </pref>
         <pref key="yngping by char.">
             <Object class="java.awt.Color">0,90,90</Object>
+        </pref>
+        <pref key="yngping">
+            <Object class="java.awt.Color">160,0,90</Object>
         </pref>
         <pref key="gáu-huôi lò̤-mā-cê">
             <Object class="java.awt.Color">160,0,160</Object>
@@ -227,7 +227,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/narrative/hf万物@QQ. 絲瓜吓, 絲瓜汝是偍告. 2020-04-16.wav</String>
+            <String>E:/Documents/Git/cdo-corpus/sentences/monological/narrative/hf万物@QQ. 絲瓜吓, 絲瓜汝是偍告. 2020-04-16.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

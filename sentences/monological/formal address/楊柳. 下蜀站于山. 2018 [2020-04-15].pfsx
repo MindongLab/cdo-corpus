@@ -58,7 +58,7 @@
         </pref>
     </prefGroup>
     <pref key="FrameLocation">
-        <Object class="java.awt.Point">0,0</Object>
+        <Object class="java.awt.Point">0,50</Object>
     </pref>
     <pref key="TimeLineViewer.ZoomLevel">
         <Float>935.4831</Float>
@@ -107,7 +107,7 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>516</Long>
+        <Long>0</Long>
     </pref>
     <pref key="MediaTime">
         <Long>9074</Long>
@@ -119,11 +119,11 @@
         <pref key="character">
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
-        <pref key="yngping by char.">
-            <Object class="java.awt.Color">90,160,0</Object>
-        </pref>
         <pref key="yngping">
             <Object class="java.awt.Color">0,0,160</Object>
+        </pref>
+        <pref key="yngping by char.">
+            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="faulty fixing yp.">
             <Object class="java.awt.Color">160,0,0</Object>
@@ -258,7 +258,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 下蜀站于山. 2018 [2020-04-15].wav</String>
+            <String>E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 下蜀站于山. 2018 [2020-04-15].wav</String>
         </pref>
     </prefGroup>
     <pref key="TranscriptionTable.LastActiveColumn">
