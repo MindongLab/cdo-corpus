@@ -113,11 +113,11 @@
         <pref key="2word">
             <Object class="java.awt.Color">0,160,0</Object>
         </pref>
-        <pref key="2yngping by char.">
-            <Object class="java.awt.Color">90,160,0</Object>
-        </pref>
         <pref key="cmn trans. by char.">
             <Object class="java.awt.Color">90,160,160</Object>
+        </pref>
+        <pref key="2yngping by char.">
+            <Object class="java.awt.Color">90,160,0</Object>
         </pref>
         <pref key="language">
             <Object class="java.awt.Color">90,160,90</Object>
@@ -152,11 +152,11 @@
         <pref key="2cmn trans. by sent.">
             <Object class="java.awt.Color">0,90,160</Object>
         </pref>
-        <pref key="cmn trans. by word">
-            <Object class="java.awt.Color">0,160,90</Object>
-        </pref>
         <pref key="2faulty fixing">
             <Object class="java.awt.Color">160,160,0</Object>
+        </pref>
+        <pref key="cmn trans. by word">
+            <Object class="java.awt.Color">0,160,90</Object>
         </pref>
         <pref key="2language">
             <Object class="java.awt.Color">90,160,90</Object>
