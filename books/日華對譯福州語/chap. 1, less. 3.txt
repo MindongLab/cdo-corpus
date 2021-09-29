@@ -1,8 +1,0 @@
-{{Header|title=日華對譯福州話|section=第一編第三課　鼻音|author=北原癸已男| author2  = 陳戊壬| author3  = 松田福信|notimes=日本帝國|y=1940|m=|previous=[[日華對譯福州話/第一編第二課|第一編第二課　轉聲]]|next=[[日華對譯福州話/第一編第四課|第一編第四課　出氣音ト非出氣音]]|type=辭典|from=|notes=}}
-鼻音ハ口腔ト鼻腔ノ協同作用ニ依ツテ始メテ發シ得ル音聲デアル
-{| class="wikitable"
-|-
-| 種別 || 上平 || 上聲 || 上去 || 上入 || 下平 || 上聲 || 下去 || 下入
-|-
-| 常音符號 || <center><big>'''ᵇ'''</big></center> ||<center><big>''''''</big></center>||<center><big>''''''</big></center>||<center><big>''''''</big></center>||<center><big>''''''</big></center>||<center><big>''''''</big></center>||<center><big>''''''</big></center>||<center><big>''''''</big></center>
-|}

@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-11-17T15:48:23+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/essay/福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aa6fa27a-40ba-432c-a35c-f43eefdbd8a6</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">87</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="362926"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="368242"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="369127"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="370307"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="370767"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="373053"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="373432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="377422"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="377957"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="382001"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="382464"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="385276"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="385679"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="388883"/>
+        <TIME_SLOT TIME_SLOT_ID="ts15" TIME_VALUE="389026"/>
+        <TIME_SLOT TIME_SLOT_ID="ts16" TIME_VALUE="389981"/>
+        <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="390882"/>
+        <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="391222"/>
+        <TIME_SLOT TIME_SLOT_ID="ts19" TIME_VALUE="391565"/>
+        <TIME_SLOT TIME_SLOT_ID="ts20" TIME_VALUE="395029"/>
+        <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="395399"/>
+        <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="401991"/>
+        <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="402711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="403139"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="403397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="409854"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="410659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="411214"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="411534"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="417426"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="417977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="425030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="425849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="426390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="426584"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="430680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="431528"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="432042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="432346"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="439151"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="439198"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="447033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="447579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="447893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="447942"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="460698"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="460856"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="464988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="465489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="466003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="466017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="474098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="474513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="480692"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="481094"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="481522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="481956"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="483248"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="483590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="490872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="490939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="495798"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="496694"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="497197"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="497412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="500435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="500874"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="506484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="507088"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="507540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="507890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="509432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="509554"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="521154"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="521231"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="525292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="525667"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="530176"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="530480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="532665"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default" TIER_ID="sentence">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>福州市新型冠狀病毒感染肺炎防控工作一線指揮部公告</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>各位市民朋友</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>一月廿四號暝晡十點三十二分</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>福建省啟動重大突發公共衛生事件一級響應</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a10" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>福州市第一時間認真落實一級響應各項部署</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a11" TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts12">
+                <ANNOTATION_VALUE>為確保廣大人民群眾其健康安全</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a12" TIME_SLOT_REF1="ts13" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>現時根據一級應急響應有關要求</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a13" TIME_SLOT_REF1="ts15" TIME_SLOT_REF2="ts16">
+                <ANNOTATION_VALUE>公告如下</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a14" TIME_SLOT_REF1="ts17" TIME_SLOT_REF2="ts18">
+                <ANNOTATION_VALUE>一</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a15" TIME_SLOT_REF1="ts19" TIME_SLOT_REF2="ts20">
+                <ANNOTATION_VALUE>全市停止舉辦各類大型公眾聚集性活動</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a16" TIME_SLOT_REF1="ts21" TIME_SLOT_REF2="ts22">
+                <ANNOTATION_VALUE>包括 演唱會 音樂會 體育賽事 民俗活動 展覽等 群體性活動</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17" TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                <ANNOTATION_VALUE>二</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18" TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>全市工廠 工地 對湖北武漢重點疫情區域其工作人員 推遲復工</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22" TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                <ANNOTATION_VALUE>三</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23" TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                <ANNOTATION_VALUE>圖書館 博物館 公園 景區等 全部公共活動場所 暫時關閉</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24" TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                <ANNOTATION_VALUE>網吧 KTV 桑拿 夜總會 遊輪等 人員密集型服務場所 全部暫時關停</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25" TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                <ANNOTATION_VALUE>四</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26" TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                <ANNOTATION_VALUE>各類學校活動 共線下培訓活動 全面停止</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27" TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                <ANNOTATION_VALUE>五</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28" TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                <ANNOTATION_VALUE>近期由武漢等重點地區 返榕 來榕人員 以及共伊密切接觸人員</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31" TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                <ANNOTATION_VALUE>着主動向社區報告健康情況 接受健康管理 並且避免遘人流密集場所</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32" TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                <ANNOTATION_VALUE>六</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33" TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                <ANNOTATION_VALUE>所有需要接受隔離治療 醫學觀察措施其病儂 疑似病儂 共密切接觸者 必須配合衛生健康部門 或且有關機構 採取醫學隔離措施</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34" TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                <ANNOTATION_VALUE>拒絕配合其 由公安機關依法強制隔離</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35" TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                <ANNOTATION_VALUE>七</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39" TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                <ANNOTATION_VALUE>着疫情存續期 市民應該當做好個人防護 減少探親訪友 共遘儂価地方</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40" TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                <ANNOTATION_VALUE>着公共場所着戴口罩 避免去已經有疫情其地區旅遊共居住</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41" TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                <ANNOTATION_VALUE>八</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42" TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                <ANNOTATION_VALUE>實施交通檢疫</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43" TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                <ANNOTATION_VALUE>着車站 機場 碼頭等重點場所 設置體溫檢測設施設備 進行體溫檢測</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47" TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                <ANNOTATION_VALUE>並且加強通風消毒 出入人員必須配合檢測體溫</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48" TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                <ANNOTATION_VALUE>九</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49" TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                <ANNOTATION_VALUE>嚴厲打擊野生動物非法販運 交易</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50" TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                <ANNOTATION_VALUE>加強農貿市場環境衛生整治 落實通風 消毒等措施</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51" TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                <ANNOTATION_VALUE>十</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52" TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                <ANNOTATION_VALUE>着疫情存續期</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53" TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                <ANNOTATION_VALUE>凡是散布謠言 哄擡物價 欺騙消費者 擾亂社會秩序共市場秩序其 由公安機關 或且市場監管部門 依法乞予行政處罰</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57" TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                <ANNOTATION_VALUE>構成犯罪其 依法追究刑事責任</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58" TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                <ANNOTATION_VALUE>福州市新型冠狀病毒感染肺炎防控工作一線指揮部</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59" TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                <ANNOTATION_VALUE>二環二環年一月廿五號</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="sentence" TIER_ID="cmn trans. by sent.">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>一月二十四日晚十點三十二分</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a19" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>為確保廣大人民群眾的健康安全</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a20" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>現根據一級應急響應有關要求</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a21" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE></ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a29" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>各類學校活動 和線下培訓活動 全面停止</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a30" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>近期從武漢等重點地區 返榕 來榕人員 及其密切接觸人員</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a36" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>要主動向社區報告健康情況 接受健康管理 並避免到人流密集場所</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a37" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>所有需要接受隔離治療 醫學觀察措施的病人 疑似病人 和密切接觸者 必須配合衛生健康部門 或有關機構 採取醫學隔離措施</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a38" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>拒絕配合的 由公安機關依法強制隔離</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a44" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>在疫情存續期 市民應做好個人防護 減少探親訪友 和到人多的地方</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a45" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>到公共場所要戴口罩 避免去已有疫情的地區旅遊和居住</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a46" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>在車站 機場 碼頭等重點場所 設置體溫檢測設施設備 進行體溫檢測</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a54" ANNOTATION_REF="a47">
+                <ANNOTATION_VALUE>並加強通風消毒 出入人員必須配合檢測體溫</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a55" ANNOTATION_REF="a52">
+                <ANNOTATION_VALUE>在疫情存續期</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a56" ANNOTATION_REF="a53">
+                <ANNOTATION_VALUE>凡散布謠言 哄擡物價 欺騙消費者 擾亂社會秩序和市場秩序的 由公安機關 或者市場監管部門 依法給予行政處罰</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a60" ANNOTATION_REF="a57">
+                <ANNOTATION_VALUE>構成犯罪的 依法追究刑事責任</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a61" ANNOTATION_REF="a59">
+                <ANNOTATION_VALUE>二零二零年一月二十五日</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="included-in" PARENT_REF="sentence" TIER_ID="word"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="cmn trans. by word"/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="gáu-huôi lò̤-mā-cê"/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="yngping"/>
+    <TIER LANG_REF="zxx" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="language"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="faulty fixing"/>
+    <TIER LANG_REF="mul" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="yngping" TIER_ID="faulty fixing yp."/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="included-in" PARENT_REF="word" TIER_ID="character"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="character" TIER_ID="cmn trans. by char."/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="character" TIER_ID="yngping by char."/>
+    <TIER DEFAULT_LOCALE="zh" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="sentence" TIER_ID="language by sentence">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a2" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a62" ANNOTATION_REF="a10">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a63" ANNOTATION_REF="a11">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a64" ANNOTATION_REF="a12">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a65" ANNOTATION_REF="a13">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a66" ANNOTATION_REF="a14">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a67" ANNOTATION_REF="a15">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a68" ANNOTATION_REF="a16">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a69" ANNOTATION_REF="a17">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a70" ANNOTATION_REF="a18">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a71" ANNOTATION_REF="a22">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a72" ANNOTATION_REF="a23">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a73" ANNOTATION_REF="a24">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a74" ANNOTATION_REF="a25">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a75" ANNOTATION_REF="a26">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a76" ANNOTATION_REF="a27">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a77" ANNOTATION_REF="a28">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a78" ANNOTATION_REF="a31">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a79" ANNOTATION_REF="a32">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a80" ANNOTATION_REF="a33">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a81" ANNOTATION_REF="a34">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a82" ANNOTATION_REF="a35">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a83" ANNOTATION_REF="a39">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a84" ANNOTATION_REF="a40">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a85" ANNOTATION_REF="a41">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a86" ANNOTATION_REF="a42">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a87" ANNOTATION_REF="a43">
+                <ANNOTATION_VALUE>fzho</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="time-subdivision" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="included-in" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbolic-subdivision" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbolic-association" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="CN" LANGUAGE_CODE="zh"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130974-001" LANG_ID="mul" LANG_LABEL="multiple languages (mul)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130973-001" LANG_ID="zxx" LANG_LABEL="no linguistic content (zxx)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133158-001" LANG_ID="cmn" LANG_LABEL="Mandarin Chinese (cmn)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133082-001" LANG_ID="cdo" LANG_LABEL="Min Dong Chinese (cdo)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

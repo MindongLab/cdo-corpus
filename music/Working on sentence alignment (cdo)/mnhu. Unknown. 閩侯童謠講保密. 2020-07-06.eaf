@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-10-30T01:02:58+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/music/mnhu. Unknown. 閩侯童謠講保密. 2020-07-06.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./mnhu. Unknown. 閩侯童謠講保密. 2020-07-06.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:8f1d128f-007f-428f-a9d0-4b72e510c5f1</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">9</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="3201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="3201"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="4070"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="4075"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="4962"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="5016"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="5403"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="5694"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="6412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="6412"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default" TIER_ID="sentence">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>閩侯童謠講保密</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="sentence" TIER_ID="cmn trans. by sent."/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="included-in" PARENT_REF="sentence" TIER_ID="word">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>閩侯</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>童謠</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>講</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>保密</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="cmn trans. by word"/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="gáu-huôi lò̤-mā-cê"/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="yngping"/>
+    <TIER LANG_REF="zxx" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="language">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a6" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>mnhu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a7" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>mnhu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>mnhu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a5">
+                <ANNOTATION_VALUE>mnhu</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="faulty fixing"/>
+    <TIER LANG_REF="mul" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="yngping" TIER_ID="faulty fixing yp."/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="included-in" PARENT_REF="word" TIER_ID="character"/>
+    <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="character" TIER_ID="cmn trans. by char."/>
+    <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="character" TIER_ID="yngping by char."/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="time-subdivision" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Included_In" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="included-in" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Subdivision" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbolic-subdivision" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association" GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="symbolic-association" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="CN" LANGUAGE_CODE="zh"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130974-001" LANG_ID="mul" LANG_LABEL="multiple languages (mul)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130973-001" LANG_ID="zxx" LANG_LABEL="no linguistic content (zxx)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133158-001" LANG_ID="cmn" LANG_LABEL="Mandarin Chinese (cmn)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133082-001" LANG_ID="cdo" LANG_LABEL="Min Dong Chinese (cdo)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>

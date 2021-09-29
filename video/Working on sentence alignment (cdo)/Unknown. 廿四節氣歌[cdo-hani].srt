@@ -1,0 +1,15 @@
+﻿[Script Info]
+ ; Recorder: 
+ ; Link: 
+ ; Author: 
+ ; Date: 
+ ; Area: pign
+ Title: 廿四節氣歌
+ Original Script: 
+ Original Translation:
+ Original Editing: 
+ Original Timing: 关彳山
+ Update Details: 
+
+1
+00:00:00,000 --> 00:00:00,000
