@@ -40,8 +40,8 @@ Working on sentence alignment (cdo) | 正在整理句對齊的閩東語文本。
 Sentence-aligned (cdo) | 具備已經句對齊的閩東語文本。
 Sentence-aligned (cdo, cmn) | 具備已經句對齊的原語爲閩東語、譯語爲官話的文本。
 Sentence-aligned (cmn, cdo) | 具備已經句對齊的原語爲官話、譯語爲閩東語的文本。
-Digitalizing | 不符合上述情況的正在電子化的內容。
-Digitalized | 不符合上述情況的電子化完成的內容。
+Digitalizing | 不屬於上述情況的正在電子化的內容。
+Digitalized | 不屬於上述情況的電子化完成的內容。
 
 ### Other 其他材料
 
