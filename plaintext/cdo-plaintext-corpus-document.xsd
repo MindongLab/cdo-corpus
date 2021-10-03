@@ -28,6 +28,7 @@
 			<xs:attribute name="Copyright" type="xs:string" use="optional"/>
 		</xs:complexType>
 	</xs:element>
+	<xs:attribute name="Text"/>
 	<xs:element name="Title">
 		<xs:complexType>
 			<xs:sequence>
@@ -66,6 +67,7 @@
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
+			<xs:attribute ref="Text"/>
 			<xs:attributeGroup ref="Transliteration"/>
 			<xs:attributeGroup ref="Translation"/>
 			<xs:attributeGroup ref="LanguageCode"/>
@@ -78,6 +80,7 @@
 		<xs:sequence>
 			<xs:element ref="Title" minOccurs="0"/>
 		</xs:sequence>
+		<xs:attribute ref="Text"/>
 		<xs:attribute ref="Section" use="required"/>
 		<xs:attributeGroup ref="Speaker"/>
 		<xs:attributeGroup ref="Transliteration"/>
@@ -130,6 +133,7 @@
 																				</xs:complexType>
 																			</xs:element>
 																		</xs:sequence>
+																		<xs:attribute ref="Text"/>
 																		<xs:attribute ref="Section" use="required"/>
 																		<xs:attributeGroup ref="Speaker"/>
 																		<xs:attributeGroup ref="Transliteration"/>
@@ -142,6 +146,7 @@
 																	</xs:complexType>
 																</xs:element>
 															</xs:sequence>
+															<xs:attribute ref="Text"/>
 															<xs:attribute ref="Section" use="required"/>
 															<xs:attributeGroup ref="Speaker"/>
 															<xs:attributeGroup ref="Transliteration"/>
@@ -154,6 +159,7 @@
 														</xs:complexType>
 													</xs:element>
 												</xs:sequence>
+												<xs:attribute ref="Text"/>
 												<xs:attribute ref="Section" use="required"/>
 												<xs:attributeGroup ref="Speaker"/>
 												<xs:attributeGroup ref="Transliteration"/>
@@ -166,6 +172,7 @@
 											</xs:complexType>
 										</xs:element>
 									</xs:sequence>
+									<xs:attribute ref="Text"/>
 									<xs:attribute ref="Section" use="required"/>
 									<xs:attributeGroup ref="Speaker"/>
 									<xs:attributeGroup ref="Transliteration"/>
@@ -178,6 +185,7 @@
 								</xs:complexType>
 							</xs:element>
 						</xs:sequence>
+						<xs:attribute ref="Text"/>
 						<xs:attribute ref="Section" use="required"/>
 						<xs:attributeGroup ref="Speaker"/>
 						<xs:attributeGroup ref="Transliteration"/>
@@ -190,6 +198,7 @@
 					</xs:complexType>
 				</xs:element>
 			</xs:sequence>
+			<xs:attribute ref="Text"/>
 			<xs:attribute ref="Section" use="required"/>
 			<xs:attributeGroup ref="Speaker"/>
 			<xs:attributeGroup ref="Transliteration"/>
