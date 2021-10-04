@@ -7,6 +7,9 @@
 		<xs:complexType>
 			<xs:sequence>
 				<xs:element ref="Title" minOccurs="0"/>
+				<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="Provider" type="Person" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="SecLv1" maxOccurs="unbounded"/>
 			</xs:sequence>
 			<xs:attribute name="Conversation" type="xs:boolean" use="required"/>
@@ -22,8 +25,6 @@
 				</xs:simpleType>
 			</xs:attribute>
 			<xs:attribute name="Tag" type="xs:string" use="optional"/>
-			<xs:attributeGroup ref="Speaker"/>
-			<xs:attributeGroup ref="Provider"/>
 			<xs:attribute name="Source" type="xs:string" use="optional"/>
 			<xs:attribute name="Copyright" type="xs:string" use="optional"/>
 		</xs:complexType>
@@ -32,35 +33,41 @@
 	<xs:element name="Title">
 		<xs:complexType>
 			<xs:sequence>
+				<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element name="Phrase" minOccurs="0" maxOccurs="unbounded">
 					<xs:complexType>
 						<xs:sequence>
+							<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
 							<xs:element name="Word" minOccurs="0" maxOccurs="unbounded">
 								<xs:complexType>
 									<xs:sequence>
+										<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
 										<xs:element name="Character" minOccurs="0" maxOccurs="unbounded">
 											<xs:complexType>
+												<xs:sequence>
+													<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+												</xs:sequence>
+												<xs:attribute ref="Text"/>
 												<xs:attributeGroup ref="Transliteration"/>
-												<xs:attributeGroup ref="Translation"/>
-												<xs:attributeGroup ref="LanguageCode"/>
+												<xs:attributeGroup ref="LanCode"/>
 												<xs:attribute ref="Legal"/>
 												<xs:attribute ref="TypoFix"/>
 												<xs:attribute ref="Note" use="optional"/>
 											</xs:complexType>
 										</xs:element>
 									</xs:sequence>
+									<xs:attribute ref="Text"/>
 									<xs:attributeGroup ref="Transliteration"/>
-									<xs:attributeGroup ref="Translation"/>
-									<xs:attributeGroup ref="LanguageCode"/>
+									<xs:attributeGroup ref="LanCode"/>
 									<xs:attribute ref="Legal"/>
 									<xs:attribute ref="TypoFix"/>
 									<xs:attribute ref="Note" use="optional"/>
 								</xs:complexType>
 							</xs:element>
 						</xs:sequence>
+						<xs:attribute ref="Text"/>
 						<xs:attributeGroup ref="Transliteration"/>
-						<xs:attributeGroup ref="Translation"/>
-						<xs:attributeGroup ref="LanguageCode"/>
+						<xs:attributeGroup ref="LanCode"/>
 						<xs:attribute ref="Legal"/>
 						<xs:attribute ref="TypoFix"/>
 						<xs:attribute ref="Note" use="optional"/>
@@ -69,8 +76,7 @@
 			</xs:sequence>
 			<xs:attribute ref="Text"/>
 			<xs:attributeGroup ref="Transliteration"/>
-			<xs:attributeGroup ref="Translation"/>
-			<xs:attributeGroup ref="LanguageCode"/>
+			<xs:attributeGroup ref="LanCode"/>
 			<xs:attribute ref="Legal" use="optional"/>
 			<xs:attribute ref="TypoFix" use="optional"/>
 			<xs:attribute ref="Note" use="optional"/>
@@ -79,13 +85,14 @@
 	<xs:complexType name="SecTemplate">
 		<xs:sequence>
 			<xs:element ref="Title" minOccurs="0"/>
+			<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
 		</xs:sequence>
 		<xs:attribute ref="Text"/>
 		<xs:attribute ref="Section" use="required"/>
-		<xs:attributeGroup ref="Speaker"/>
 		<xs:attributeGroup ref="Transliteration"/>
-		<xs:attributeGroup ref="Translation"/>
-		<xs:attributeGroup ref="LanguageCode"/>
+		<xs:attributeGroup ref="LanCode"/>
 		<xs:attribute ref="Legal" use="optional"/>
 		<xs:attribute ref="TypoFix" use="optional"/>
 		<xs:attribute ref="Note" use="optional"/>
@@ -95,37 +102,56 @@
 		<xs:complexType>
 			<xs:sequence>
 				<xs:element ref="Title" minOccurs="0"/>
+				<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element name="SecLv2" minOccurs="0" maxOccurs="unbounded">
 					<xs:complexType>
 						<xs:sequence>
 							<xs:element ref="Title" minOccurs="0"/>
+							<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
 							<xs:element name="SecLv3" minOccurs="0" maxOccurs="unbounded">
 								<xs:complexType>
 									<xs:sequence>
 										<xs:element ref="Title" minOccurs="0"/>
+										<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+										<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+										<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
 										<xs:element name="SecLv4" minOccurs="0" maxOccurs="unbounded">
 											<xs:complexType>
 												<xs:sequence>
 													<xs:element ref="Title" minOccurs="0"/>
+													<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+													<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+													<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
 													<xs:element name="SecLv5" minOccurs="0" maxOccurs="unbounded">
 														<xs:complexType>
 															<xs:sequence>
 																<xs:element ref="Title" minOccurs="0"/>
+																<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+																<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+																<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
 																<xs:element name="SecLv6" minOccurs="0" maxOccurs="unbounded">
 																	<xs:complexType>
 																		<xs:sequence>
 																			<xs:element ref="Title" minOccurs="0"/>
+																			<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+																			<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+																			<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
 																			<xs:element name="SecLv7" minOccurs="0" maxOccurs="unbounded">
 																				<xs:complexType>
 																					<xs:sequence>
 																						<xs:element ref="Title" minOccurs="0"/>
+																						<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+																						<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+																						<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
 																						<xs:element name="SecLv8" type="SecTemplate" minOccurs="0" maxOccurs="unbounded"/>
 																					</xs:sequence>
 																					<xs:attribute ref="Section" use="required"/>
-																					<xs:attributeGroup ref="Speaker"/>
 																					<xs:attributeGroup ref="Transliteration"/>
-																					<xs:attributeGroup ref="Translation"/>
-																					<xs:attributeGroup ref="LanguageCode"/>
+																					<xs:attributeGroup ref="LanCode"/>
 																					<xs:attribute ref="Legal" use="optional"/>
 																					<xs:attribute ref="TypoFix" use="optional"/>
 																					<xs:attribute ref="Note" use="optional"/>
@@ -135,10 +161,8 @@
 																		</xs:sequence>
 																		<xs:attribute ref="Text"/>
 																		<xs:attribute ref="Section" use="required"/>
-																		<xs:attributeGroup ref="Speaker"/>
 																		<xs:attributeGroup ref="Transliteration"/>
-																		<xs:attributeGroup ref="Translation"/>
-																		<xs:attributeGroup ref="LanguageCode"/>
+																		<xs:attributeGroup ref="LanCode"/>
 																		<xs:attribute ref="Legal" use="optional"/>
 																		<xs:attribute ref="TypoFix" use="optional"/>
 																		<xs:attribute ref="Note" use="optional"/>
@@ -148,10 +172,8 @@
 															</xs:sequence>
 															<xs:attribute ref="Text"/>
 															<xs:attribute ref="Section" use="required"/>
-															<xs:attributeGroup ref="Speaker"/>
 															<xs:attributeGroup ref="Transliteration"/>
-															<xs:attributeGroup ref="Translation"/>
-															<xs:attributeGroup ref="LanguageCode"/>
+															<xs:attributeGroup ref="LanCode"/>
 															<xs:attribute ref="Legal" use="optional"/>
 															<xs:attribute ref="TypoFix" use="optional"/>
 															<xs:attribute ref="Note" use="optional"/>
@@ -161,10 +183,8 @@
 												</xs:sequence>
 												<xs:attribute ref="Text"/>
 												<xs:attribute ref="Section" use="required"/>
-												<xs:attributeGroup ref="Speaker"/>
 												<xs:attributeGroup ref="Transliteration"/>
-												<xs:attributeGroup ref="Translation"/>
-												<xs:attributeGroup ref="LanguageCode"/>
+												<xs:attributeGroup ref="LanCode"/>
 												<xs:attribute ref="Legal" use="optional"/>
 												<xs:attribute ref="TypoFix" use="optional"/>
 												<xs:attribute ref="Note" use="optional"/>
@@ -174,10 +194,8 @@
 									</xs:sequence>
 									<xs:attribute ref="Text"/>
 									<xs:attribute ref="Section" use="required"/>
-									<xs:attributeGroup ref="Speaker"/>
 									<xs:attributeGroup ref="Transliteration"/>
-									<xs:attributeGroup ref="Translation"/>
-									<xs:attributeGroup ref="LanguageCode"/>
+									<xs:attributeGroup ref="LanCode"/>
 									<xs:attribute ref="Legal" use="optional"/>
 									<xs:attribute ref="TypoFix" use="optional"/>
 									<xs:attribute ref="Note" use="optional"/>
@@ -187,10 +205,8 @@
 						</xs:sequence>
 						<xs:attribute ref="Text"/>
 						<xs:attribute ref="Section" use="required"/>
-						<xs:attributeGroup ref="Speaker"/>
 						<xs:attributeGroup ref="Transliteration"/>
-						<xs:attributeGroup ref="Translation"/>
-						<xs:attributeGroup ref="LanguageCode"/>
+						<xs:attributeGroup ref="LanCode"/>
 						<xs:attribute ref="Legal" use="optional"/>
 						<xs:attribute ref="TypoFix" use="optional"/>
 						<xs:attribute ref="Note" use="optional"/>
@@ -200,10 +216,8 @@
 			</xs:sequence>
 			<xs:attribute ref="Text"/>
 			<xs:attribute ref="Section" use="required"/>
-			<xs:attributeGroup ref="Speaker"/>
 			<xs:attributeGroup ref="Transliteration"/>
-			<xs:attributeGroup ref="Translation"/>
-			<xs:attributeGroup ref="LanguageCode"/>
+			<xs:attributeGroup ref="LanCode"/>
 			<xs:attribute ref="Legal" use="optional"/>
 			<xs:attribute ref="TypoFix" use="optional"/>
 			<xs:attribute ref="Note" use="optional"/>
@@ -225,29 +239,28 @@
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:attribute>
-	<xs:attributeGroup name="Provider">
-		<xs:attribute name="ProviderName" type="xs:string" use="optional"/>
-		<xs:attribute name="ProviderId" use="optional">
-			<xs:annotation>
-				<xs:documentation>The same as Speaker ID / 同Spearker ID</xs:documentation>
-			</xs:annotation>
-			<xs:simpleType>
-				<xs:restriction base="xs:integer">
-					<xs:minInclusive value="1"/>
-				</xs:restriction>
-			</xs:simpleType>
-		</xs:attribute>
-	</xs:attributeGroup>
-	<xs:attributeGroup name="Speaker">
-		<xs:attribute name="SpeakerName" type="xs:string" use="optional"/>
-		<xs:attribute name="SpeakerId" use="optional">
-			<xs:simpleType>
-				<xs:restriction base="xs:integer">
-					<xs:minInclusive value="1"/>
-				</xs:restriction>
-			</xs:simpleType>
-		</xs:attribute>
-	</xs:attributeGroup>
+	<xs:complexType name="Person">
+		<xs:sequence>
+			<xs:element name="Name" type="xs:string" minOccurs="0"/>
+			<xs:element name="SpeakerId" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+						<xs:minInclusive value="1"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Speaker" type="Person"/>
+	<xs:element name="Translator">
+		<xs:complexType>
+			<xs:complexContent>
+				<xs:extension base="Person">
+					<xs:attributeGroup ref="LanCode"/>
+				</xs:extension>
+			</xs:complexContent>
+		</xs:complexType>
+	</xs:element>
 	<xs:attributeGroup name="Transliteration">
 		<xs:attribute name="FoochowRomanized" type="xs:string" use="optional">
 			<xs:annotation>
@@ -260,30 +273,25 @@
 			</xs:annotation>
 		</xs:attribute>
 	</xs:attributeGroup>
-	<xs:attributeGroup name="Translation">
-		<xs:attribute name="CmnTrans" type="xs:string" use="optional">
-			<xs:annotation>
-				<xs:documentation>Translation in Chinese Mandarin / 漢語普通話翻譯</xs:documentation>
-			</xs:annotation>
-		</xs:attribute>
-		<xs:attribute name="EnTrans" type="xs:string" use="optional">
-			<xs:annotation>
-				<xs:documentation>Translation in English / 英語翻譯</xs:documentation>
-			</xs:annotation>
-		</xs:attribute>
-		<xs:attribute name="JaTrans" type="xs:string" use="optional">
-			<xs:annotation>
-				<xs:documentation>Translation in Japanese / 日語翻譯</xs:documentation>
-			</xs:annotation>
-		</xs:attribute>
-	</xs:attributeGroup>
-	<xs:attributeGroup name="LanguageCode">
+	<xs:element name="Translation">
+		<xs:complexType>
+			<xs:attribute name="TransText" type="xs:string" use="optional">
+				<xs:annotation>
+					<xs:documentation>Translation in Chinese Mandarin / 漢語普通話翻譯</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+			<xs:attributeGroup ref="LanCode"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:attributeGroup name="LanCode">
+		<xs:annotation>
+			<xs:documentation>Language code / 語言代碼</xs:documentation>
+		</xs:annotation>
+		<xs:attribute name="Iso639-1" type="xs:string" use="optional"/>
 		<xs:attribute name="Iso639-3" type="xs:string" use="optional"/>
 		<xs:attribute name="Iso639-6" use="optional">
 			<xs:annotation>
-				<xs:documentation>ISO 639-6 Language Code / ISO 639-6語言代碼
-
-</xs:documentation>
+				<xs:documentation>ISO 639-6 Language Code / ISO 639-6語言代碼</xs:documentation>
 			</xs:annotation>
 			<xs:simpleType>
 				<xs:restriction base="xs:string">

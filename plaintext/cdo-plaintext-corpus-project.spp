@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Project>
+<方案>
 	<Folder FolderName="XML Files" ExtStr="xml;cml;math;mtx;rdf;smil;svg;wml"/>
 	<Folder FolderName="XSL Files" ExtStr="xsl;xslt"/>
 	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery"/>
@@ -8,4 +8,5 @@
 		<File FilePath=".\cdo-plaintext-corpus-document.xsd" HomeFolder="Yes"/>
 	</Folder>
 	<Folder FolderName="Entities" ExtStr="ent"/>
-</Project>
+	<ExtMountFolder FolderName="E:\Documents\Git\cdo-corpus\plaintext"/>
+</方案>
