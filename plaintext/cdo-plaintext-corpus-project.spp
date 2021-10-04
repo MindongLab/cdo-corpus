@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<方案>
-	<Folder FolderName="XML Files" ExtStr="xml;cml;math;mtx;rdf;smil;svg;wml"/>
+<Project>
+	<Folder FolderName="XML Files" ExtStr="xml;cml;math;mtx;rdf;smil;svg;wml">
+		<ExtMountFolder FolderName="E:\Documents\Git\cdo-corpus\plaintext\essay"/>
+		<ExtMountFolder FolderName="E:\Documents\Git\cdo-corpus\plaintext\poem"/>
+		<ExtMountFolder FolderName="E:\Documents\Git\cdo-corpus\plaintext\sentences"/>
+	</Folder>
 	<Folder FolderName="XSL Files" ExtStr="xsl;xslt"/>
 	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery"/>
 	<Folder FolderName="HTML Files" ExtStr="html;htm;xhtml;asp"/>
@@ -8,5 +12,4 @@
 		<File FilePath=".\cdo-plaintext-corpus-document.xsd" HomeFolder="Yes"/>
 	</Folder>
 	<Folder FolderName="Entities" ExtStr="ent"/>
-	<ExtMountFolder FolderName="E:\Documents\Git\cdo-corpus\plaintext"/>
-</方案>
+</Project>
