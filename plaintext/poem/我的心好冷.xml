@@ -41,7 +41,7 @@
 			<Translation TransText="太脆弱結果" Iso639-1="zh" Iso639-3="cmn"/>
 		</SecLv2>
 		<SecLv2 Section="Sentence" Text="蜀個儂打單馬墿">
-			<Translation TransText="孤單的只剩下我" Iso639-1="zh" Iso639-3="cmn"/>
+			<Translation TransText="孤單的衹剩下我" Iso639-1="zh" Iso639-3="cmn"/>
 		</SecLv2>
 		<SecLv2 Section="Sentence" Text="目滓啊無停流落" TypoFix="目滓吓無停流落">
 			<Translation TransText="一個人走了太多" Iso639-1="zh" Iso639-3="cmn"/>

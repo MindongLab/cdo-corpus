@@ -1,0 +1,586 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
+	<Speaker>
+		<Name>李浩博</Name>
+		<SpeakerId>36</SpeakerId>
+	</Speaker>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<Translator Iso639-1="zh" Iso639-3="cmn">
+		<Name>关彳山</Name>
+	</Translator>
+	<SecLv1 Section="Article" Year="2020">
+		<Title Text="八閩健康碼"/>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="疫情"/>
+			<SecLv3 Section="Word" Text="防控"/>
+			<SecLv3 Section="Word" Text="期間"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Character" Text="有"/>
+			<SecLv3 Section="Word" Text="綠色"/>
+			<SecLv3 Section="Character" Text="其"/>
+			<SecLv3 Section="Word" Text="八閩健康碼"/>
+			<SecLv3 Section="Character" Text="乍"/>
+			<SecLv3 Section="Character" Text="有"/>
+			<SecLv3 Section="Character" Text="的"/>
+			<SecLv3 Section="Character" Text="坐"/>
+			<SecLv3 Section="Word" Text="地鐵"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="去"/>
+			<SecLv3 Section="Character" Text="看"/>
+			<SecLv3 Section="Character" Text="病"/>
+			<SecLv3 Section="Word" Text="或且"/>
+			<SecLv3 Section="Word" Text="上班"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="辦"/>
+			<SecLv3 Section="Word" Text="八閩健康碼"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Character" Text="裝"/>
+			<SecLv3 Section="Word" Text="閩政通"/>
+			<SecLv3 Section="Word" Text="應用"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="故"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Word" Text="拍相"/>
+			<SecLv3 Section="Word" Text="確認"/>
+			<SecLv3 Section="Character" Text="囇"/>
+			<SecLv3 Section="Character" Text="是"/>
+			<SecLv3 Section="Volume" Text="伓是"/>
+			<SecLv3 Section="Word" Text="本儂"/>
+			<SecLv3 Section="Character" Text="來"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="者"/>
+			<SecLv3 Section="Word" Text="時候"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Character" Text="按"/>
+			<SecLv3 Section="Word" Text="手機"/>
+			<SecLv3 Section="Character" Text="其"/>
+			<SecLv3 Section="Word" Text="指示"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Word" Text="動作"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="故"/>
+			<SecLv3 Section="Character" Text="有"/>
+			<SecLv3 Section="Word" Text="時間"/>
+			<SecLv3 Section="Word" Text="限制"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="㑚"/>
+			<SecLv3 Section="Character" Text="是"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Character" Text="慢"/>
+			<SecLv3 Section="Character" Text="了"/>
+			<SecLv3 Section="Word" Text="或且"/>
+			<SecLv3 Section="Character" Text="無"/>
+			<SecLv3 Section="Character" Text="夠"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Word" Text="重新"/>
+			<SecLv3 Section="Word" Text="開始"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="厝"/>
+			<SecLv3 Section="Character" Text="𡅏"/>
+			<SecLv3 Section="Word" Text="長輩"/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="有"/>
+			<SecLv3 Section="Word" Text="智能手機"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Word" Text="但是"/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="儥"/>
+			<SecLv3 Section="Character" Text="盡"/>
+			<SecLv3 Section="Character" Text="仈"/>
+			<SecLv3 Section="Character" Text="使"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="也"/>
+			<SecLv3 Section="Character" Text="儥"/>
+			<SecLv3 Section="Word" Text="習慣"/>
+			<SecLv3 Section="Character" Text="按"/>
+			<SecLv3 Section="Word" Text="手機"/>
+			<SecLv3 Section="Word" Text="指示"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Word" Text="動作"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="到底"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Word" Text="世乇"/>
+			<SecLv3 Section="Word" Text="樣式"/>
+			<SecLv3 Section="Character" Text="乍"/>
+			<SecLv3 Section="Word" Text="算數"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="對"/>
+			<SecLv3 Section="Word" Text="伊各儂"/>
+			<SecLv3 Section="Character" Text="來"/>
+			<SecLv3 Section="Character" Text="講"/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="是"/>
+			<SecLv3 Section="Word" Text="問題"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="㑚"/>
+			<SecLv3 Section="Character" Text="是"/>
+			<SecLv3 Section="Word" Text="伊各儂"/>
+			<SecLv3 Section="Word" Text="自家"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="儥"/>
+			<SecLv3 Section="Word" Text="容易"/>
+			<SecLv3 Section="Word" Text="成功"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Word" Text="確認"/>
+			<SecLv3 Section="Word" Text="時間"/>
+			<SecLv3 Section="Character" Text="就"/>
+			<SecLv3 Section="Character" Text="去"/>
+			<SecLv3 Section="Character" Text="野"/>
+			<SecLv3 Section="Character" Text="価"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="依媽" TypoFix="依嬤"/>
+			<SecLv3 Section="Word" Text="對手"/>
+			<SecLv3 Section="Word" Text="阿嬷" TypoFix="阿媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="外婆"/>
+			</SecLv3>
+			<SecLv3 Section="Word" Text="確認"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="吼"/>
+			<SecLv3 Section="Character" Text="伊"/>
+			<SecLv3 Section="Character" Text="按"/>
+			<SecLv3 Section="Word" Text="指示"/>
+			<SecLv3 Section="Character" Text="向"/>
+			<SecLv3 Section="Word" Text="左邊"/>
+			<SecLv3 Section="Word" Text="扒喇"/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Word" Text="可是"/>
+			<SecLv3 Section="Word" Text="阿嬷" TypoFix="阿媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="外婆"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="會"/>
+			<SecLv3 Section="Word" Text="扒喇"/>
+			<SecLv3 Section="Character" Text="遘"/>
+			<SecLv3 Section="Word" Text="右邊"/>
+			<SecLv3 Section="Character" Text="去"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="就"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Word" Text="重新"/>
+			<SecLv3 Section="Word" Text="開始"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="這樣款"/>
+			<SecLv3 Section="Word" Text="前後"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Character" Text="幾"/>
+			<SecLv3 Section="Character" Text="回"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Word" Text="因爲"/>
+			<SecLv3 Section="Word" Text="超時"/>
+			<SecLv3 Section="Character" Text="會"/>
+			<SecLv3 Section="Character" Text="變"/>
+			<SecLv3 Section="Character" Text="無"/>
+			<SecLv3 Section="Word" Text="成功"/>
+			<SecLv3 Section="Character" Text="去"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="阿嬷" TypoFix="阿媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="外婆"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="講"/>
+			<SecLv3 Section="Punctuation" Text=":"/>
+			<SecLv3 Section="Word" Text="哀啊"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Character" Text="嚽"/>
+			<SecLv3 Section="Character" Text="會"/>
+			<SecLv3 Section="Word" Text="這滿"/>
+			<SecLv3 Section="Word" Text="麻煩"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+			<SecLv3 Section="Character" Text="在"/>
+			<SecLv3 Section="Character" Text="伊"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="伓"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Character" Text="了"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="這滿"/>
+			<SecLv3 Section="Word" Text="重要"/>
+			<SecLv3 Section="Character" Text="其"/>
+			<SecLv3 Section="Character" Text="乇"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="蔣"/>
+			<SecLv3 Section="Word" Text="可能"/>
+			<SecLv3 Section="Character" Text="伓"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Character" Text="啊" TypoFix="吓"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="我"/>
+			<SecLv3 Section="Word" Text="看見"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Word" Text="此刻"/>
+			<SecLv3 Section="Character" Text="衝"/>
+			<SecLv3 Section="Character" Text="上"/>
+			<SecLv3 Section="Character" Text="去"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="我"/>
+			<SecLv3 Section="Character" Text="看"/>
+			<SecLv3 Section="Word" Text="手機"/>
+			<SecLv3 Section="Word" Text="指示"/>
+			<SecLv3 Section="Character" Text="講"/>
+			<SecLv3 Section="Punctuation" Text=":"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cmn">
+			<SecLv3 Section="Word" Text="慢慢"/>
+			<SecLv3 Section="Character" Text="向"/>
+			<SecLv3 Section="Character" Text="左"/>
+			<SecLv3 Section="Character" Text="轉"/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="點"/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="張"/>
+			<SecLv3 Section="Character" Text="嘴"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="就"/>
+			<SecLv3 Section="Character" Text="乞"/>
+			<SecLv3 Section="Word" Text="阿嬷" TypoFix="阿媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="外婆"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="講"/>
+			<SecLv3 Section="Punctuation" Text=":"/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Word" Text="慢慢"/>
+			<SecLv3 Section="Character" Text="向"/>
+			<SecLv3 Section="Word" Text="左邊"/>
+			<SecLv3 Section="Character" Text="轉"/>
+			<SecLv3 Section="Character" Text="過"/>
+			<SecLv3 Section="Character" Text="去"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Character" Text="涿"/>
+			<SecLv3 Section="Character" Text="囇"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Character" Text="快"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+			<SecLv3 Section="Character" Text="喙"/>
+			<SecLv3 Section="Character" Text="擘"/>
+			<SecLv3 Section="Character" Text="開"/>
+			<SecLv3 Section="Character" Text="囇"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Word" Text="明顯"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="並且"/>
+			<SecLv3 Section="Character" Text="手"/>
+			<SecLv3 Section="Word" Text="嘟嚕"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Word" Text="阿嬷" TypoFix="阿媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="外婆"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="其"/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Character" Text="來"/>
+			<SecLv3 Section="Word" Text="指導"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="未"/>
+			<SecLv3 Section="Character" Text="兩"/>
+			<SecLv3 Section="Character" Text="下"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Word" Text="手機"/>
+			<SecLv3 Section="Character" Text="報"/>
+			<SecLv3 Section="Punctuation" Text=":"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cmn">
+			<SecLv3 Section="Character" Text="很"/>
+			<SecLv3 Section="Character" Text="好"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="野"/>
+			<SecLv3 Section="Character" Text="好"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+			<SecLv3 Section="Character" Text="汝"/>
+			<SecLv3 Section="Character" Text="蜀"/>
+			<SecLv3 Section="Character" Text="來"/>
+			<SecLv3 Section="Character" Text="就"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Word" Text="清楚"/>
+			<SecLv3 Section="Character" Text="了"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+			<SecLv3 Section="Word" Text="阿嬷" TypoFix="阿媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="外婆"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="野"/>
+			<SecLv3 Section="Word" Text="高興"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="過"/>
+			<SecLv3 Section="Character" Text="幾"/>
+			<SecLv3 Section="Character" Text="日"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="厝"/>
+			<SecLv3 Section="Character" Text="𡅏"/>
+			<SecLv3 Section="Word" Text="嬷嬷" TypoFix="媽媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="奶奶"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="也"/>
+			<SecLv3 Section="Character" Text="卜"/>
+			<SecLv3 Section="Character" Text="辦"/>
+			<SecLv3 Section="Word" Text="八閩健康碼"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="手機"/>
+			<SecLv3 Section="Word" Text="指示"/>
+			<SecLv3 Section="Character" Text="講"/>
+			<SecLv3 Section="Punctuation" Text=":"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cmn">
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Character" Text="向"/>
+			<SecLv3 Section="Character" Text="左"/>
+			<SecLv3 Section="Character" Text="傾"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="擡"/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="眨"/>
+			<SecLv3 Section="Character" Text="眼"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="我"/>
+			<SecLv3 Section="Word" Text="指導"/>
+			<SecLv3 Section="Word" Text="嬷嬷" TypoFix="媽媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="奶奶"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Character" Text="向"/>
+			<SecLv3 Section="Character" Text="左"/>
+			<SecLv3 Section="Character" Text="欹"/>
+			<SecLv3 Section="Character" Text="過"/>
+			<SecLv3 Section="Character" Text="去"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Character" Text="嶽" TypoFix="𩓥"/>
+			<SecLv3 Section="Character" Text="懸"/>
+			<SecLv3 Section="Character" Text="去"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+			<SecLv3 Section="Word" Text="目睭"/>
+			<SecLv3 Section="Character" Text="䀫"/>
+			<SecLv3 Section="Character" Text="囇"/>
+			<SecLv3 Section="Punctuation" Text="!"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="伊"/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="照"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="盡"/>
+			<SecLv3 Section="Character" Text="快"/>
+			<SecLv3 Section="Character" Text="也"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Word" Text="清楚"/>
+			<SecLv3 Section="Character" Text="了"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="嬷嬷" TypoFix="媽媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="奶奶"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="笑"/>
+			<SecLv3 Section="Character" Text="問"/>
+			<SecLv3 Section="Punctuation" Text=":"/>
+			<SecLv3 Section="Word" Text="傒勢"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Word" Text="這樣款"/>
+			<SecLv3 Section="Word" Text="動作"/>
+			<SecLv3 Section="Word" Text="呢"/>
+			<SecLv3 Section="Punctuation" Text="?"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="我"/>
+			<SecLv3 Section="Character" Text="就"/>
+			<SecLv3 Section="Character" Text="將"/>
+			<SecLv3 Section="Punctuation" Text="做"/>
+			<SecLv3 Section="Word" Text="動作"/>
+			<SecLv3 Section="Character" Text="其"/>
+			<SecLv3 Section="Word" Text="道理"/>
+			<SecLv3 Section="Character" Text="共"/>
+			<SecLv3 Section="Character" Text="伊"/>
+			<SecLv3 Section="Character" Text="講"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="嬷嬷" TypoFix="媽媽">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="奶奶"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="號"/>
+			<SecLv3 Section="Character" Text="這"/>
+			<SecLv3 Section="Character" Text="幾"/>
+			<SecLv3 Section="Character" Text="萆"/>
+			<SecLv3 Section="Word" Text="動作"/>
+			<SecLv3 Section="Punctuation" Text=":"/>
+			<SecLv3 Section="Character" Text="搖"/>
+			<SecLv3 Section="Character" Text="頭"/>
+			<SecLv3 Section="Word" Text="扒喇"/>
+			<SecLv3 Section="Character" Text="耳"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="像"/>
+			<SecLv3 Section="Word" Text="舊底"/>
+			<SecLv3 Section="Word" Text="雜技"/>
+			<SecLv3 Section="Character" Text="共"/>
+			<SecLv3 Section="Word" Text="演戲"/>
+			<SecLv3 Section="Word" Text="時候"/>
+			<SecLv3 Section="Punctuation" Text="做"/>
+			<SecLv3 Section="Character" Text="其"/>
+			<SecLv3 Section="Word" Text="樣式"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="厝"/>
+			<SecLv3 Section="Character" Text="𡅏"/>
+			<SecLv3 Section="Word" Text="長輩"/>
+			<SecLv3 Section="Character" Text="野"/>
+			<SecLv3 Section="Word" Text="認真"/>
+			<SecLv3 Section="Word" Text="練習"/>
+			<SecLv3 Section="Character" Text="現"/>
+			<SecLv3 Section="Character" Text="出"/>
+			<SecLv3 Section="Word" Text="八閩健康碼"/>
+			<SecLv3 Section="Character" Text="其"/>
+			<SecLv3 Section="Word" Text="方法"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="使"/>
+			<SecLv3 Section="Character" Text="手"/>
+			<SecLv3 Section="Character" Text="先"/>
+			<SecLv3 Section="Character" Text="涿"/>
+			<SecLv3 Section="Word" Text="世乇"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="再"/>
+			<SecLv3 Section="Character" Text="涿"/>
+			<SecLv3 Section="Word" Text="世乇"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Character" Text="現"/>
+			<SecLv3 Section="Character" Text="出"/>
+			<SecLv3 Section="Word" Text="世乇"/>
+			<SecLv3 Section="Character" Text="乍"/>
+			<SecLv3 Section="Word" Text="會使"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="記"/>
+			<SecLv3 Section="Character" Text="着"/>
+			<SecLv3 Section="Character" Text="心"/>
+			<SecLv3 Section="Character" Text="𡅏"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="練"/>
+			<SecLv3 Section="Character" Text="幾"/>
+			<SecLv3 Section="Character" Text="回"/>
+			<SecLv3 Section="Character" Text="都"/>
+			<SecLv3 Section="Character" Text="做"/>
+			<SecLv3 Section="Character" Text="好"/>
+			<SecLv3 Section="Character" Text="俊"/>
+			<SecLv3 Section="Character" Text="囉"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Character" Text="使"/>
+			<SecLv3 Section="Word" Text="八閩健康碼"/>
+			<SecLv3 Section="Character" Text="坐"/>
+			<SecLv3 Section="Word" Text="地鐵"/>
+			<SecLv3 Section="Word" Text="或且"/>
+			<SecLv3 Section="Word" Text="上班"/>
+			<SecLv3 Section="Character" Text="對"/>
+			<SecLv3 Section="Word" Text="防疫"/>
+			<SecLv3 Section="Character" Text="是"/>
+			<SecLv3 Section="Character" Text="好"/>
+			<SecLv3 Section="Character" Text="事"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="使"/>
+			<SecLv3 Section="Word" Text="手機"/>
+			<SecLv3 Section="Character" Text="辦"/>
+			<SecLv3 Section="Character" Text="也"/>
+			<SecLv3 Section="Word" Text="盡去"/>
+			<SecLv3 Section="Word" Text="方便"/>
+			<SecLv3 Section="Word" Text="安全"/>
+			<SecLv3 Section="Punctuation" Text="."/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
+			<SecLv3 Section="Word" Text="但是"/>
+			<SecLv3 Section="Character" Text="我"/>
+			<SecLv3 Section="Character" Text="想"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="對"/>
+			<SecLv3 Section="Word" Text="長輩"/>
+			<SecLv3 Section="Word" Text="或且"/>
+			<SecLv3 Section="Character" Text="儥"/>
+			<SecLv3 Section="Character" Text="盡"/>
+			<SecLv3 Section="Character" Text="仈"/>
+			<SecLv3 Section="Character" Text="使"/>
+			<SecLv3 Section="Word" Text="手機"/>
+			<SecLv3 Section="Character" Text="其"/>
+			<SecLv3 Section="Character" Text="儂"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="者"/>
+			<SecLv3 Section="Word" Text="超時"/>
+			<SecLv3 Section="Word" Text="時間"/>
+			<SecLv3 Section="Character" Text="會"/>
+			<SecLv3 Section="Character" Text="儥"/>
+			<SecLv3 Section="Word" Text="設計"/>
+			<SecLv3 Section="Character" Text="長"/>
+			<SecLv3 Section="Word" Text="仂囝"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="讓"/>
+			<SecLv3 Section="Word" Text="伊各儂"/>
+			<SecLv3 Section="Character" Text="有"/>
+			<SecLv3 Section="Character" Text="閑"/>
+			<SecLv3 Section="Character" Text="了"/>
+			<SecLv3 Section="Character" Text="介"/>
+			<SecLv3 Section="Word" Text="反應"/>
+			<SecLv3 Section="Character" Text="囇"/>
+			<SecLv3 Section="Character" Text="呢"/>
+			<SecLv3 Section="Punctuation" Text="?"/>
+		</SecLv2>
+	</SecLv1>
+</Corpus>

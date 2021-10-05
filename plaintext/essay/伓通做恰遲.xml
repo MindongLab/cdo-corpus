@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
+	<Speaker>
+		<Name>李浩博</Name>
+		<SpeakerId>36</SpeakerId>
+	</Speaker>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Section="Article" Iso639-1="zh" Iso639-3="cdo" Year="2020">
+		<Title Text="伓通做恰遲!">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="別熬夜了!"/>
+		</Title>
+		<Translator Iso639-1="zh" Iso639-3="cmn">
+			<Name>李浩博</Name>
+			<SpeakerId>36</SpeakerId>
+		</Translator>
+		<SecLv2 Section="Paragragh" Text="有蜀日起五更早, 依爸就搦我問,">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="某天一早, 老爹便來問我,"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="講, 昨暝晡幾點去睏? 有無十二點半?">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="說, 昨晚幾點睡呢? 有沒有到半夜十二點半?"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="無啊! 十一點上我就睶啦!" TypoFix="無吓! 十一點上我就睶啦!">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="沒有呀! 十一點多我就睡著了!"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="佪傒勢我十二點半爬起, 看見汝房裡電光本來故光𡅏, 等我行兩步就做蜀下暗去?">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="那為什麽我十二點半起夜, 看見你房裏的燈本來亮著, 等我走幾步就突然滅了呢?"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="我正好爬起拍風蚊啊!" TypoFix="我正好爬起拍風蚊吓!">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="我剛好醒來打蚊子啊!"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="伓通講拍風蚊, 我蜀行轉房裡, 就聽見汝開燈了! 囝, 講囇昨暝晡做世乇會這滿遲? 今旦早起頭爬起做都儥使嗎?" TypoFix="伓通講拍風蚊, 我蜀行轉房裡, 就聽見汝開燈了! 囝, 講囇昨暝晡做世乇會這滿遲? 今旦早起頭爬起做都儥使儥?">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="別說打蚊子啦! 我剛回到房裏, 就聽見你開燈了! 兒子, 說一下昨晚做什麽為什麽這麽遲? 今天早上早起做都不行嗎?"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="就做作業啊! 今旦早起頭上堂就卜繳囉, 爬起再做將赴? 乞汝看看, 會仈做嗎?" TypoFix="就做作業吓! 今旦早起頭上堂就卜繳囉, 爬起再做蔣赴? 乞汝看看, 會仈做嗎?">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="就做作業呀! 今天早上上課就要交了, 起床再做完怎麽來得及呢! 給妳看看, 會做嗎?"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="㑚這幾題也做許滿遲, 汝做野慢啊. 依弟啊, 作業蜀佈置儂家就着做, 伓通拖遘尾斗去. 儂家寬板做好偌快活." TypoFix="㑚這幾題也做許滿遲, 汝做野慢吓. 依弟吓, 作業蜀佈置儂家就着做, 伓通拖遘尾斗去. 儂家寬板做好偌快活.">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="纔這幾題也做那麽遲, 你太慢了! 依弟啊, 作業一布置我們就要完成, 別拖到最後才去做! 我們從容完成多舒服."/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="故有蜀回, 暝晡做野遲乞嬷嬷搦着, 我講,">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="又有一次, 晚上熬夜被奶奶逮住, 我解釋說,"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="伓啻作業啊, 故有哩! 這下昨暝晡伓做, 之前研究就做空囉!">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="不止作業啊, 還有呢! 這個重要的事情, 昨晚不做, 之前的研究就白做了!"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="嚽寫世乇哦, 英語呀? 算學呀? 幾何呀? 嬷嬷儥仈看, 㑚仈告汝食喚汝睏. 依命啊, 以後暝晡㑚有做遘十二點就着去睏, 伓通恰遲, 㑚對身體儥好, 會嗎?" TypoFix="嚽寫世乇去, 英語也? 算學也? 幾何也? 媽媽儥仈看, 㑚仈告汝食喚汝睏. 依命吓, 以後暝晡㑚有做遘十二點就着去睏, 伓通恰遲, 㑚對身體儥好, 會儥?">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="這寫什麽呀, 英語? 算術? 幾何? 奶奶看不懂, 只懂得喊你吃飯, 提醒你睡覺. 命啊, 以後晚上忙到十二點就要去睡覺了, 不要太晚, 不然對身體不好, 可以嗎?"/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="好, 好, 會使! 今晡就早仂睏.">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="好的, 好的, 可以! 今晚就早點睡."/>
+		</SecLv2>
+		<SecLv2 Section="Paragragh" Text="嗐! 敆厝讀書儥比敆學校閑偌. 長輩希望我早早睏, 但是事故是許滿価啊!">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="唉! 居家學習並不比在校空閑多少. 長輩們希望我早睡, 但是事情還是那麽多啊!"/>
+		</SecLv2>
+	</SecLv1>
+</Corpus>

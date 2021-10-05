@@ -227,6 +227,8 @@
 	<xs:attribute name="Section">
 		<xs:simpleType>
 			<xs:restriction base="xs:string">
+				<xs:enumeration value="Series"/>
+				<xs:enumeration value="Work"/>
 				<xs:enumeration value="Volume"/>
 				<xs:enumeration value="Chapter"/>
 				<xs:enumeration value="Article"/>
