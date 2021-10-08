@@ -9,7 +9,15 @@
 				<xs:element ref="Title" minOccurs="0"/>
 				<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
 				<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
-				<xs:element name="Provider" type="Person" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="Provider" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:complexContent>
+							<xs:extension base="Person">
+								<xs:attributeGroup ref="TimeGroup"/>
+							</xs:extension>
+						</xs:complexContent>
+					</xs:complexType>
+				</xs:element>
 				<xs:element ref="SecLv1" maxOccurs="unbounded"/>
 			</xs:sequence>
 			<xs:attribute name="Conversation" type="xs:boolean" use="required"/>
@@ -253,12 +261,19 @@
 			</xs:element>
 		</xs:sequence>
 	</xs:complexType>
-	<xs:element name="Speaker" type="Person"/>
+	<xs:element name="Speaker">
+		<xs:complexType>
+			<xs:complexContent>
+				<xs:extension base="Person"/>
+			</xs:complexContent>
+		</xs:complexType>
+	</xs:element>
 	<xs:element name="Translator">
 		<xs:complexType>
 			<xs:complexContent>
 				<xs:extension base="Person">
 					<xs:attributeGroup ref="LanCode"/>
+					<xs:attributeGroup ref="TimeGroup"/>
 				</xs:extension>
 			</xs:complexContent>
 		</xs:complexType>
