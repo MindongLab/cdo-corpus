@@ -51,5 +51,4 @@ Sentence-aligned (cmn, cdo) | 具備已經句對齊的原語爲官話、譯語�
     - `/.../Audio Prepared for Yng Dieng` 音頻信息。
   - `/.../audio feng` 具備Zingzeu ID的李如龍版《福州方言詞典》詞彙音頻。
     - `/.../Audio Prepared for Yng Dieng` 音頻信息。
-- `/photos` 部分語料的對應書影。子文件夾以對應作者、文獻名、刊行時間命名。
 - `/timing` 記錄志願者的標記工作時長，以資安排任務之參考。
