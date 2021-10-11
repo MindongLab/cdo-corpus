@@ -8,7 +8,7 @@
 	</Provider>
 	<SecLv1 Iso639-6="fuqi" Section="Sentence" Date="2018-03-23">
 		<Translation Iso639-1="ja" TransText="変換しない"/>
-		<SecLv2 Text="伓" Section="Character"/>
-		<SecLv2 Text="換" Section="Character"/>
+		<SecLv2 Text="伓" YngPing="ng" Section="Character"/>
+		<SecLv2 Text="換" YngPing="nguang" Section="Character"/>
 	</SecLv1>
 </Corpus>
