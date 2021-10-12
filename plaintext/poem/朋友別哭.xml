@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Source="cgkyk. 朋友别哭（福州话歌词）[EB/OL]. 新浪博客, 2020-05-23. http://blog.sina.com.cn/s/blog_632254e5010302jx.html." Property="written">
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
 	<Speaker>
 		<Name>cgkyk</Name>
 	</Speaker>
@@ -370,4 +370,5 @@
 			</SecLv3>
 		</SecLv2>
 	</SecLv1>
+	<Source>cgkyk. 朋友别哭（福州话歌词）[EB/OL]. 新浪博客, 2020-05-23. http://blog.sina.com.cn/s/blog_632254e5010302jx.html.</Source>
 </Corpus>

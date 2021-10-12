@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Copyright="CC BY-SA 3.0" Source="維基教科書编者. 福州語/會話/第2課[G/OL]. 中文維基教科書, 2018-09-20[2021-01-30]. https://zh.wikibooks.org/w/index.php?title=福州語/會話/第2課%26oldid=123058." Property="spoken">
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Copyright="CC BY-SA 3.0" Property="spoken">
 	<Translator>
 		<Name>关彳山</Name>
 	</Translator>
@@ -17,5 +17,6 @@
 			<Translation TransText="什麼" Iso639-1="zh" Iso639-3="cmn"/>
 		</SecLv2>
 		<SecLv2 Text="." Section="Punctuation"/>
+		<Source>維基教科書编者. 福州語/會話/第2課[G/OL]. 中文維基教科書, 2018-09-20[2021-01-30]. https://zh.wikibooks.org/w/index.php?title=福州語/會話/第2課%26oldid=123058.</Source>
 	</SecLv1>
 </Corpus>

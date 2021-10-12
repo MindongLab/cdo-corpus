@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Source="cgkyk. 如果你还需要我（福州话歌词）[EB/OL]. 新浪博客, 2020-05-25. http://blog.sina.com.cn/s/blog_632254e5010302kd.html." Property="written">
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
 	<Speaker>
 		<Name>cgkyk</Name>
 	</Speaker>
@@ -86,4 +86,5 @@
 			<Translation TransText="請記得我是最愛你那一個" Iso639-1="zh" Iso639-3="cmn"/>
 		</SecLv2>
 	</SecLv1>
+	<Source>cgkyk. 如果你还需要我（福州话歌词）[EB/OL]. 新浪博客, 2020-05-25. http://blog.sina.com.cn/s/blog_632254e5010302kd.html.</Source>
 </Corpus>
