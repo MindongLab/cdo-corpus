@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2021-01-27T02:40:08+08:00"
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2021-11-08T01:19:23+08:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -29,7 +29,7 @@
         <TIME_SLOT TIME_SLOT_ID="ts17" TIME_VALUE="1030"/>
         <TIME_SLOT TIME_SLOT_ID="ts18" TIME_VALUE="1030"/>
     </TIME_ORDER>
-    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul"
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cdo"
         LINGUISTIC_TYPE_REF="default-lt" TIER_ID="character"/>
     <TIER ANNOTATOR="关彳山" LANG_REF="cdo"
         LINGUISTIC_TYPE_REF="default-lt" TIER_ID="yngping by char."/>

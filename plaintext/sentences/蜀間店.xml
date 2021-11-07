@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Copyright="CC BY-NC-ND 3.0" Property="spoken">
+	<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+	<Provider>
+		<Name>晉安梅客@Weibo</Name>
+	</Provider>
+	<SecLv1 Iso639-6="mqig" Section="Sentence" Date="2020-10-12">
+		<Translation Iso639-1="zh" TransText="一間店"/>
+		<SecLv2 Text="蜀" Section="Character"/>
+		<SecLv2 Text="間" Section="Character"/>
+		<SecLv2 Text="店" Section="Character"/>
+	</SecLv1>
+</Corpus>
