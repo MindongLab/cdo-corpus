@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
+	<Speaker>
+		<Name>cgkyk</Name>
+	</Speaker>
+	<Translator Iso639-1="zh" Iso639-3="cmn">
+		<Name>宋普照</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Date="2020-05-25" Iso639-1="zh" Iso639-3="cdo" Section="Article">
+		<Title Text="如果汝固需要我" TypoFix="如果汝故需要我">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="如果你還需要我"/>
+		</Title>
+		<SecLv2 Text="如果汝固需要我" TypoFix="如果汝故需要我" Section="Sentence">
+			<Translation TransText="衹要你還需要我" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我一定會共汝固是友好" TypoFix="我一定會共汝故是友好" Section="Sentence">
+			<Translation TransText="我一定會給你如初暖和" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="就算我不能轉厝來褒" Section="Sentence">
+			<Translation TransText="就算再不能回頭一折" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我一定會將阿汝啊囥著心窩" TypoFix="我一定會將阿汝吓囥著心窩" Section="Sentence">
+			<Translation TransText="我依然會把那個你放在心窩" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="風輕輕吹過" Section="Sentence">
+			<Translation TransText="風輕輕吹過" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="雨慢慢逿落" Section="Sentence">
+			<Translation TransText="雨輕輕飄落" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="時間將幸福" Section="Sentence">
+			<Translation TransText="時光將幸福" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="不斷逐去" Section="Sentence">
+			<Translation TransText="悄悄剝奪" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="回憶固禮熬" TypoFix="回憶故𡅏熬" Section="Sentence">
+			<Translation TransText="承諾還在說" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="心關著監牢" Section="Sentence">
+			<Translation TransText="心卻如刀割" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="分開只幾年" TypoFix="分開這幾年" Section="Sentence">
+			<Translation TransText="分開這些年" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="想念囉唆" Section="Sentence">
+			<Translation TransText="懷念太多" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="愛是有來討" Section="Sentence">
+			<Translation TransText="愛曾經來過" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="疼固是無牧" TypoFix="疼故是無牧" Section="Sentence">
+			<Translation TransText="痛那麼執著" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="歸根結底是" Section="Sentence">
+			<Translation TransText="歸根結底是" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="無法放落" Section="Sentence">
+			<Translation TransText="難以捨得" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="總款其結果" Section="Sentence">
+			<Translation TransText="這樣的結果" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="再無有如果" Section="Sentence">
+			<Translation TransText="再沒有如果" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="明明儂家都" Section="Sentence">
+			<Translation TransText="明明我們都" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="綻錯都無" TypoFix="賺錯都無" Section="Sentence">
+			<Translation TransText="不曾犯錯" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="喔如果汝固需要我" TypoFix="呵如果汝故需要我" Section="Sentence">
+			<Translation TransText="喔衹要你還需要我" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我一定會為汝赴湯蹈火" Section="Sentence">
+			<Translation TransText="我仍然會為你赴湯蹈火" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="就算只世是各分天河" TypoFix="就算這世是各分天河" Section="Sentence">
+			<Translation TransText="就算今生是天涯過客" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="請記禮汝是阿我其蜀只寶" TypoFix="請記𡅏汝是阿我其蜀隻寶" Section="Sentence">
+			<Translation TransText="請記得我是最愛你那一個" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+	</SecLv1>
+	<Source>cgkyk. 如果你还需要我（福州话歌词）[EB/OL]. 新浪博客, 2020-05-25. http://blog.sina.com.cn/s/blog_632254e5010302kd.html.</Source>
+</Corpus>

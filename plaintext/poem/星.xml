@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
+	<Speaker>
+		<Name>cgkyk</Name>
+	</Speaker>
+	<Translator Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng">
+		<Name>鄭國江</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-3="cdo" Iso639-1="zh" Date="2020-05-30" Section="Article">
+		<SecLv2 Section="Sentence" Text="䀫上我目睭, 心中就無雜音">
+			<Translation TransText="閉起雙眼睛, 心中感覺清靜" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="但擘開眼睛, 我會驚前景">
+			<Translation TransText="再張開眼睛, 怕觀望前程" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="夜冷風更清, 這一片荒野地" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="風">
+				<Translation TransText="風" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="冷">
+				<Translation TransText="冷" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="看"/>
+			<SecLv3 Section="Character" Text="更">
+				<Translation TransText="更" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="清"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="只" TypoFix="這">
+				<Translation TransText="這" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="蜀">
+				<Translation TransText="一" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="片">
+				<Translation TransText="片" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="大"/>
+			<SecLv3 Section="Word" Text="樹林"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="沿途是岐路, 我方向未能明" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Word" Text="墿囝" TypoFix="路囝">
+				<Translation TransText="路" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Word" Text="真門" TypoFix="這滿"/>
+			<SecLv3 Section="Character" Text="侈" TypoFix="価"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="我"/>
+			<SecLv3 Section="Word" Text="方向"/>
+			<SecLv3 Section="Phrase">
+				<Translation TransText="未能明" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+				<SecLv4 Section="Character" Text="分"/>
+				<SecLv4 Section="Character" Text="𣍐" TypoFix="儥">
+					<Translation TransText="未能" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+				</SecLv4>
+				<SecLv4 Section="Character" Text="清"/>
+			</SecLv3>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="啊, 不見朗月" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="啊" TypoFix="吓">
+				<Translation TransText="啊" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Word" Text="今晡"/>
+			<SecLv3 Section="Character" Text="無"/>
+			<SecLv3 Section="Character" Text="月">
+				<Translation TransText="朗月" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="導我迷途衹有星" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="共"/>
+			<SecLv3 Section="Character" Text="我">
+				<Translation TransText="我" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="比">
+				<Translation TransText="導" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="墿" TypoFix="路">
+				<Translation TransText="途" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="儷" TypoFix="㑚">
+				<Translation TransText="衹" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="有">
+				<Translation TransText="有" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="星">
+				<Translation TransText="星" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="啊, 荒野路" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="啊" TypoFix="吓"/>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="墿" TypoFix="路">
+				<Translation TransText="路" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="真" TypoFix="盡"/>
+			<SecLv3 Section="Character" Text="窄"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="陪我齊行藍尾星">
+			<Translation TransText="伴我獨行是流螢" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="孤單蜀人">
+			<Translation TransText="縱步獨行" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="沿途寂靜, 似衹有呼吸聲" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Word" Text="墿中" TypoFix="路中">
+				<Translation TransText="沿途" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Phrase" Text="真靜" TypoFix="盡靜">
+				<Translation TransText="寂靜" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="會"/>
+			<SecLv3 Section="Word" Text="聽見"/>
+			<SecLv3 Section="Character" Text="蟲"/>
+			<SecLv3 Section="Word" Text="聲音">
+				<Translation TransText="音" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="慢慢行前, 我卜爬懸懸山頂">
+			<Translation TransText="緩步前往, 決意走崎嶇山徑" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="伐過溪水, 環境馬上更新">
+			<Translation TransText="踏過荊棘, 苦中找到安靜" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="爬上山坡, 我大汗都淋淋">
+			<Translation TransText="踏過荒郊, 我雙腳是泥濘" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="滿天星光, 我不怕風正勁" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Word" Text="滿天">
+				<Translation TransText="滿天" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Word" Text="星星">
+				<Translation TransText="星" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Character" Text="我"/>
+			<Translation TransText="我" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="伓"/>
+			<Translation TransText="不" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="驚"/>
+			<Translation TransText="怕" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="有"/>
+			<SecLv3 Section="Word" Text="菅蓁" TypoFix="菅菁">
+			</SecLv3>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="我心會肯定, 過山頂日頭昇">
+			<Translation TransText="滿心是期望, 過黑暗是黎明" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="啊, 星也燦爛" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="啊" TypoFix="吓">
+				<Translation TransText="啊" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Word" Text="星星">
+				<Translation TransText="星" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Word" Text="燦爛">
+				<Translation TransText="燦爛" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="陪我齊行像電影">
+			<Translation TransText="伴我夜行給我影" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="啊, 星光引路" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="啊" TypoFix="吓">
+				<Translation TransText="啊" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Punctuation" Text=","/>
+			<SecLv3 Section="Word" Text="星星">
+				<Translation TransText="星" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="帶">
+				<Translation TransText="引" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="墿" TypoFix="路">
+				<Translation TransText="路" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+		</SecLv2>
+		<SecLv2 Section="Sentence">
+			<Translation TransText="風之語輕輕聽" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="風">
+				<Translation TransText="風" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Phrase" Text="講話"/>
+			<SecLv3 Section="Character" Text="也"/>
+			<SecLv3 Section="Character" Text="真" TypoFix="盡"/>
+			<SecLv3 Section="Character" Text="親"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="我盡認真">
+			<Translation TransText="帶著熱情" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="卜想討美景, 美景敆野深">
+			<Translation TransText="我要找理想, 理想是和平" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="夢想完成, 汝著有滿腔熱情">
+			<Translation TransText="尋夢而去, 那怕走崎嶇險徑" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="下日我再行, 固有滿天星">
+			<Translation TransText="明日誰步過, 這星也帶領" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+		</SecLv2>
+	</SecLv1>
+	<Source>cgkyk. 星[EB/OL]. 新浪博客, 2020-05-30. http://blog.sina.com.cn/s/blog_632254e5010302ln.html.</Source>
+</Corpus>

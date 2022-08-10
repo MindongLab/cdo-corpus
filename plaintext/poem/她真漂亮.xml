@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
+	<Speaker>
+		<Name>cgkyk</Name>
+	</Speaker>
+	<Translator Iso639-1="zh" Iso639-3="cmn">
+		<Name>秋民株</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Date="2020-05-16" Iso639-1="zh" Iso639-3="cdo" Section="Article">
+		<Title Text="伊真漂亮" TypoFix="伊盡漂亮">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="她真漂亮"/>
+		</Title>
+		<SecLv2 Text="她真漂亮" TypoFix="伊盡漂亮" Section="Sentence">
+			<Translation TransText="她真漂亮" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="看見伊我會緊張" Section="Sentence">
+			<Translation TransText="看到她我會慌張" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="每蜀回" Section="Sentence">
+			<Translation TransText="每一次" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="伊坐教室離我儷𣍐遠" TypoFix="伊坐教室離我㑚儥遠" Section="Sentence">
+			<Translation TransText="她不經意走過我身旁" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我偷偷將當時印象" Section="Sentence">
+			<Translation TransText="我都要將這一瞬間" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="都畫著書上" Section="Sentence">
+			<Translation TransText="在心底珍藏" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我真希望" TypoFix="我盡希望" Section="Sentence">
+			<Translation TransText="我多希望" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="伊暗示我題做未完" Section="Sentence">
+			<Translation TransText="她會問我最近怎樣" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我真希望" TypoFix="我盡希望" Section="Sentence">
+			<Translation TransText="我多希望" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="伊會共我齊行著校園" Section="Sentence">
+			<Translation TransText="她會微笑走過我身旁" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我真希望" TypoFix="我盡希望" Section="Sentence">
+			<Translation TransText="我多希望" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="伊會牽我拔出其手腕" Section="Sentence">
+			<Translation TransText="她會向我伸出她的手" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="滿天星光" Section="Sentence">
+			<Translation TransText="漫天星光" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="會照禮儂家飛翔" TypoFix="會照𡅏儂家飛翔" Section="Sentence">
+			<Translation TransText="將伴著我們飛翔" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="想對伊講" Section="Sentence">
+			<Translation TransText="想對你說" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我總是想汝心就癢" Section="Sentence">
+			<Translation TransText="我總是將你放心上" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="想讓伊看" Section="Sentence">
+			<Translation TransText="想讓你看" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我幸福目滓像溫泉" Section="Sentence">
+			<Translation TransText="我雙眼閃爍的淚光" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="有無感覺" Section="Sentence">
+			<Translation TransText="感受到嗎" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="我其歡喜激動其力量" Section="Sentence">
+			<Translation TransText="我那澎湃熾熱的心臟" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="天許滿遠" Section="Sentence">
+			<Translation TransText="夜那麼長" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="星星擘嘴輕輕歌唱" TypoFix="星星擘喙輕輕歌唱" Section="Sentence">
+			<Translation TransText="星星會將我們照亮" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="伊真漂亮" TypoFix="伊盡漂亮" Section="Sentence">
+			<Translation TransText="她真漂亮" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="但我只能想像" TypoFix="但我衹能想像" Section="Sentence">
+			<Translation TransText="我卻只能夠想像" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="伊真漂亮" TypoFix="伊盡漂亮" Section="Sentence">
+			<Translation TransText="她真漂亮" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="夢中其伊其儂像" Section="Sentence">
+			<Translation TransText="夢中的那個人啊" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+	</SecLv1>
+	<Source>cgkyk. 她真漂亮（福州话歌词）[EB/OL]. 新浪博客, 2020-05-16. http://blog.sina.com.cn/s/blog_632254e5010302hu.html.</Source>
+</Corpus>

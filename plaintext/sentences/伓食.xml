@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Copyright="CC BY-NC-ND 3.0" Property="spoken">
+	<Translator>
+		<Name>陳学雄</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-6="fuqi" Section="Sentence" Date="2018-03-23">
+		<Translation Iso639-1="ja" TransText="食べない"/>
+		<SecLv2 Text="伓" YngPing="n" Section="Character"/>
+		<SecLv2 Text="食" Section="Character"/>
+	</SecLv1>
+	<Source>陳学雄. 漢語福清方言の記述言語学的研究[D/OL]. 神戸: 神戸市外国語大学大学院外国語学研究科文化交流専攻言語コース, 2018: 29. http://doi.org/10.11501/2017_K60_chen.</Source>
+</Corpus>

@@ -1,0 +1,923 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+	<xs:element name="Corpus">
+		<xs:annotation>
+			<xs:documentation>Root element / 根元素</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Title" minOccurs="0"/>
+				<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="SecLv1" maxOccurs="unbounded"/>
+				<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute ref="Conversation" use="optional"/>
+			<xs:attribute ref="Property" use="optional"/>
+			<xs:attribute ref="Copyright" use="optional"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:attribute name="Conversation" type="xs:boolean"/>
+	<xs:attribute name="Property">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="spoken"/>
+				<xs:enumeration value="written"/>
+				<xs:enumeration value="formal"/>
+				<xs:enumeration value="kunnyomi"/>
+				<xs:enumeration value="onnyomi"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:attribute>
+	<xs:attribute name="Copyright" type="xs:string"/>
+	<xs:attribute name="Text">
+		<xs:annotation>
+			<xs:documentation>Corpus text / 語料文本</xs:documentation>
+		</xs:annotation>
+	</xs:attribute>
+	<xs:element name="Title">
+		<xs:annotation>
+			<xs:documentation>Title of work / 作品標題</xs:documentation>
+		</xs:annotation>
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="Phrase" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element name="Word" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+										<xs:element name="Character" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+												</xs:sequence>
+												<xs:attribute ref="Text"/>
+												<xs:attributeGroup ref="Transliteration"/>
+												<xs:attributeGroup ref="LanCode"/>
+												<xs:attribute ref="Legal"/>
+												<xs:attribute ref="TypoFix"/>
+												<xs:attribute ref="Note" use="optional"/>
+											</xs:complexType>
+										</xs:element>
+									</xs:sequence>
+									<xs:attribute ref="Text"/>
+									<xs:attributeGroup ref="Transliteration"/>
+									<xs:attributeGroup ref="LanCode"/>
+									<xs:attribute ref="Legal"/>
+									<xs:attribute ref="TypoFix"/>
+									<xs:attribute ref="Note" use="optional"/>
+								</xs:complexType>
+							</xs:element>
+						</xs:sequence>
+						<xs:attribute ref="Text"/>
+						<xs:attributeGroup ref="Transliteration"/>
+						<xs:attributeGroup ref="LanCode"/>
+						<xs:attribute ref="Legal"/>
+						<xs:attribute ref="TypoFix"/>
+						<xs:attribute ref="Note" use="optional"/>
+					</xs:complexType>
+				</xs:element>
+			</xs:sequence>
+			<xs:attribute ref="Text"/>
+			<xs:attributeGroup ref="Transliteration"/>
+			<xs:attributeGroup ref="LanCode"/>
+			<xs:attribute ref="Legal" use="optional"/>
+			<xs:attribute ref="TypoFix" use="optional"/>
+			<xs:attribute ref="Note" use="optional"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name="SecTemplate">
+		<xs:sequence>
+			<xs:element ref="Title" minOccurs="0"/>
+			<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+			<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+		</xs:sequence>
+		<xs:attribute ref="Text"/>
+		<xs:attribute ref="Section" use="required"/>
+		<xs:attributeGroup ref="Transliteration"/>
+		<xs:attributeGroup ref="LanCode"/>
+		<xs:attribute ref="Legal" use="optional"/>
+		<xs:attribute ref="TypoFix" use="optional"/>
+		<xs:attribute ref="Note" use="optional"/>
+		<xs:attributeGroup ref="TimeGroup"/>
+		<xs:attribute ref="Conversation" use="optional"/>
+		<xs:attribute ref="Property" use="optional"/>
+		<xs:attribute ref="Copyright" use="optional"/>
+	</xs:complexType>
+	<xs:element name="SecLv1">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element ref="Title" minOccurs="0"/>
+				<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="SecLv2" minOccurs="0" maxOccurs="unbounded">
+					<xs:complexType>
+						<xs:sequence>
+							<xs:element ref="Title" minOccurs="0"/>
+							<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element name="SecLv3" minOccurs="0" maxOccurs="unbounded">
+								<xs:complexType>
+									<xs:sequence>
+										<xs:element ref="Title" minOccurs="0"/>
+										<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+										<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+										<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+										<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+										<xs:element name="SecLv4" minOccurs="0" maxOccurs="unbounded">
+											<xs:complexType>
+												<xs:sequence>
+													<xs:element ref="Title" minOccurs="0"/>
+													<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+													<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+													<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+													<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+													<xs:element name="SecLv5" minOccurs="0" maxOccurs="unbounded">
+														<xs:complexType>
+															<xs:sequence>
+																<xs:element ref="Title" minOccurs="0"/>
+																<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+																<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+																<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+																<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+																<xs:element name="SecLv6" minOccurs="0" maxOccurs="unbounded">
+																	<xs:complexType>
+																		<xs:sequence>
+																			<xs:element ref="Title" minOccurs="0"/>
+																			<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+																			<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+																			<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+																			<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+																			<xs:element name="SecLv7" minOccurs="0" maxOccurs="unbounded">
+																				<xs:complexType>
+																					<xs:sequence>
+																						<xs:element ref="Title" minOccurs="0"/>
+																						<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
+																						<xs:element ref="Speaker" minOccurs="0" maxOccurs="unbounded"/>
+																						<xs:element ref="Translator" minOccurs="0" maxOccurs="unbounded"/>
+																						<xs:element ref="Provider" minOccurs="0" maxOccurs="unbounded"/>
+																						<xs:element name="SecLv8" type="SecTemplate" minOccurs="0" maxOccurs="unbounded"/>
+																						<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+																						<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+																					</xs:sequence>
+																					<xs:attribute ref="Section" use="required"/>
+																					<xs:attributeGroup ref="Transliteration"/>
+																					<xs:attributeGroup ref="LanCode"/>
+																					<xs:attribute ref="Legal" use="optional"/>
+																					<xs:attribute ref="TypoFix" use="optional"/>
+																					<xs:attribute ref="Note" use="optional"/>
+																					<xs:attributeGroup ref="TimeGroup"/>
+																					<xs:attribute ref="Conversation" use="optional"/>
+																					<xs:attribute ref="Property" use="optional"/>
+																					<xs:attribute ref="Copyright" use="optional"/>
+																				</xs:complexType>
+																			</xs:element>
+																			<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+																			<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+																		</xs:sequence>
+																		<xs:attribute ref="Text"/>
+																		<xs:attribute ref="Section" use="required"/>
+																		<xs:attributeGroup ref="Transliteration"/>
+																		<xs:attributeGroup ref="LanCode"/>
+																		<xs:attribute ref="Legal" use="optional"/>
+																		<xs:attribute ref="TypoFix" use="optional"/>
+																		<xs:attribute ref="Note" use="optional"/>
+																		<xs:attributeGroup ref="TimeGroup"/>
+																		<xs:attribute ref="Conversation" use="optional"/>
+																		<xs:attribute ref="Property" use="optional"/>
+																		<xs:attribute ref="Copyright" use="optional"/>
+																	</xs:complexType>
+																</xs:element>
+																<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+																<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+															</xs:sequence>
+															<xs:attribute ref="Text"/>
+															<xs:attribute ref="Section" use="required"/>
+															<xs:attributeGroup ref="Transliteration"/>
+															<xs:attributeGroup ref="LanCode"/>
+															<xs:attribute ref="Legal" use="optional"/>
+															<xs:attribute ref="TypoFix" use="optional"/>
+															<xs:attribute ref="Note" use="optional"/>
+															<xs:attributeGroup ref="TimeGroup"/>
+															<xs:attribute ref="Conversation" use="optional"/>
+															<xs:attribute ref="Property" use="optional"/>
+															<xs:attribute ref="Copyright" use="optional"/>
+														</xs:complexType>
+													</xs:element>
+													<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+													<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+												</xs:sequence>
+												<xs:attribute ref="Text"/>
+												<xs:attribute ref="Section" use="required"/>
+												<xs:attributeGroup ref="Transliteration"/>
+												<xs:attributeGroup ref="LanCode"/>
+												<xs:attribute ref="Legal" use="optional"/>
+												<xs:attribute ref="TypoFix" use="optional"/>
+												<xs:attribute ref="Note" use="optional"/>
+												<xs:attributeGroup ref="TimeGroup"/>
+												<xs:attribute ref="Conversation" use="optional"/>
+												<xs:attribute ref="Property" use="optional"/>
+												<xs:attribute ref="Copyright" use="optional"/>
+											</xs:complexType>
+										</xs:element>
+										<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+										<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+									</xs:sequence>
+									<xs:attribute ref="Text"/>
+									<xs:attribute ref="Section" use="required"/>
+									<xs:attributeGroup ref="Transliteration"/>
+									<xs:attributeGroup ref="LanCode"/>
+									<xs:attribute ref="Legal" use="optional"/>
+									<xs:attribute ref="TypoFix" use="optional"/>
+									<xs:attribute ref="Note" use="optional"/>
+									<xs:attributeGroup ref="TimeGroup"/>
+									<xs:attribute ref="Conversation" use="optional"/>
+									<xs:attribute ref="Property" use="optional"/>
+									<xs:attribute ref="Copyright" use="optional"/>
+								</xs:complexType>
+							</xs:element>
+							<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+							<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+						</xs:sequence>
+						<xs:attribute ref="Text"/>
+						<xs:attribute ref="Section" use="required"/>
+						<xs:attributeGroup ref="Transliteration"/>
+						<xs:attributeGroup ref="LanCode"/>
+						<xs:attribute ref="Legal" use="optional"/>
+						<xs:attribute ref="TypoFix" use="optional"/>
+						<xs:attribute ref="Note" use="optional"/>
+						<xs:attributeGroup ref="TimeGroup"/>
+						<xs:attribute ref="Conversation" use="optional"/>
+						<xs:attribute ref="Property" use="optional"/>
+						<xs:attribute ref="Copyright" use="optional"/>
+					</xs:complexType>
+				</xs:element>
+				<xs:element name="Tag" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+				<xs:element name="Source" type="xs:string" minOccurs="0" maxOccurs="unbounded"/>
+			</xs:sequence>
+			<xs:attribute ref="Text"/>
+			<xs:attribute ref="Section" use="required"/>
+			<xs:attributeGroup ref="Transliteration"/>
+			<xs:attributeGroup ref="LanCode"/>
+			<xs:attribute ref="Legal" use="optional"/>
+			<xs:attribute ref="TypoFix" use="optional"/>
+			<xs:attribute ref="Note" use="optional"/>
+			<xs:attributeGroup ref="TimeGroup"/>
+			<xs:attribute ref="Conversation" use="optional"/>
+			<xs:attribute ref="Property" use="optional"/>
+			<xs:attribute ref="Copyright" use="optional"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:attribute name="Section">
+		<xs:simpleType>
+			<xs:restriction base="xs:string">
+				<xs:enumeration value="Series"/>
+				<xs:enumeration value="Work"/>
+				<xs:enumeration value="Volume"/>
+				<xs:enumeration value="Chapter"/>
+				<xs:enumeration value="Article"/>
+				<xs:enumeration value="Paragragh"/>
+				<xs:enumeration value="Sentence"/>
+				<xs:enumeration value="Phrase"/>
+				<xs:enumeration value="Word"/>
+				<xs:enumeration value="Character"/>
+				<xs:enumeration value="Punctuation"/>
+			</xs:restriction>
+		</xs:simpleType>
+	</xs:attribute>
+	<xs:complexType name="Person">
+		<xs:sequence>
+			<xs:element name="Name" type="xs:string" minOccurs="0"/>
+			<xs:element name="SpeakerId" minOccurs="0">
+				<xs:simpleType>
+					<xs:restriction base="xs:integer">
+						<xs:minInclusive value="1"/>
+					</xs:restriction>
+				</xs:simpleType>
+			</xs:element>
+		</xs:sequence>
+	</xs:complexType>
+	<xs:element name="Speaker">
+		<xs:complexType>
+			<xs:complexContent>
+				<xs:extension base="Person"/>
+			</xs:complexContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Translator">
+		<xs:complexType>
+			<xs:complexContent>
+				<xs:extension base="Person">
+					<xs:attributeGroup ref="LanCode"/>
+					<xs:attributeGroup ref="TimeGroup"/>
+				</xs:extension>
+			</xs:complexContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:element name="Provider">
+		<xs:complexType>
+			<xs:complexContent>
+				<xs:extension base="Person">
+					<xs:attributeGroup ref="TimeGroup"/>
+				</xs:extension>
+			</xs:complexContent>
+		</xs:complexType>
+	</xs:element>
+	<xs:attributeGroup name="Transliteration">
+		<xs:attribute name="FoochowRomanized" type="xs:string" use="optional">
+			<xs:annotation>
+				<xs:documentation>Foochow Romanized / 福州話教會羅馬字</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="YngPing" type="xs:string" use="optional">
+			<xs:annotation>
+				<xs:documentation>Pronunciation in YngPing / 榕拼實際讀音</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:element name="Translation">
+		<xs:complexType>
+			<xs:attribute name="TransText" type="xs:string" use="optional">
+				<xs:annotation>
+					<xs:documentation>Translation in Chinese Mandarin / 漢語普通話翻譯</xs:documentation>
+				</xs:annotation>
+			</xs:attribute>
+			<xs:attributeGroup ref="LanCode"/>
+		</xs:complexType>
+	</xs:element>
+	<xs:attributeGroup name="LanCode">
+		<xs:annotation>
+			<xs:documentation>Language code / 語言代碼</xs:documentation>
+		</xs:annotation>
+		<xs:attribute name="Iso639-1" type="xs:string" use="optional"/>
+		<xs:attribute name="Iso639-3" type="xs:string" use="optional"/>
+		<xs:attribute name="Iso639-6" use="optional">
+			<xs:annotation>
+				<xs:documentation>ISO 639-6 Language Code / ISO 639-6語言代碼</xs:documentation>
+			</xs:annotation>
+			<xs:simpleType>
+				<xs:restriction base="xs:string">
+					<xs:enumeration value="wrld">
+						<xs:annotation>
+							<xs:documentation>World (undetermined) / 世界語言 (未指定語言)</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="snot">
+						<xs:annotation>
+							<xs:documentation>Sino-Tibetan / 漢藏語系</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="mclr">
+						<xs:annotation>
+							<xs:documentation>Min Chinese / 閩語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="mgse">
+						<xs:annotation>
+							<xs:documentation>Houguan Min / 閩語侯官片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="fzho">
+						<xs:annotation>
+							<xs:documentation>Fuzhou dialect (Fuzhou urban area in narrow sense) / 福州話 (狹義則爲福州市區)</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="mnhu">
+						<xs:annotation>
+							<xs:documentation>Minhou dialect / 閩侯話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="cgle">
+						<xs:annotation>
+							<xs:documentation>Changle dialect / 長樂話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="liji">
+						<xs:annotation>
+							<xs:documentation>Lianjiang dialect / 連江話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="masu">
+						<xs:annotation>
+							<xs:documentation>Matsu dialect / 馬祖話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="mqig">
+						<xs:annotation>
+							<xs:documentation>Minqing dialect / 閩清話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="ygti">
+						<xs:annotation>
+							<xs:documentation>Yongtai dialect / 永泰話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="fuqi">
+						<xs:annotation>
+							<xs:documentation>Fuqing dialect / 福清話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="pgta">
+						<xs:annotation>
+							<xs:documentation>Pingtan dialect / 平潭話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="luya">
+						<xs:annotation>
+							<xs:documentation>Luoyuan dialect / 羅源話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="guta">
+						<xs:annotation>
+							<xs:documentation>Gutian dialect / 古田話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="pign">
+						<xs:annotation>
+							<xs:documentation>Pingnan dialect / 屏南話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="mgno">
+						<xs:annotation>
+							<xs:documentation>Funing Min / 閩語福寧片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="ngde">
+						<xs:annotation>
+							<xs:documentation>Ningde dialect / 寧德話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="fuua">
+						<xs:annotation>
+							<xs:documentation>Fu'an dialect / 福安話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="xipu">
+						<xs:annotation>
+							<xs:documentation>Xiapu dialect / 霞浦話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="zrog">
+						<xs:annotation>
+							<xs:documentation>Zherong dialect / 柘榮話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="fudg">
+						<xs:annotation>
+							<xs:documentation>Fuding dialect / 福鼎話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="soui">
+						<xs:annotation>
+							<xs:documentation>Shouning dialect / 壽寧話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="zuin">
+						<xs:annotation>
+							<xs:documentation>Zhouning dialect / 周寧話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="yuxi">
+						<xs:annotation>
+							<xs:documentation>Youxi dialect / 尤溪話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="diyu">
+						<xs:annotation>
+							<xs:documentation>Daiyunshan dialect / 戴雲山話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="maua">
+						<xs:annotation>
+							<xs:documentation>Manjiang / 蠻講</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="qtik">
+						<xs:annotation>
+							<xs:documentation>Taiwanese Hokkien / 臺灣閩南語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="czhu">
+						<xs:annotation>
+							<xs:documentation>Teochew dialect / 潮州話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="hife">
+						<xs:annotation>
+							<xs:documentation>Haifeng dialect / 海豐話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="lizu">
+						<xs:annotation>
+							<xs:documentation>Leizhou Min / 閩語雷州片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="htia">
+						<xs:annotation>
+							<xs:documentation>Taiwanese Hakka / 臺灣客家語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="tigz">
+						<xs:annotation>
+							<xs:documentation>Tingzhou Hakka / 客家語汀州片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="bjgh">
+						<xs:annotation>
+							<xs:documentation>Beijing Mandarin / 北京官話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="cosc">
+						<xs:annotation>
+							<xs:documentation>Putonghua / 普通話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="goyu">
+						<xs:annotation>
+							<xs:documentation>Guoyu (Taiwan Mandarin) / 國語 (臺灣華語)</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="huyu">
+						<xs:annotation>
+							<xs:documentation>Huayu (Mandarin in Singapore and Southeast Asia) / 華語 (南洋華語)</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="bjjg">
+						<xs:annotation>
+							<xs:documentation>Beijing dialect / 北京話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="tjin">
+						<xs:annotation>
+							<xs:documentation>Tianjin dialect / 天津話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="dbiu">
+						<xs:annotation>
+							<xs:documentation>Northeastern Mandarin / 東北官話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="jliu">
+						<xs:annotation>
+							<xs:documentation>Jiaoliao Mandarin / 膠遼官話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="jlua">
+						<xs:annotation>
+							<xs:documentation>Ji–lu Mandarin / 冀魯官話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="juai">
+						<xs:annotation>
+							<xs:documentation>Jiang–Huai Mandarin / 江淮官話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="njin">
+						<xs:annotation>
+							<xs:documentation>Nanjing dialect / 南京話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="zgyu">
+						<xs:annotation>
+							<xs:documentation>Central Plains Mandarin / 中原官話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="guzg">
+						<xs:annotation>
+							<xs:documentation>Guanzhong dialect / 關中話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="lyiu">
+						<xs:annotation>
+							<xs:documentation>Lan−Yin Mandarin / 蘭銀官話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="xghu">
+						<xs:annotation>
+							<xs:documentation>Southwestern Mandarin / 西南官話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="cyuc">
+						<xs:annotation>
+							<xs:documentation>Chengdu dialect / 成都話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="gili">
+						<xs:annotation>
+							<xs:documentation>Guiliu Mandarin / 貴柳話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="jnha">
+						<xs:annotation>
+							<xs:documentation>Junjiahua (Hainan Junjiahua) / 軍家話 (海南軍話)</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="toji">
+						<xs:annotation>
+							<xs:documentation>Tongjing Wu / 吳語銅涇小片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="taiu">
+						<xs:annotation>
+							<xs:documentation>Taihu Wu / 吳語太湖片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="suji">
+						<xs:annotation>
+							<xs:documentation>Suzhou dialect / 蘇州話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="plig">
+						<xs:annotation>
+							<xs:documentation>Changzhou dialect / 常州話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="hgou">
+						<xs:annotation>
+							<xs:documentation>Hangzhou dialect / 杭州話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="wzhu">
+						<xs:annotation>
+							<xs:documentation>Wenzhou dialect / 溫州話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="jiua">
+						<xs:annotation>
+							<xs:documentation>Jinhua dialect / 金華話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="cuqu">
+						<xs:annotation>
+							<xs:documentation>Chu–Qu Wu / 吳語處衢片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="tihu">
+						<xs:annotation>
+							<xs:documentation>Taizhou Wu / 吳語台州片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="tzoj">
+						<xs:annotation>
+							<xs:documentation>Taizhou dialect / 台州話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="wceg">
+						<xs:annotation>
+							<xs:documentation>Wencheng dialect / 文成話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="cagj">
+						<xs:annotation>
+							<xs:documentation>Chang-Jing Gan / 贛語昌靖片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="yilu">
+						<xs:annotation>
+							<xs:documentation>Yi-Liu Gan / 贛語宜瀏片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="yiyi">
+						<xs:annotation>
+							<xs:documentation>Ying-Yi Gan / 贛語鷹弋片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="dton">
+						<xs:annotation>
+							<xs:documentation>Da-Tong Gan / 大冶話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="louo">
+						<xs:annotation>
+							<xs:documentation>Old Xiang / 老湘語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="cayi">
+						<xs:annotation>
+							<xs:documentation>New Xiang / 新湘語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="jiix">
+						<xs:annotation>
+							<xs:documentation>Ji−Xu Xiang / 湘語辰溆片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="yyef">
+						<xs:annotation>
+							<xs:documentation>Cantonese / 廣州話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="guzh">
+						<xs:annotation>
+							<xs:documentation>Guangzhou Cantonese / 廣州粵語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="xgng">
+						<xs:annotation>
+							<xs:documentation>Hong Kong Cantonese / 香港粵語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="tisa">
+						<xs:annotation>
+							<xs:documentation>Taishanese / 臺山話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="shiq">
+						<xs:annotation>
+							<xs:documentation>石岐話 / Shiqi dialect</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="stns">
+						<xs:annotation>
+							<xs:documentation>Satinese / 沙田話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="siiy">
+						<xs:annotation>
+							<xs:documentation>Siyi Yue / 粵語四邑片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="yoxu">
+						<xs:annotation>
+							<xs:documentation>Yong−Xun Yue / 粵語邕潯片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="goya">
+						<xs:annotation>
+							<xs:documentation>Gao-Yang Yue / 粵語高陽片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="gulu">
+						<xs:annotation>
+							<xs:documentation>Goulou Yue / 粵語勾漏片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="qnli">
+						<xs:annotation>
+							<xs:documentation>Qin−Lian Yue / 粵語欽廉片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="whua">
+						<xs:annotation>
+							<xs:documentation>Wu–Hua Yue / 粵語吳化片</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="sazo">
+						<xs:annotation>
+							<xs:documentation>Shaozhou Tuhua / 韶州土話</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="mypy">
+						<xs:annotation>
+							<xs:documentation>Hmong–Mien languages / 苗瑤語系</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="bicr">
+						<xs:annotation>
+							<xs:documentation>Bai language / 白語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="tbkn">
+						<xs:annotation>
+							<xs:documentation>Tibeto-Burman languages / 藏緬語族</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="akcr">
+						<xs:annotation>
+							<xs:documentation>Hani language / 哈尼語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="tugu">
+						<xs:annotation>
+							<xs:documentation>Manchu-Tungus languages / 滿－通古斯語族</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="hhjm">
+						<xs:annotation>
+							<xs:documentation>Hachjiō language / 八丈語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="mgln">
+						<xs:annotation>
+							<xs:documentation>Mongolic / 蒙古語族</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="tkic">
+						<xs:annotation>
+							<xs:documentation>Turkic / 突厥語族</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="kmti">
+						<xs:annotation>
+							<xs:documentation>Dong–Tai languages / 侗台語族</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="ineu">
+						<xs:annotation>
+							<xs:documentation>Indo-European / 印歐語系</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="grmc">
+						<xs:annotation>
+							<xs:documentation>Germanic / 日耳曼語族</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="gmcw">
+						<xs:annotation>
+							<xs:documentation>West Germanic / 西日耳曼語支</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="nsea">
+						<xs:annotation>
+							<xs:documentation>Ingvaeonic (North Sea Germanic) / 因格沃內語 (又稱北海日耳曼語)</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="angl">
+						<xs:annotation>
+							<xs:documentation>Anglic / 英語組</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="ango">
+						<xs:annotation>
+							<xs:documentation>Anglo Saxon (Old English) (ca. 450 – ca. 1250) / 盎格魯－撒克遜語 (古英語)</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="meng">
+						<xs:annotation>
+							<xs:documentation>Middle English (ca. 1066 – ca. 1350) / 中古英語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="emse">
+						<xs:annotation>
+							<xs:documentation>Early Midland and South Eastern Middle English / 早期中部及東南部中古英語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="emen">
+						<xs:annotation>
+							<xs:documentation>Early Modern English (ca. 1485 – ca. 1660) / 近代英語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="mdgr">
+						<xs:annotation>
+							<xs:documentation>Middle High German / 中古高地德語</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="otaa">
+						<xs:annotation>
+							<xs:documentation>Turkish, Ottoman (1500–1928), Armenian script / 奧斯曼土耳其語, 以亞美尼亞字母書寫</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="otah">
+						<xs:annotation>
+							<xs:documentation>Turkish, Ottoman (1500–1928), Hellenic script / 奧斯曼土耳其語, 以希臘字母書寫</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="otap">
+						<xs:annotation>
+							<xs:documentation>Turkish, Ottoman (1500–1928), Perso-Arabic script / 奧斯曼土耳其語, 以波斯字母書寫</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+					<xs:enumeration value="wxwa">
+						<xs:annotation>
+							<xs:documentation>Wawa language</xs:documentation>
+						</xs:annotation>
+					</xs:enumeration>
+				</xs:restriction>
+			</xs:simpleType>
+		</xs:attribute>
+	</xs:attributeGroup>
+	<xs:attribute name="Legal" type="xs:string">
+		<xs:annotation>
+			<xs:documentation>Fixing of llegal phrases and words / 對語詞錯誤的修正</xs:documentation>
+		</xs:annotation>
+	</xs:attribute>
+	<xs:attribute name="TypoFix" type="xs:string">
+		<xs:annotation>
+			<xs:documentation>Typo fixing / 修正用字</xs:documentation>
+		</xs:annotation>
+	</xs:attribute>
+	<xs:attribute name="Note" type="xs:string"/>
+	<xs:attributeGroup name="TimeGroup">
+		<xs:attribute name="Year" type="xs:integer" use="optional"/>
+		<xs:attribute name="Date" type="xs:date" use="optional"/>
+		<xs:attribute name="DateTime" type="xs:dateTime" use="optional">
+			<xs:annotation>
+				<xs:documentation>Specific moment (accurate to second, UTC+8) / 具體時刻 (精確到秒, 東八區)</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+	</xs:attributeGroup>
+</xs:schema>

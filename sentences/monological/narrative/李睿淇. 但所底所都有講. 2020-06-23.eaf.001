@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-08-19T02:31:14+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/monological/description/李睿淇. 但所底所都有講. 2020-06-23.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./李睿淇. 但所底所都有講. 2020-06-23.wav"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bc5f8b83-63b0-4ee1-a5f9-10cc5f27d7ee</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">5</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="255"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="910"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="1090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="1090"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="1770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="1770"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="1870"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="1965"/>
+    </TIME_ORDER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="character"/>
+    <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="yngping by char."/>
+    <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="gáu-huôi lò̤-mā-cê"/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="mandr. trans. by word"/>
+    <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="faulty fixing"/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="en" LANG_REF="zxx" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="language"/>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="word">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts3">
+                <ANNOTATION_VALUE>底所</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2" TIME_SLOT_REF1="ts5" TIME_SLOT_REF2="ts7">
+                <ANNOTATION_VALUE>底所</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3" TIME_SLOT_REF1="ts9" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE>都有講</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="关彳山" LANG_REF="cdo" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="yngping">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4" TIME_SLOT_REF1="ts2" TIME_SLOT_REF2="ts4">
+                <ANNOTATION_VALUE>dang53-neo33</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5" TIME_SLOT_REF1="ts6" TIME_SLOT_REF2="ts8">
+                <ANNOTATION_VALUE>deoyng24-neo33</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="cmn" LINGUISTIC_TYPE_REF="default-lt" TIER_ID="mandr. trans. by char."/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LOCALE COUNTRY_CODE="CN" LANGUAGE_CODE="zh"/>
+    <LOCALE LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130974-001" LANG_ID="mul" LANG_LABEL="multiple languages (mul)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130973-001" LANG_ID="zxx" LANG_LABEL="no linguistic content (zxx)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133158-001" LANG_ID="cmn" LANG_LABEL="Mandarin Chinese (cmn)"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00133082-001" LANG_ID="cdo" LANG_LABEL="Min Dong Chinese (cdo)"/>
+    <CONSTRAINT DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+</ANNOTATION_DOCUMENT>
