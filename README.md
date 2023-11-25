@@ -19,15 +19,7 @@ Visit our [Wiki page](https://github.com/MindongLab/cdo-corpus/wiki) for more in
   - `/.../Min opera` 閩劇（包括其選段）。
 - `/poem` 詩歌、謠讖。
 - `/video` 影片。請參閱[相關工作流](https://github.com/MindongLab/cdo-corpus/projects/1)。
-- `/sentences` 語句。
-  - `/.../conversational` 對話。
-    - `/.../chat` 聊天。
-    - `/.../discussion` 討論。
-  - `/.../conversational` 獨白。
-    - `/.../narrative` 敘述。
-    - `/.../description` 描述。
-    - `/.../speech` 演說。
-    - `/.../formal address` 正式場域。
+- `/sentences` 語句。請參閱[句料分類規範](https://github.com/MindongLab/cdo-corpus/wiki/Info-of-Sentences-%E5%8F%A5%E6%96%99%E8%B3%87%E8%A8%8A)。
   - `/.../info.tsv` 語料信息表。查閱、編輯前應看此表，以瞭解語料的整理、標註狀態。
   - `/.../template.etf` ELAN模板。
 
