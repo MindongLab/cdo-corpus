@@ -47,8 +47,8 @@ Sentence-aligned (cmn, cdo) | 具備已經句對齊的原語爲官話、譯語�
   - `/.../audio contrib` 用戶貢獻詞彙的音頻文件。
     - `/.../Audio Source.tsv` 音頻信息。
   - `/.../audio contrib sentences` 用戶貢獻詞彙的例句音頻文件。
-  - `/.../audio feng` 具備Zingzeu ID的詞彙音頻。
+  - `/.../audio feng` 具備Zingzeu ID的馮愛珍版《福州方言詞典》詞彙音頻。
     - `/.../Audio Prepared for Yng Dieng` 音頻信息。
-  - `/.../audio feng` 具備Zingzeu ID的李如龍版《福州方言詞典》詞彙音頻。
+  - `/.../audio li` 具備Zingzeu ID的李如龍版《福州方言詞典》詞彙音頻。
     - `/.../Audio Prepared for Yng Dieng` 音頻信息。
 - `/timing` 記錄志願者的標記工作時長，以資安排任務之參考。
