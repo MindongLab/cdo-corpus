@@ -26,8 +26,7 @@
 				<xs:enumeration value="spoken"/>
 				<xs:enumeration value="written"/>
 				<xs:enumeration value="formal"/>
-				<xs:enumeration value="kunnyomi"/>
-				<xs:enumeration value="onnyomi"/>
+				<xs:enumeration value="translated"/>
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:attribute>

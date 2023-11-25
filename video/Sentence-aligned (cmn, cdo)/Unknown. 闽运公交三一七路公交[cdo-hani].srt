@@ -3,11 +3,11 @@
  ; Link: https://www.ixigua.com/6635804973231784452
  ; Author: 
  Title: Unknown. 闽运公交三一七路公交
- Original Script: 关彳山
+ Original Script: Leo, 关彳山
  Original Translation:
  Original Editing:
  Original Timing: 关彳山
- Update Details: Leo
+ Update Details: 
  
  1
 00:00:05,248 --> 00:00:06,945
@@ -35,7 +35,7 @@
 
 7
 00:00:18,573 --> 00:00:21,752
-317 支路公共汽車
+三一七支路公共汽車
 
 8
 00:00:22,252 --> 00:00:25,047
