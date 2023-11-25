@@ -1,4 +1,4 @@
-Mindong	Mandarin Trans.	English Trans.	Speaker ID	ISO 639-6	Provider	Year	Month	Date	HH:MM:SS (UTC+8)	Source & Copyright	Copyright	Tag	Note	Translated or Not	Multi-sentences Num.
+Mindong	Mandarin Trans.	English Trans.	Speaker ID	ISO 639-6	Provider	Year	Month	Date	HH:MM:SS (UTC+8)	Source & Copyright	Copyright	Tag	Note	Property	Path to Original File
 講(說)<G=gōng> 其(的)<G=gì> 都是<G=dŭ-sê> 賺(錯)<G=dâng>, 無(沒有)<G=mò̤> 先生<G=sĕng-săng> 把關<G=bā-guăng>.	說 的 都是 錯 的, 沒有 老師 把關.	Everything said is wrong; there's no teacher to supervise.	3	mnhu	关彳山	2019	10	25						spoken	
 伊<G=ĭ> 敆(在)<G=găk> 裏勢(裏面)<G=diē-sié>, 錄音間<G=liŏh-ĭng-găng>, 我<G=nguāi> 敆(在)<G=găk> 外斗(外頭)<G=ngiê-dāu> 把關<G=bā-guăng>.	他 在 裏面, 錄音間, 我 在 外頭 把關.	She's inside, in the recording studio; I'm outside supervising.	3	mnhu	关彳山	2019	10	25						spoken	
 盡(很)<G=cêng> 無(沒)<G=mò̤> 面子<G=méng-cṳ̆>.	很 沒 面子.	It's quite embarrassing.	3	mnhu	关彳山	2019	10	25						spoken	
@@ -14,8 +14,8 @@ Mindong	Mandarin Trans.	English Trans.	Speaker ID	ISO 639-6	Provider	Year	Month	
 使(要)<G=sāi> 汝(你)<G=nṳ̄> 講(說)<G=gōng>?	要 你 說?		11	fzho	关彳山	2017								spoken	
 在(隨便)[zai53] 汝(你)[ny33] 蔣(怎麼)[zuong242] 講(說)[goung33].	隨便 你 怎麼 說.		11	fzho	关彳山	2020	4	11						spoken	
 像(比方)[cuong242]<G=chiông> 講(說)[goung33]<G=gōng>.	比方 說.		3	mnhu	关彳山									spoken	
-本次<G=buōng-ché̤ṳ> 列車<G=liĕk-chiă> 終點站<G=cṳ̆ng-diēng-câng>, 福州火車南站<G=hók-cĭu-huōi-chiă-nàng-câng>. 下<G=â> 蜀(一)<G=siŏh> 站<G=câng> 黃山<G=uòng-săng>.	本次 列車 終點站, 福州火車南站. 下 一 站 黃山.		31	fzho	关彳山	2016				维基百科编者. 福州地铁[G/OL]. 中文维基百科, 2016-06-20[2020-04-15]. https://zh.wikipedia.org/w/index.php?title=%E7%A6%8F%E5%B7%9E%E5%9C%B0%E9%93%81%26oldid=40525393.	CC BY-SA 3.0	交通		formal	1
-黃山<G=uòng-săng> 遘(到)<G=gáu> 了<G=lāu>, 請<G=chiāng> 趁(從)<G=téng> 左邊(左側)<G=cō̤-bĕng> 車門<G=chiă-muòng> 落車(下車)<G=lŏ̤h-chiă>.	黃山 到 了, 請 從 左側 車門 下車.		31	fzho	关彳山	2016				维基百科编者. 福州地铁[G/OL]. 中文维基百科, 2016-06-20[2020-04-15]. https://zh.wikipedia.org/w/index.php?title=%E7%A6%8F%E5%B7%9E%E5%9C%B0%E9%93%81%26oldid=40525393.	CC BY-SA 3.0	交通		formal	1
+本次<G=buōng-ché̤ṳ> 列車<G=liĕk-chiă> 終點站<G=cṳ̆ng-diēng-câng>, 福州火車南站<G=hók-cĭu-huōi-chiă-nàng-câng>. 下<G=â> 蜀(一)<G=siŏh> 站<G=câng> 黃山<G=uòng-săng>.	本次 列車 終點站, 福州火車南站. 下 一 站 黃山.		31	fzho	关彳山	2016				维基百科编者. 福州地铁[G/OL]. 中文维基百科, 2016-06-20[2020-04-15]. https://zh.wikipedia.org/w/index.php?title=%E7%A6%8F%E5%B7%9E%E5%9C%B0%E9%93%81%26oldid=40525393.	CC BY-SA 3.0	交通		formal	plaintext\sentences\下一站黃山.tsv
+黃山<G=uòng-săng> 遘(到)<G=gáu> 了<G=lāu>, 請<G=chiāng> 趁(從)<G=téng> 左邊(左側)<G=cō̤-bĕng> 車門<G=chiă-muòng> 落車(下車)<G=lŏ̤h-chiă>.	黃山 到 了, 請 從 左側 車門 下車.		31	fzho	关彳山	2016				维基百科编者. 福州地铁[G/OL]. 中文维基百科, 2016-06-20[2020-04-15]. https://zh.wikipedia.org/w/index.php?title=%E7%A6%8F%E5%B7%9E%E5%9C%B0%E9%93%81%26oldid=40525393.	CC BY-SA 3.0	交通		formal	plaintext\sentences\下一站黃山.tsv
 躒(逛蕩)[loouk24]<G=láuk> 下(下去)[gia242]<G=giâ>.	逛 下去.		30	fzho	关彳山	2020	4	12				一般動作		spoken	
 注意[zy53-ei213]<G=cê̤ṳ-é> 列車[liek5-chia55]<G=liĕk-chiă> 共(和)[geoyng242]<G=gâe̤ng> 站臺[zang33-dai53]<G=câng-dài> 之間[zi55-gang55]<G=cĭ-găng> 其(的)[i53]<G=gì> 空(空隙)[keoyng55]<G=kĕ̤ng>.	注意 列車 和 站臺 之間 的 空隙.		23	fzho	关彳山	2017						交通		translated	
 喙碼(嘴巴) 盡(很) 甜.	嘴 很 甜.		32	mqig	晉安梅客@Weibo	2020	4	16						spoken	
@@ -34,54 +34,54 @@ Mindong	Mandarin Trans.	English Trans.	Speaker ID	ISO 639-6	Provider	Year	Month	
 無管(不管) 汝 去 伓去(不去), 我 還在(反正) 都 是 着(要) 去.	不管 你 去 不去, 我 反正 都 是 要 去.		15	mnhu	关彳山	2020	7	6						spoken	
 晡時雨, 逿 冰雹. 噼{里,哩}啪啷 盡去 响, 做 细 遘 大 頭回 見.	傍晚 強對流天氣, 下 起 了 冰雹. 劈里啪啦 真是 響, 從 小 到 大 未曾 見.		36		李浩博	2020	3	27						written	
 今旦 物理 化學 堂 見覺 {將,蔣}其 {呀,也}. 洋當池, 洋當池, 就是 乇 恰 価 {咯,囉}.	今天 的 物理 化學課 感覺 如何. 還行, 還行, 就是 內容 太 豐滿 了.		36		李浩博	2020	4	16						written	
-這[zi21] 兩[lang55] 工[eoyng55] 降溫 野 利害 {啊,吓}, 做 蜀下 就 趁 三十 度 逿 遘 十 幾 度 了 去.	這 兩 天 降溫 真 厲害, 一下子 就 從 三十 多 度 掉 到 十 幾 度 了.		36		李浩博	2020	4	24						written	4
-伓是 故 儥 捨. 都 講, 清明 穀雨, 寒 死 老鼠, 今年暝 雖然 講 天氣 反常 熱, 者 寒 遲 囉, 但是 到底 也 遘 囉{啊,吓}.	那 可 不是. 俗話 說, 清明 穀雨, 寒 死 老鼠, 今年 雖然 說 天氣 反常 {的,地} 熱, 但是 冷空氣 到底 雖 遲 但 到 啊.		36		李浩博	2020	4	24						written	4
+這[zi21] 兩[lang55] 工[eoyng55] 降溫 野 利害 {啊,吓}, 做 蜀下 就 趁 三十 度 逿 遘 十 幾 度 了 去.	這 兩 天 降溫 真 厲害, 一下子 就 從 三十 多 度 掉 到 十 幾 度 了.		36		李浩博	2020	4	24						written	plaintext\sentences\這兩工降溫野利害.tsv
+伓是 故 儥 捨. 都 講, 清明 穀雨, 寒 死 老鼠, 今年暝 雖然 講 天氣 反常 熱, 者 寒 遲 囉, 但是 到底 也 遘 囉{啊,吓}.	那 可 不是. 俗話 說, 清明 穀雨, 寒 死 老鼠, 今年 雖然 說 天氣 反常 {的,地} 熱, 但是 冷空氣 到底 雖 遲 但 到 啊.		36		李浩博	2020	4	24						written	plaintext\sentences\這兩工降溫野利害.tsv
 {將,蔣} 想 遘 我 會 使 投影 其 方法 {共,乞} 阿公 阿媽 敆 B站 懸頂 看 閩劇.	我 居然 用 投屏 的 辦法 讓 阿公 阿媽 在 B站 上 欣賞 閩劇 了.		36		李浩博	2020	5	30						written	
 因爲 季風 大 做, 直頭 逿 雨, 今年暝 小滿 其 天氣 儥 熱. 夏天 乍 遘, 者 阿蠐 故 未 叫, 荔枝 已經 紅 了.	因為 季風 盛行, 降水 頻繁, 今年 的 小滿 不 算 熱. 夏天 剛 到, 還 沒 聽見 蟬 鳴, 荔枝 已經 熟 得 發 紅 了.		36		李浩博	2020	6	30						written	
-野(很) 霸(厲害).	很 厲害.		25	fzho	刑部Dana	2020	5	19	15:37:35					written	5
-已經 OK<Ŋ=en> 了.	已經 好 了.		25	fzho	刑部Dana	2020	5	19	15:37:51					written	5
-野(很) 好!	很 好!		25	fzho	刑部Dana	2020	5	19	15:38:16					written	5
-真 其 野 透骹.	真 的 很 舒服.		25	fzho	刑部Dana	2020	5	19	15:38:35					written	5
-謝謝 汝!	謝謝 你!		25	fzho	刑部Dana	2020	5	19	15:39:24					written	5
-但是…	但是…		25	fzho	刑部Dana	2020	5	19	15:40:21					written	5
-我 其 詞 野 少.	我 掌握 的 詞 很 少.		25	fzho	刑部Dana	2020	5	19	15:40:48					written	5
+野(很) 霸(厲害).	很 厲害.		25	fzho	刑部Dana	2020	5	19	15:37:35					written	plaintext\sentences\野霸已經OK了.tsv
+已經 OK<Ŋ=en> 了.	已經 好 了.		25	fzho	刑部Dana	2020	5	19	15:37:51					written	plaintext\sentences\野霸已經OK了.tsv
+野(很) 好!	很 好!		25	fzho	刑部Dana	2020	5	19	15:38:16					written	plaintext\sentences\野霸已經OK了.tsv
+真 其 野 透骹.	真 的 很 舒服.		25	fzho	刑部Dana	2020	5	19	15:38:35					written	plaintext\sentences\野霸已經OK了.tsv
+謝謝 汝!	謝謝 你!		25	fzho	刑部Dana	2020	5	19	15:39:24					written	plaintext\sentences\野霸已經OK了.tsv
+但是…	但是…		25	fzho	刑部Dana	2020	5	19	15:40:21					written	plaintext\sentences\野霸已經OK了.tsv
+我 其 詞 野 少.	我 掌握 的 詞 很 少.		25	fzho	刑部Dana	2020	5	19	15:40:48					written	plaintext\sentences\野霸已經OK了.tsv
 正是.	是的.		25	fzho	刑部Dana	2020	5	19	15:42:38					written	
 會使.	好的.		25	fzho	刑部Dana	2020	5	19	15:44:03					written	
 我 會仈.	我 懂.		25	fzho	刑部Dana	2020	5	19	15:52:00					written	
-故 有 仂囝 儥 清楚 其.	還 有 一 點 不 明白.		25	fzho	刑部Dana	2020	5	19	15:54:53					written	6
-普通話 反查<Ŋ=cmn> 是{否,伓是}[sie53-nei242] 㑚 使 查 {一,蜀} 隻 詞?	普通話 反查 是不是 只 需要 查 一 個 詞?		25	fzho	刑部Dana	2020	5	19	15:57:36					written	6
-我 繁體 野(很) 呆(差).	我 繁體 掌握 得 很 差.		25	fzho	刑部Dana	2020	5	19	15:58:43					written	6
-我 使 嚽 拍 故是 有 問題.	我 用 這個 打 字 還是 有 問題.		25	fzho	刑部Dana	2020	5	19	16:00:39					written	6
-手機 也 有?!	手機 也 有?!		25	fzho	刑部Dana	2020	5	19	16:03:36					written	7
-會使.	可以.		25	fzho	刑部Dana	2020	5	19	16:06:24					written	7
-我 先 去 睏晝, 野 睶 去.	我 先 去 睡 午覺, 很 睏 了.		24	fzho	关彳山	2020	5	19	16:02:31					written	8
-汝 快[ke53] 去[oo213] 睏.	你 快 去 睡.		25	fzho	刑部Dana	2020	5	19	16:08:39					written	8
-我 現在 開始 有 仂囝 摸魚摸蝦.	我 現在 開始 有 一點 茫然.		25	fzho	刑部Dana	2020	5	19	16:24:17					written	9
-我 等 汝 爬 起 去 汝 講.	我 等 你 起 牀 , 那 時候 你 再 回覆.		25	fzho	刑部Dana	2020	5	19	16:25:12					written	9
-我 也 儥仈 傒勢, 就是 我 儥{鍾意,中意} 使 {反察,反查}<Ŋ=cmn>.			25	fzho	刑部Dana	2020	5	19	16:32:13					written	9
-雖然 我 使 嚽 無 許般[hi21-wuang55] 習慣.			25	fzho	刑部Dana	2020	5	19	16:33:20					written	9
-但是 我 使 {反察,反查}<Ŋ=cmn> 其 時候 就是 有 仂囝 排斥<Ŋ=cmn>.			25	fzho	刑部Dana	2020	5	19	16:34:27					written	9
-我 就 敆 𡅏 {跇了,直頭}[ti53-lau33] 拍, 實在 是拍 儥 出 乍 使 {反察,反查}<Ŋ=cmn>.			25	fzho	刑部Dana	2020	5	19	16:35:16					written	9
-仱 嚽 𡅏 使 嚽 其 時間 野 𣆯…			25	fzho	刑部Dana	2020	5	19	16:36:08					written	9
-故 有 嚽 𡅏 我 也 儥 仈 我 使 其 字 是{偍,伓是}[sie53-nei242] 對<Ŋ=cmn> 其 故 是 賺 其, 反正 我 都 儥仈… 都是 敆 𡅏 摸魚摸蝦 hhh.			25	fzho	刑部Dana	2020	5	19	16:38:54					written	9
-盡 像 蜀 隻 蜀 兩 歲 其 伲囝哥 敆 𡅏 學 蔣 講 話.			25	fzho	刑部Dana	2020	5	19	16:40:59					written	9
-我 自家 拍 其 字 我 會仈 是 世乇[sieng53-noh24] 意思, 但是 看 別{人,儂} 我 就 野 {吃力,卸力}[sia55-lik5] 了.			25	fzho	刑部Dana	2020	5	19	16:43:37					written	9
-先 伓 共 汝 講 了, 我 跟 汝 講 這般 価 了, 我 野 辛苦……			25	fzho	刑部Dana	2020	5	19	16:46:47					written	9
-費 頭腦, 野 蒻[yok24].			25	fzho	刑部Dana	2020	5	19	16:47:53					written	9
-今旦 寫 作文 我 感覺 野 難, 㑚 仂 久 時間 馬上 就 着 交 乞 先生.			25	fzho	刑部Dana	2020	5	21	13:14:59					written	10
-我 蜀 字 都 寫 儥 出 了.			25	fzho	刑部Dana	2020	5	21	13:51:10					written	10
-我 野 氣.			25	fzho	刑部Dana	2020	5	21	13:51:21					written	10
-傒勢 會 總款.	怎麼 會 這樣.		25	fzho	刑部Dana	2020	5	21	13:52:27					written	10
-我 寫 完 了. 我 野 霸. 我 就是 天才<Ŋ=cmn>.			25	fzho	刑部Dana	2020	5	21	15:32:27					written	11
-{2h,兩點鍾} 寫 了 {3000,三千} 字.	兩 個 小時 寫 了 三千 字.		25	fzho	刑部Dana	2020	5	21	15:32:58					written	11
+故 有 仂囝 儥 清楚 其.	還 有 一 點 不 明白.		25	fzho	刑部Dana	2020	5	19	15:54:53					written	plaintext\sentences\故有仂囝儥清楚其.tsv
+普通話 反查<Ŋ=cmn> 是{否,伓是}[sie53-nei242] 㑚 使 查 {一,蜀} 隻 詞?	普通話 反查 是不是 只 需要 查 一 個 詞?		25	fzho	刑部Dana	2020	5	19	15:57:36					written	plaintext\sentences\故有仂囝儥清楚其.tsv
+我 繁體 野(很) 呆(差).	我 繁體 掌握 得 很 差.		25	fzho	刑部Dana	2020	5	19	15:58:43					written	plaintext\sentences\故有仂囝儥清楚其.tsv
+我 使 嚽 拍 故是 有 問題.	我 用 這個 打 字 還是 有 問題.		25	fzho	刑部Dana	2020	5	19	16:00:39					written	plaintext\sentences\故有仂囝儥清楚其.tsv
+手機 也 有?!	手機 也 有?!		25	fzho	刑部Dana	2020	5	19	16:03:36					written	plaintext\sentences\手機也有.tsv
+會使.	可以.		25	fzho	刑部Dana	2020	5	19	16:06:24					written	plaintext\sentences\手機也有.tsv
+我 先 去 睏晝, 野 睶 去.	我 先 去 睡 午覺, 很 睏 了.		24	fzho	关彳山	2020	5	19	16:02:31					written	plaintext\sentences\我先去睏晝野睶去.tsv
+汝 快[ke53] 去[oo213] 睏.	你 快 去 睡.		25	fzho	刑部Dana	2020	5	19	16:08:39					written	plaintext\sentences\我先去睏晝野睶去.tsv
+我 現在 開始 有 仂囝 摸魚摸蝦.	我 現在 開始 有 一點 茫然.		25	fzho	刑部Dana	2020	5	19	16:24:17					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+我 等 汝 爬 起 去 汝 講.	我 等 你 起 牀 , 那 時候 你 再 回覆.		25	fzho	刑部Dana	2020	5	19	16:25:12					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+我 也 儥仈 傒勢, 就是 我 儥{鍾意,中意} 使 {反察,反查}<Ŋ=cmn>.			25	fzho	刑部Dana	2020	5	19	16:32:13					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+雖然 我 使 嚽 無 許般[hi21-wuang55] 習慣.			25	fzho	刑部Dana	2020	5	19	16:33:20					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+但是 我 使 {反察,反查}<Ŋ=cmn> 其 時候 就是 有 仂囝 排斥<Ŋ=cmn>.			25	fzho	刑部Dana	2020	5	19	16:34:27					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+我 就 敆 𡅏 {跇了,直頭}[ti53-lau33] 拍, 實在 是拍 儥 出 乍 使 {反察,反查}<Ŋ=cmn>.			25	fzho	刑部Dana	2020	5	19	16:35:16					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+仱 嚽 𡅏 使 嚽 其 時間 野 𣆯…			25	fzho	刑部Dana	2020	5	19	16:36:08					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+故 有 嚽 𡅏 我 也 儥 仈 我 使 其 字 是{偍,伓是}[sie53-nei242] 對<Ŋ=cmn> 其 故 是 賺 其, 反正 我 都 儥仈… 都是 敆 𡅏 摸魚摸蝦 {hhh,哈哈哈}.			25	fzho	刑部Dana	2020	5	19	16:38:54					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+盡 像 蜀 隻 蜀 兩 歲 其 伲囝哥 敆 𡅏 學 蔣 講 話.			25	fzho	刑部Dana	2020	5	19	16:40:59					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+我 自家 拍 其 字 我 會仈 是 世乇[sieng53-noh24] 意思, 但是 看 別{人,儂} 我 就 野 {吃力,卸力}[sia55-lik5] 了.			25	fzho	刑部Dana	2020	5	19	16:43:37					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+先 伓 共 汝 講 了, 我 跟 汝 講 這般 価 了, 我 野 辛苦……			25	fzho	刑部Dana	2020	5	19	16:46:47					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+費 頭腦, 野 蒻[yok24].			25	fzho	刑部Dana	2020	5	19	16:47:53					written	plaintext\sentences\我現在開始有仂囝摸魚摸蝦.tsv
+今旦 寫 作文 我 感覺 野 難, 㑚 仂 久 時間 馬上 就 着 交 乞 先生.			25	fzho	刑部Dana	2020	5	21	13:14:59					written	plaintext\sentences\今旦寫作文我感覺野難.tsv
+我 蜀 字 都 寫 儥 出 了.			25	fzho	刑部Dana	2020	5	21	13:51:10					written	plaintext\sentences\今旦寫作文我感覺野難.tsv
+我 野 氣.			25	fzho	刑部Dana	2020	5	21	13:51:21					written	plaintext\sentences\今旦寫作文我感覺野難.tsv
+傒勢 會 總款.	怎麼 會 這樣.		25	fzho	刑部Dana	2020	5	21	13:52:27					written	plaintext\sentences\今旦寫作文我感覺野難.tsv
+我 寫 完 了. 我 野 霸. 我 就是 天才<Ŋ=cmn>.			25	fzho	刑部Dana	2020	5	21	15:32:27					written	plaintext\sentences\我寫完了我野霸我就是天才.tsv
+{2h,兩點鍾} 寫 了 {3000,三千} 字.	兩 個 小時 寫 了 三千 字.		25	fzho	刑部Dana	2020	5	21	15:32:58					written	plaintext\sentences\我寫完了我野霸我就是天才.tsv
 是, 因爲 我 儥仈 蔣 拚.			25	fzho	刑部Dana	2020	5	21	15:34:30					written	
-水 着(在) 零下(零度以下) 會 結冰.	水 在 零下 會 結冰.			fuqi	林文芳					范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 573. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
-小明 會 聰明 儥.	小明 聰明 嗎.			fuqi	林文芳					范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 573. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
-貓 儥(不) 驚(怕) 老鼠.	貓 不怕 老鼠.			fuqi	林文芳					范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 573. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
-伊(他) 野(很) 孝順, 經常 有 去 看 伊 奶.	他 很 孝順, 經常 去 看 他 母親.			fuqi	林文芳					范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 575. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
-汝(你) 厝(家) 做年(過年) 有 炊(蒸) 糖粿(年糕) 無(沒有).				fuqi	林文芳					范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 575. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
-汝(你) 看 我 面(臉) □□(現在)[zung33-mang33] 有 無 紅.	你 看 我 臉 現在 是 不是 紅 的.			fuqi	林文芳					范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 575. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	12
-有 紅.	是 紅 的.			fuqi	林文芳					范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 575. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	12
+水 着(在) 零下(零度以下) 會 結冰.	水 在 零下 會 結冰.			fuqi	林文芳	2017				范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 573. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
+小明 會 聰明 儥.	小明 聰明 嗎.			fuqi	林文芳	2017				范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 573. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
+貓 儥(不) 驚(怕) 老鼠.	貓 不怕 老鼠.			fuqi	林文芳	2017				范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 573. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
+伊(他) 野(很) 孝順, 經常 有 去 看 伊 奶.	他 很 孝順, 經常 去 看 他 母親.			fuqi	林文芳	2017				范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 575. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
+汝(你) 厝(家) 做年(過年) 有 炊(蒸) 糖粿(年糕) 無(沒有).				fuqi	林文芳	2017				范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 575. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	
+汝(你) 看 我 面(臉) □□(現在)[zung33-mang33] 有 無 紅.	你 看 我 臉 現在 是 不是 紅 的.			fuqi	林文芳	2017				范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 575. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	plaintext\sentences\汝看我面這幫有無紅.tsv
+有 紅.	是 紅 的.			fuqi	林文芳	2017				范晓蕾. 基于汉语方言的惯常范畴研究[J/OL]. 当代语言学, 2017, 19(4): 575. https://fh.pku.edu.cn/docs/2019-04/20190410152556167231.pdf.				spoken	plaintext\sentences\汝看我面這幫有無紅.tsv
 雨 摒 有夠 透, 熱天 會 歇 蜀 歇 了. 暝晡 儥 算 長, 起 風 總算 會 涼 了.	久 暑 逢 時雨, 短 夜 遇 涼 風.		36		李浩博	2020	7	19						written	
 汝(你)<G=nṳ̄>[ny33] 奶(媽)<G=nā̤>[ne33].				fzho	关彳山					維基教科書编者. 福州語/詈罵用語[G/OL]. 中文維基教科書, 2019-11-12[2020-08-09]. https://zh.wikibooks.org/w/index.php?title=福州語/詈罵用語%26direction=next%26oldid=128829.	CC BY-SA 3.0	貶義		spoken	
 汝(你)<G=nṳ̄>[ny24] 奶(媽)<G=nā̤>[ne33].				fzho	关彳山					維基教科書编者. 福州語/詈罵用語[G/OL]. 中文維基教科書, 2019-11-12[2020-08-09]. https://zh.wikibooks.org/w/index.php?title=福州語/詈罵用語%26direction=next%26oldid=128829.	CC BY-SA 3.0	貶義		spoken	
@@ -142,8 +142,8 @@ Mindong	Mandarin Trans.	English Trans.	Speaker ID	ISO 639-6	Provider	Year	Month	
 我 野 厭 這樣款 其 囝.					关彳山	2020	10	20						spoken	
 故 儥 捨 去睏. 趕緊 死 去 去睏.					hf万物@QQ	2020	12	14						spoken	
 耳耳(耳朵)[ngi21-ngi53] 疼[tiang213].					关彳山	2021	1	20						spoken	
-汝 好, 汝 名(叫) 世乇(什麼).			10	fzho,mqig	关彳山	2018	9	20		維基教科書编者. 福州語/會話/第1課[G/OL]. 中文維基教科書, 2018-09-20[2021-01-30]. https://zh.wikibooks.org/w/index.php?title=福州語/會話/第1課%26oldid=123269.	CC BY-SA 3.0			written	13
-我 其(的) 名字 號(叫) 𡅏(做).			10	fzho,mqig	关彳山	2018	9	20		維基教科書编者. 福州語/會話/第1課[G/OL]. 中文維基教科書, 2018-09-20[2021-01-30]. https://zh.wikibooks.org/w/index.php?title=福州語/會話/第1課%26oldid=123269.	CC BY-SA 3.0			written	13
+汝 好, 汝 名(叫) 世乇(什麼).			10	fzho,mqig	关彳山	2018	9	20		維基教科書编者. 福州語/會話/第1課[G/OL]. 中文維基教科書, 2018-09-20[2021-01-30]. https://zh.wikibooks.org/w/index.php?title=福州語/會話/第1課%26oldid=123269.	CC BY-SA 3.0			written	plaintext\sentences\汝好汝名世乇.tsv
+我 其(的) 名字 號(叫) 𡅏(做).			10	fzho,mqig	关彳山	2018	9	20		維基教科書编者. 福州語/會話/第1課[G/OL]. 中文維基教科書, 2018-09-20[2021-01-30]. https://zh.wikibooks.org/w/index.php?title=福州語/會話/第1課%26oldid=123269.	CC BY-SA 3.0			written	plaintext\sentences\汝好汝名世乇.tsv
 熱熱[iek33-iek5] 勢*(的)[die213].				fzho	陳澤平	1998	2			陈泽平. 福州方言研究[M]. 福建人民出版社, 1998: 11.				spoken	
 綠綠[nuoh33-nuoh5] 着(的)[luoh24].				fzho	陳澤平	1998	2			陈泽平. 福州方言研究[M]. 福建人民出版社, 1998: 11.				spoken	
 急急[gik55-geik24] {咧,勢*}(的)[die213].				fzho	陳澤平	1998	2			陈泽平. 福州方言研究[M]. 福建人民出版社, 1998: 11.				spoken	
