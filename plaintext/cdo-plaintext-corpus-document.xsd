@@ -21,6 +21,9 @@
 	</xs:element>
 	<xs:attribute name="Conversation" type="xs:boolean"/>
 	<xs:attribute name="Property">
+		<xs:annotation>
+			<xs:documentation>Property / 言文性質</xs:documentation>
+		</xs:annotation>
 		<xs:simpleType>
 			<xs:restriction base="xs:string">
 				<xs:enumeration value="spoken"/>
@@ -30,7 +33,11 @@
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:attribute>
-	<xs:attribute name="Copyright" type="xs:string"/>
+	<xs:attribute name="Copyright" type="xs:string">
+		<xs:annotation>
+			<xs:documentation>Copyright / 版權所有</xs:documentation>
+		</xs:annotation>
+	</xs:attribute>
 	<xs:attribute name="Text">
 		<xs:annotation>
 			<xs:documentation>Corpus text / 語料文本</xs:documentation>
@@ -328,6 +335,9 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="Provider">
+		<xs:annotation>
+			<xs:documentation>Provider / 語料提供者</xs:documentation>
+		</xs:annotation>
 		<xs:complexType>
 			<xs:complexContent>
 				<xs:extension base="Person">
