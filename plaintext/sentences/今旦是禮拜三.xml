@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="E:\Documents\Git\cdo-corpus\plaintext\cdo-plaintext-corpus-document.xsd" Conversation="false" Copyright="CC BY-SA 3.0" Property="spoken">
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="false" Copyright="CC BY-SA 3.0" Property="spoken">
 	<Translator>
 		<Name>关彳山</Name>
 	</Translator>
