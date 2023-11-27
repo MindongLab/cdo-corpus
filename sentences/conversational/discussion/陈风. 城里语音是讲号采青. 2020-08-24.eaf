@@ -40,7 +40,7 @@
     <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul" LINGUISTIC_TYPE_REF="default" PARTICIPANT="陈风" TIER_ID="sentence">
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1" TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts22">
-                <ANNOTATION_VALUE>如果是像我這樣城裡語音 是講號 採青</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>如果是像我這樣城裏語音 是講號 採青</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
@@ -78,7 +78,7 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a8" TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts13">
-                <ANNOTATION_VALUE>城裡</ANNOTATION_VALUE>
+                <ANNOTATION_VALUE>城裏</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>

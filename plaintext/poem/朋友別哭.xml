@@ -42,7 +42,7 @@
 			</SecLv3>
 			<SecLv3 Text="這" TypoFix="者" Section="Character"/>
 			<SecLv3 Text="水面" Section="Word"/>
-			<SecLv3 Text="裡勢" Section="Word"/>
+			<SecLv3 Text="裏勢" Section="Word"/>
 		</SecLv2>
 		<SecLv2 Section="Sentence">
 			<Translation TransText="原來像夢一場" Iso639-1="zh" Iso639-3="cmn"/>
@@ -119,7 +119,7 @@
 			</SecLv3>
 			<SecLv3 Text="看" Section="Character"/>
 			<SecLv3 Text="會" Section="Character"/>
-			<SecLv3 Text="裡" Section="Character"/>
+			<SecLv3 Text="裏" Section="Character"/>
 		</SecLv2>
 		<SecLv2 Section="Sentence">
 			<Translation TransText="這些年堆積多少" Iso639-1="zh" Iso639-3="cmn"/>
@@ -137,7 +137,7 @@
 			<SecLv3 Text="寫" Section="Character"/>
 			<SecLv3 Text="著" Section="Character"/>
 			<SecLv3 Text="批" Section="Character"/>
-			<SecLv3 Text="裡勢" Section="Word"/>
+			<SecLv3 Text="裏勢" Section="Word"/>
 		</SecLv2>
 		<SecLv2 Section="Sentence">
 			<Translation TransText="什麼酒醒不了" Iso639-1="zh" Iso639-3="cmn"/>

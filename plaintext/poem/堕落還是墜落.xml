@@ -460,7 +460,7 @@
 			</SecLv3>
 		</SecLv2>
 		<SecLv2 Section="Sentence">
-			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="溶化在藍天裡"/>
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="溶化在藍天裏"/>
 			<SecLv3 Section="Word" Text="溶化">
 				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="溶化"/>
 			</SecLv3>
@@ -470,8 +470,8 @@
 			<SecLv3 Section="Word" Text="藍天">
 				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="藍天"/>
 			</SecLv3>
-			<SecLv3 Section="Word" Text="裡勢">
-				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="裡"/>
+			<SecLv3 Section="Word" Text="裏勢">
+				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="裏"/>
 			</SecLv3>
 		</SecLv2>
 		<SecLv2 Section="Sentence">

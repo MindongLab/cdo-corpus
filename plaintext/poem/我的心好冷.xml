@@ -101,7 +101,7 @@
 		<SecLv2 Section="Sentence" Text="伓想問伓想措">
 			<Translation TransText="不再問為什麼" Iso639-1="zh" Iso639-3="cmn"/>
 		</SecLv2>
-		<SecLv2 Section="Sentence" Text="耳機裡放禮歌" TypoFix="耳機裡放𡅏歌">
+		<SecLv2 Section="Sentence" Text="耳機裏放禮歌" TypoFix="耳機裏放𡅏歌">
 			<Translation TransText="傷心歌還在播" Iso639-1="zh" Iso639-3="cmn"/>
 		</SecLv2>
 		<SecLv2 Section="Sentence" Text="安慰我心中難過">
