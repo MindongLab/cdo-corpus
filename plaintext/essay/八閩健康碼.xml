@@ -4,12 +4,12 @@
 		<Name>李浩博</Name>
 		<SpeakerId>36</SpeakerId>
 	</Speaker>
-	<Provider>
-		<Name>关彳山</Name>
-	</Provider>
 	<Translator Iso639-1="zh" Iso639-3="cmn">
 		<Name>关彳山</Name>
 	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
 	<SecLv1 Section="Article" Year="2020">
 		<Title Text="八閩健康碼"/>
 		<SecLv2 Section="Sentence" Iso639-1="zh" Iso639-3="cdo">
