@@ -928,6 +928,8 @@
 	<xs:attribute name="Note" type="xs:string"/>
 	<xs:attributeGroup name="TimeGroup">
 		<xs:attribute name="Year" type="xs:integer" use="optional"/>
+		<xs:attribute name="Month" type="xs:integer" use="optional"/>
+		<xs:attribute name="Day" type="xs:integer" use="optional"/>
 		<xs:attribute name="Date" type="xs:date" use="optional"/>
 		<xs:attribute name="DateTime" type="xs:dateTime" use="optional">
 			<xs:annotation>
