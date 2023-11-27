@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/Unknown. 汝講話就是佮氣氛去講世乇講正是者. 2021-01-26.wav"
+            MEDIA_URL="./Unknown. 汝講話就是佮氣氛去講世乇講正是者. 2021-01-26.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Unknown. 汝講話就是佮氣氛去講世乇講正是者. 2021-01-26.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:09c23bb6-65ff-4171-b047-ec7b3a2b9552</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">17</PROPERTY>

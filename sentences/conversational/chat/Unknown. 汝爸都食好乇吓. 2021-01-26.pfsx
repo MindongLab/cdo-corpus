@@ -290,7 +290,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/chat/Unknown. 汝爸都食好乇吓. 2021-01-26.wav</String>
+            <String>Unknown. 汝爸都食好乇吓. 2021-01-26.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

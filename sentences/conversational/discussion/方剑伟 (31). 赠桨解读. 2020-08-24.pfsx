@@ -89,7 +89,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/方剑伟 (31). 赠桨解读. 2020-08-24.wav</String>
+            <String>方剑伟 (31). 赠桨解读. 2020-08-24.wav</String>
         </pref>
     </prefGroup>
     <prefList key="MultiTierViewer.HiddenTiers"/>

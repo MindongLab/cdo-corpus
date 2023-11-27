@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/方剑伟 (31). 不就号链铙嘛. 2020-08-15.wav"
+            MEDIA_URL="./方剑伟 (31). 不就号链铙嘛. 2020-08-15.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./方剑伟 (31). 不就号链铙嘛. 2020-08-15.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5d89f6d1-f643-4047-9615-21cd7dee9fae</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">31</PROPERTY>

@@ -220,7 +220,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/方剑伟 (31). 不就号链铙嘛. 2020-08-15.wav</String>
+            <String>方剑伟 (31). 不就号链铙嘛. 2020-08-15.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

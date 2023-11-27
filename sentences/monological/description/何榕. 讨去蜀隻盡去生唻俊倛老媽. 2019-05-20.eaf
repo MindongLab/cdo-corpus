@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/monological/description/何榕. 讨去蜀隻盡去生唻俊倛老媽. 2019-05-20.wav"
+            MEDIA_URL="./何榕. 讨去蜀隻盡去生唻俊倛老媽. 2019-05-20.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./何榕. 讨去蜀隻盡去生唻俊倛老媽. 2019-05-20.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:7c90c2f5-12ea-4f3a-9cb0-f290aee1731d</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">25</PROPERTY>

@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/烟雨三山@QQ. 叮所. 2020-06-23.wav"
+            MEDIA_URL="./烟雨三山@QQ. 叮所. 2020-06-23.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./烟雨三山@QQ. 叮所. 2020-06-23.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2dd1d7c3-d737-40b6-a7b2-1a18072c5b46</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">10</PROPERTY>

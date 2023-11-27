@@ -153,7 +153,7 @@
         <Float>932.0</Float>
     </pref>
     <pref key="WaveFormViewer.ActiveURL">
-        <String>file:///E:/Documents/Git/cdo-corpus/sentences/mnhu/mnhu. 方剑伟. 链铙就是链铙. 2020-08-15.wav</String>
+        <String>mnhu. 方剑伟. 链铙就是链铙. 2020-08-15.wav</String>
     </pref>
     <pref key="MultiTierViewer.ActiveTierName">
         <String>character</String>
@@ -226,7 +226,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/方剑伟 (31). 链铙就是链铙. 2020-08-15.wav</String>
+            <String>方剑伟 (31). 链铙就是链铙. 2020-08-15.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

@@ -239,7 +239,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/monological/description/何榕. 讨去蜀隻盡去生唻俊倛老媽. 2019-05-20.wav</String>
+            <String>何榕. 讨去蜀隻盡去生唻俊倛老媽. 2019-05-20.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

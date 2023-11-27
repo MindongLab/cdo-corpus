@@ -236,7 +236,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/chat/葉修齊. 在我將去講. 2020-04-11.wav</String>
+            <String>葉修齊. 在我將去講. 2020-04-11.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

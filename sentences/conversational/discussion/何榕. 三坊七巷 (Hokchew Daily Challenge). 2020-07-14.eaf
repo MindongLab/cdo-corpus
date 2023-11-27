@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/何榕. 三坊七巷 (Hokchew Daily Challenge). 2020-07-14.wav"
+            MEDIA_URL="./何榕. 三坊七巷 (Hokchew Daily Challenge). 2020-07-14.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./何榕. 三坊七巷 (Hokchew Daily Challenge). 2020-07-14.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a5c76ed8-18cf-4db3-96c8-770907aaa524</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">13</PROPERTY>

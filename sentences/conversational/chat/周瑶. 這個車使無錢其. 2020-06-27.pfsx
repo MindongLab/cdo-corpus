@@ -236,7 +236,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/chat/周瑶. 這個車使無錢其. 2020-06-27.wav</String>
+            <String>周瑶. 這個車使無錢其. 2020-06-27.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

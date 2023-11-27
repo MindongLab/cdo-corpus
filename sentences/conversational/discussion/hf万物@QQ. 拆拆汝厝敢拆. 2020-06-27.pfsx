@@ -227,7 +227,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/conversational/discussion/hf万物@QQ. 拆拆汝厝敢拆. 2020-06-27.wav</String>
+            <String>hf万物@QQ. 拆拆汝厝敢拆. 2020-06-27.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

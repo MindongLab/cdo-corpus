@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-08-18T02:44:49+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/audio by ELAN/mnhu. 方剑伟. 不就号链铙嘛. 2020-08-15.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./mnhu. 方剑伟. 不就号链铙嘛. 2020-08-15.mp3"/>
-        <LINKED_FILE_DESCRIPTOR LINK_URL="file:///E:/Documents/Git/cdo-corpus/audio by ELAN/mnhu. 方剑伟. 链铙就是链铙. 2020-08-15_tsconf.xml" MIME_TYPE="text/xml"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="./mnhu. 方剑伟. 不就号链铙嘛. 2020-08-15.mp3" MIME_TYPE="audio/*" RELATIVE_MEDIA_URL="./mnhu. 方剑伟. 不就号链铙嘛. 2020-08-15.mp3"/>
+        <LINKED_FILE_DESCRIPTOR LINK_URL="./mnhu. 方剑伟. 链铙就是链铙. 2020-08-15_tsconf.xml" MIME_TYPE="text/xml"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5d89f6d1-f643-4047-9615-21cd7dee9fae</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">29</PROPERTY>
     </HEADER>

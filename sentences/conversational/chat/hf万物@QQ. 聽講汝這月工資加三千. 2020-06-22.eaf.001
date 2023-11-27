@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-08-23T18:53:10+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/conversational/chat/hf万物@QQ. 聽講汝這月工資加三千. 2020-06-22.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./hf万物@QQ. 聽講汝這月工資加三千. 2020-06-22.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="./hf万物@QQ. 聽講汝這月工資加三千. 2020-06-22.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./hf万物@QQ. 聽講汝這月工資加三千. 2020-06-22.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bbc0b896-1924-4f33-b66d-9648f036ccbf</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">88</PROPERTY>
     </HEADER>
