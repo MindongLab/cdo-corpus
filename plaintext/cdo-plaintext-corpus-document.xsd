@@ -19,7 +19,11 @@
 			<xs:attribute ref="Copyright" use="optional"/>
 		</xs:complexType>
 	</xs:element>
-	<xs:attribute name="Conversation" type="xs:boolean"/>
+	<xs:attribute name="Conversation" type="xs:boolean">
+		<xs:annotation>
+			<xs:documentation>Conversation or not / 語料是否對話形式</xs:documentation>
+		</xs:annotation>
+	</xs:attribute>
 	<xs:attribute name="Property">
 		<xs:annotation>
 			<xs:documentation>Property / 言文性質</xs:documentation>
@@ -45,7 +49,7 @@
 	</xs:attribute>
 	<xs:element name="Title">
 		<xs:annotation>
-			<xs:documentation>Title of work / 作品標題</xs:documentation>
+			<xs:documentation>Title of content / 材料標題</xs:documentation>
 		</xs:annotation>
 		<xs:complexType>
 			<xs:sequence>
@@ -99,6 +103,9 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:complexType name="SecTemplate">
+		<xs:annotation>
+			<xs:documentation>Template of section / 語料節模板</xs:documentation>
+		</xs:annotation>
 		<xs:sequence>
 			<xs:element ref="Title" minOccurs="0"/>
 			<xs:element ref="Translation" minOccurs="0" maxOccurs="unbounded"/>
@@ -121,6 +128,9 @@
 		<xs:attribute ref="Copyright" use="optional"/>
 	</xs:complexType>
 	<xs:element name="SecLv1">
+		<xs:annotation>
+			<xs:documentation>Level of section / 語料節分層</xs:documentation>
+		</xs:annotation>
 		<xs:complexType>
 			<xs:sequence>
 				<xs:element ref="Title" minOccurs="0"/>
@@ -289,6 +299,9 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:attribute name="Section">
+		<xs:annotation>
+			<xs:documentation>Section of corpus / 語料節</xs:documentation>
+		</xs:annotation>
 		<xs:simpleType>
 			<xs:restriction base="xs:string">
 				<xs:enumeration value="Series"/>
@@ -306,6 +319,9 @@
 		</xs:simpleType>
 	</xs:attribute>
 	<xs:complexType name="Person">
+		<xs:annotation>
+			<xs:documentation>Person about corpus / 語料相關人物</xs:documentation>
+		</xs:annotation>
 		<xs:sequence>
 			<xs:element name="Name" type="xs:string" minOccurs="0"/>
 			<xs:element name="SpeakerId" minOccurs="0">
@@ -319,7 +335,7 @@
 	</xs:complexType>
 	<xs:element name="Speaker">
 		<xs:annotation>
-			<xs:documentation>Speaker or Creator / 說話人或創作者</xs:documentation>
+			<xs:documentation>Speaker or creator / 說話人或創作者</xs:documentation>
 		</xs:annotation>
 		<xs:complexType>
 			<xs:complexContent>
@@ -329,7 +345,7 @@
 	</xs:element>
 	<xs:element name="Translator">
 		<xs:annotation>
-			<xs:documentation>Translator / 語料翻譯者</xs:documentation>
+			<xs:documentation>Translator of corpus / 語料翻譯者</xs:documentation>
 		</xs:annotation>
 		<xs:complexType>
 			<xs:complexContent>
@@ -342,7 +358,7 @@
 	</xs:element>
 	<xs:element name="Provider">
 		<xs:annotation>
-			<xs:documentation>Provider / 語料提供者</xs:documentation>
+			<xs:documentation>Provider of corpus / 語料提供者</xs:documentation>
 		</xs:annotation>
 		<xs:complexType>
 			<xs:complexContent>
@@ -353,6 +369,9 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:attributeGroup name="Transliteration">
+		<xs:annotation>
+			<xs:documentation>Transliteration to pronunciation / 對讀音的轉寫</xs:documentation>
+		</xs:annotation>
 		<xs:attribute name="FoochowRomanized" type="xs:string" use="optional">
 			<xs:annotation>
 				<xs:documentation>Foochow Romanized / 福州話教會羅馬字</xs:documentation>
@@ -365,6 +384,9 @@
 		</xs:attribute>
 	</xs:attributeGroup>
 	<xs:element name="Translation">
+		<xs:annotation>
+			<xs:documentation>Translation of corpus / 語料翻譯</xs:documentation>
+		</xs:annotation>
 		<xs:complexType>
 			<xs:attribute name="TransText" type="xs:string" use="optional">
 				<xs:annotation>
@@ -925,8 +947,15 @@
 			<xs:documentation>Typo fixing / 修正用字</xs:documentation>
 		</xs:annotation>
 	</xs:attribute>
-	<xs:attribute name="Note" type="xs:string"/>
+	<xs:attribute name="Note" type="xs:string">
+		<xs:annotation>
+			<xs:documentation>Note of corpus / 語料註釋</xs:documentation>
+		</xs:annotation>
+	</xs:attribute>
 	<xs:attributeGroup name="TimeGroup">
+		<xs:annotation>
+			<xs:documentation>Time of corpus/ 語料時間</xs:documentation>
+		</xs:annotation>
 		<xs:attribute name="Year" type="xs:integer" use="optional"/>
 		<xs:attribute name="Month" type="xs:integer" use="optional"/>
 		<xs:attribute name="Day" type="xs:integer" use="optional"/>

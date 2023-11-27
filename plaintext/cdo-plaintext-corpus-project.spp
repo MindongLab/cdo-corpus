@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Project>
 	<Folder FolderName="XML Files" ExtStr="xml;cml;math;mtx;rdf;smil;svg;wml">
-		<ExtMountFolder FolderName="E:\Documents\Git\cdo-corpus\plaintext\essay"/>
-		<ExtMountFolder FolderName="E:\Documents\Git\cdo-corpus\plaintext\poem"/>
-		<ExtMountFolder FolderName="E:\Documents\Git\cdo-corpus\plaintext\sentences"/>
+		<ExtMountFolder FolderName="essay"/>
+		<ExtMountFolder FolderName="poem"/>
+		<ExtMountFolder FolderName="sentences"/>
 	</Folder>
 	<Folder FolderName="XSL Files" ExtStr="xsl;xslt"/>
 	<Folder FolderName="XQuery Files" ExtStr="xq;xql;xquery"/>
