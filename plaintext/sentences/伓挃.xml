@@ -7,7 +7,7 @@
 		<Name>关彳山</Name>
 	</Provider>
 	<SecLv1 Iso639-6="fuqi" Section="Sentence" Date="2018-03-23">
-		<Translation Iso639-1="ja" TransText="いらない"/>
+		<Translation Iso639-1="ja" TransText="要らない"/>
 		<SecLv2 Text="伓" YngPing="n" Section="Character"/>
 		<SecLv2 Text="□" YngPing="nih" TypoFix="挃" Section="Character"/>
 	</SecLv1>

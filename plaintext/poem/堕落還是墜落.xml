@@ -320,7 +320,7 @@
 			<SecLv3 Section="Word" Text="追捕">
 				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="追捕"/>
 			</SecLv3>
-			<SecLv3 Section="Word" Text="裡勢">
+			<SecLv3 Section="Word" Text="裏勢">
 				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="中"/>
 			</SecLv3>
 		</SecLv2>
@@ -331,7 +331,7 @@
 			<SecLv3 Section="Character" Text="句">
 				<Translation Iso639-1="zh" Iso639-3="cmn" TransText="句"/>
 			</SecLv3>
-			<SecLv3 Section="Character" Text="真"/>
+			<SecLv3 Section="Character" Text="真" TypoFix="盡"/>
 			<SecLv3 Section="Word" Text="有味"/>
 			<SecLv3 Section="Character" Text="其"/>
 			<SecLv3 Section="Character" Text="話"/>
