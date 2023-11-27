@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2021-01-27T02:38:13+08:00"
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2023-11-27T22:01:28+09:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
@@ -7,7 +7,7 @@
             MEDIA_URL="./楊柳. 下蜀站于山. 2018 [2020-04-15].wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./楊柳. 下蜀站于山. 2018 [2020-04-15].wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:07ea8961-fdf5-4d21-bf3e-31f4d566906e</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">101</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">103</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="432"/>
@@ -352,7 +352,18 @@
         LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="yngping" TIER_ID="faulty fixing yp."/>
     <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
         LINGUISTIC_TYPE_REF="symbolic-association"
-        PARENT_REF="character" TIER_ID="cmn trans. by char."/>
+        PARENT_REF="character" TIER_ID="cmn trans. by char.">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a102" ANNOTATION_REF="a97">
+                <ANNOTATION_VALUE>于</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a103" ANNOTATION_REF="a98">
+                <ANNOTATION_VALUE>山</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER DEFAULT_LOCALE="en" LANG_REF="cdo"
         LINGUISTIC_TYPE_REF="symbolic-association"
         PARENT_REF="character" TIER_ID="yngping by char.">

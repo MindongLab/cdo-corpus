@@ -2,7 +2,7 @@
 <preferences version="1.1"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/Prefs_v1.1.xsd">
     <pref key="FrameSize">
-        <Object class="java.awt.Dimension">1536,814</Object>
+        <Object class="java.awt.Dimension">1458,814</Object>
     </pref>
     <pref key="LayoutManager.VisibleMultiTierViewer">
         <String>mpi.eudico.client.annotator.viewer.TimeLineViewer</String>
@@ -107,10 +107,10 @@
         <Int>12</Int>
     </pref>
     <pref key="TimeScaleBeginTime">
-        <Long>0</Long>
+        <Long>7646</Long>
     </pref>
     <pref key="MediaTime">
-        <Long>9074</Long>
+        <Long>9318</Long>
     </pref>
     <prefGroup key="TierColors">
         <pref key="sentence">
@@ -119,11 +119,11 @@
         <pref key="character">
             <Object class="java.awt.Color">160,90,90</Object>
         </pref>
-        <pref key="yngping">
-            <Object class="java.awt.Color">0,0,160</Object>
-        </pref>
         <pref key="yngping by char.">
             <Object class="java.awt.Color">90,160,0</Object>
+        </pref>
+        <pref key="yngping">
+            <Object class="java.awt.Color">0,0,160</Object>
         </pref>
         <pref key="faulty fixing yp.">
             <Object class="java.awt.Color">160,0,0</Object>
@@ -194,7 +194,7 @@
         <Int>98</Int>
     </pref>
     <pref key="SelectionEndTime">
-        <Long>9386</Long>
+        <Long>9119</Long>
     </pref>
     <prefGroup key="CommentViewer.Columns">
         <pref key="首字母">
