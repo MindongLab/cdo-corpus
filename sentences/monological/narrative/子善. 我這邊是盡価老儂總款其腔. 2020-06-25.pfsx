@@ -235,7 +235,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/monological/narrative/子善. 我這邊是盡価老儂總款其腔. 2020-06-25.wav</String>
+            <String>子善. 我這邊是盡価老儂總款其腔. 2020-06-25.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

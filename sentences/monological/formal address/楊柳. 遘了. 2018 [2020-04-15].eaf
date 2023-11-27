@@ -4,11 +4,11 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 遘了. 2018 [2020-04-15].wav"
+            MEDIA_URL="./楊柳. 遘了. 2018 [2020-04-15].wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./楊柳. 遘了. 2018 [2020-04-15].wav"/>
         <LINKED_FILE_DESCRIPTOR
-            ASSOCIATED_WITH="file:///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 遘了. 2018 [2020-04-15].wav"
-            LINK_URL="file:///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 光明橋站遘了, 請趁後門落車. 2018 [2020-04-15].wav"
+            ASSOCIATED_WITH="./楊柳. 遘了. 2018 [2020-04-15].wav"
+            LINK_URL="./楊柳. 光明橋站遘了, 請趁後門落車. 2018 [2020-04-15].wav"
             MIME_TYPE="unknown" RELATIVE_LINK_URL="./楊柳. 光明橋站遘了, 請趁後門落車. 2018 [2020-04-15].wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:2889a47e-9e95-40f5-b091-449cbfd435d0</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">15</PROPERTY>

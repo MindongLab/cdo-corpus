@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-10-20T00:36:22+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/monological/narrative/葉修齊. 讲解去食. 2020-10-15.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./葉修齊. 讲解去食. 2020-10-15.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="./葉修齊. 讲解去食. 2020-10-15.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./葉修齊. 讲解去食. 2020-10-15.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:c96fe56d-31bf-43be-af01-f7fbc0c5f58c</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">42</PROPERTY>
     </HEADER>

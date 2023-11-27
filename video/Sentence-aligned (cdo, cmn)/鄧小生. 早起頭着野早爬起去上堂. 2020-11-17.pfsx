@@ -290,7 +290,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/video/鄧小生. 早起頭着野早爬起去上堂. 2020-11-17早起頭着野早爬起去上堂. 2020-11-17.wav</String>
+            <String>鄧小生. 早起頭着野早爬起去上堂. 2020-11-17.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

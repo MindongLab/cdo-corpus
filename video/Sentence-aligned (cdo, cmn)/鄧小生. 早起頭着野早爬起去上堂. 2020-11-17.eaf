@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-11-17T20:43:37+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/video/鄧小生. 早起頭着野早爬起去上堂. 2020-11-17.MP4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./鄧小生. 早起頭着野早爬起去上堂. 2020-11-17.MP4"/>
-        <MEDIA_DESCRIPTOR EXTRACTED_FROM="file:///E:/Documents/Git/cdo-corpus/video/鄧小生. 早起頭着野早爬起去上堂. 2020-11-17.MP4" MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/video/鄧小生. 早起頭着野早爬起去上堂. 2020-11-17早起頭着野早爬起去上堂. 2020-11-17.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./鄧小生. 早起頭着野早爬起去上堂. 2020-11-17早起頭着野早爬起去上堂. 2020-11-17.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="./鄧小生. 早起頭着野早爬起去上堂. 2020-11-17.MP4" MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./鄧小生. 早起頭着野早爬起去上堂. 2020-11-17.MP4"/>
+        <MEDIA_DESCRIPTOR EXTRACTED_FROM="./鄧小生. 早起頭着野早爬起去上堂. 2020-11-17.MP4" MEDIA_URL="./鄧小生. 早起頭着野早爬起去上堂. 2020-11-17早起頭着野早爬起去上堂. 2020-11-17.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./鄧小生. 早起頭着野早爬起去上堂. 2020-11-17早起頭着野早爬起去上堂. 2020-11-17.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:321955c5-dfc9-4d29-968f-cc639ee6cc6c</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">56</PROPERTY>
     </HEADER>

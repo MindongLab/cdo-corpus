@@ -286,7 +286,7 @@
     <prefList key="InterlinearizationConfigurations"/>
     <prefGroup key="AAM-LR Phone level audio segmentation">
         <pref key="source_audio">
-            <String>///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 光明橋站遘了, 請趁後門落車. 2018 [2020-04-15].wav</String>
+            <String></String>
         </pref>
         <pref key="base_url">
             <String>http://lux17.mpi.nl/aamlr/</String>

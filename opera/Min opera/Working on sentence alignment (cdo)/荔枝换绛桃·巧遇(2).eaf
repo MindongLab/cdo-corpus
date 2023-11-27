@@ -4,12 +4,12 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/opera/Min opera/Machine-unreadable/荔枝换绛桃·巧遇(2).mp4"
-            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./荔枝换绛桃·巧遇(2).mp4"/>
+            MEDIA_URL="荔枝换绛桃·巧遇(2).mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="荔枝换绛桃·巧遇(2).mp4"/>
         <MEDIA_DESCRIPTOR
-            EXTRACTED_FROM="file:///E:/Documents/Git/cdo-corpus/opera/Min opera/Machine-unreadable/荔枝换绛桃·巧遇(2).mp4"
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/opera/Min opera/Machine-unreadable/荔枝换绛桃·巧遇(2).wav"
-            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./荔枝换绛桃·巧遇(2).wav"/>
+            EXTRACTED_FROM="荔枝换绛桃·巧遇(2).mp4"
+            MEDIA_URL="荔枝换绛桃·巧遇(2).wav"
+            MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="荔枝换绛桃·巧遇(2).wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:a8c4f1d0-d0a8-4b5f-99d9-2b725132d102</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2</PROPERTY>
     </HEADER>

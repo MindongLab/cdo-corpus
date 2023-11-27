@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/monological/narrative/李睿淇. 但所底所都有講. 2020-06-23.wav"
+            MEDIA_URL="./李睿淇. 但所底所都有講. 2020-06-23.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./李睿淇. 但所底所都有講. 2020-06-23.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:bc5f8b83-63b0-4ee1-a5f9-10cc5f27d7ee</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">16</PROPERTY>

@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/monological/formal address/楊柳. 下蜀站于山. 2018 [2020-04-15].wav"
+            MEDIA_URL="./楊柳. 下蜀站于山. 2018 [2020-04-15].wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./楊柳. 下蜀站于山. 2018 [2020-04-15].wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:07ea8961-fdf5-4d21-bf3e-31f4d566906e</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">101</PROPERTY>

@@ -233,7 +233,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/monological/speech/蔡英文, 李問. 當選當選當選. 2019-10-07.wav</String>
+            <String>蔡英文, 李問. 當選當選當選. 2019-10-07.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

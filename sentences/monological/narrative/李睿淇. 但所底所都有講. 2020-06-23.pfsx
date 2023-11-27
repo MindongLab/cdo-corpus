@@ -227,7 +227,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/monological/narrative/李睿淇. 但所底所都有講. 2020-06-23.wav</String>
+            <String>李睿淇. 但所底所都有講. 2020-06-23.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

@@ -239,7 +239,7 @@
             <String>http://lux17.mpi.nl/aamlr/</String>
         </pref>
         <pref key="source_audio">
-            <String>E:/Documents/Git/cdo-corpus/sentences/monological/narrative/葉修齊. 去底蜀间饭店比较少说. 2020-10-15.wav</String>
+            <String>葉修齊. 去底蜀间饭店比较少说. 2020-10-15.wav</String>
         </pref>
     </prefGroup>
     <pref key="InterlinearizationMode.LeftRightSplit">

@@ -4,7 +4,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/sentences/monological/narrative/Unknown. 對手做生意.wav"
+            MEDIA_URL="./Unknown. 對手做生意.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./Unknown. 對手做生意.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5de84817-9392-426e-96a1-133365ce33d8</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">2</PROPERTY>
