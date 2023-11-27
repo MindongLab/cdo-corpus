@@ -318,6 +318,9 @@
 		</xs:sequence>
 	</xs:complexType>
 	<xs:element name="Speaker">
+		<xs:annotation>
+			<xs:documentation>Speaker or Creator / 說話人或創作者</xs:documentation>
+		</xs:annotation>
 		<xs:complexType>
 			<xs:complexContent>
 				<xs:extension base="Person"/>
@@ -325,6 +328,9 @@
 		</xs:complexType>
 	</xs:element>
 	<xs:element name="Translator">
+		<xs:annotation>
+			<xs:documentation>Translator / 語料翻譯者</xs:documentation>
+		</xs:annotation>
 		<xs:complexType>
 			<xs:complexContent>
 				<xs:extension base="Person">
@@ -362,7 +368,7 @@
 		<xs:complexType>
 			<xs:attribute name="TransText" type="xs:string" use="optional">
 				<xs:annotation>
-					<xs:documentation>Translation in Chinese Mandarin / 漢語普通話翻譯</xs:documentation>
+					<xs:documentation>Translation / 語料翻譯</xs:documentation>
 				</xs:annotation>
 			</xs:attribute>
 			<xs:attributeGroup ref="LanCode"/>
