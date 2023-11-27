@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2020-11-17T15:48:23+08:00" FORMAT="3.0" VERSION="3.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
-        <MEDIA_DESCRIPTOR MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/essay/福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav"/>
+        <MEDIA_DESCRIPTOR MEDIA_URL="./福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav" MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aa6fa27a-40ba-432c-a35c-f43eefdbd8a6</PROPERTY>
         <PROPERTY NAME="lastUsedAnnotationId">87</PROPERTY>
     </HEADER>

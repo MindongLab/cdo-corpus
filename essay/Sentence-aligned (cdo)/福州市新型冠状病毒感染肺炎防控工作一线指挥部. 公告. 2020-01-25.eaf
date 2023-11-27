@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2021-09-29T20:07:31+08:00"
+<ANNOTATION_DOCUMENT AUTHOR="关彳山" DATE="2023-11-27T20:55:58+09:00"
     FORMAT="3.0" VERSION="3.0"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
     <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
         <MEDIA_DESCRIPTOR
-            MEDIA_URL="file:///E:/Documents/Git/cdo-corpus/essay/福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav"
+            MEDIA_URL="./福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav"
             MIME_TYPE="audio/x-wav" RELATIVE_MEDIA_URL="./福州市新型冠状病毒感染肺炎防控工作一线指挥部. 公告. 2020-01-25.wav"/>
         <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:aa6fa27a-40ba-432c-a35c-f43eefdbd8a6</PROPERTY>
-        <PROPERTY NAME="lastUsedAnnotationId">120</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">122</PROPERTY>
     </HEADER>
     <TIME_ORDER>
         <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="362926"/>
@@ -33,63 +33,65 @@
         <TIME_SLOT TIME_SLOT_ID="ts21" TIME_VALUE="395399"/>
         <TIME_SLOT TIME_SLOT_ID="ts22" TIME_VALUE="401991"/>
         <TIME_SLOT TIME_SLOT_ID="ts23" TIME_VALUE="402711"/>
-        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="403139"/>
-        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="403397"/>
-        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="409854"/>
-        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="410659"/>
-        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="411214"/>
-        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="411534"/>
-        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="417426"/>
-        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="417977"/>
-        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="425030"/>
-        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="425849"/>
-        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="426390"/>
-        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="426584"/>
-        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="430680"/>
-        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="431528"/>
-        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="432042"/>
-        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="432346"/>
-        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="439151"/>
-        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="439198"/>
-        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="447033"/>
-        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="447579"/>
-        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="447893"/>
-        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="447942"/>
-        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="460698"/>
-        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="460856"/>
-        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="464988"/>
-        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="465489"/>
-        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="466003"/>
-        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="466017"/>
-        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="474098"/>
-        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="474513"/>
-        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="480692"/>
-        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="481094"/>
-        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="481522"/>
-        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="481956"/>
-        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="483248"/>
-        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="483590"/>
-        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="490872"/>
-        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="490939"/>
-        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="495798"/>
-        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="496694"/>
-        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="497197"/>
-        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="497412"/>
-        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="500435"/>
-        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="500874"/>
-        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="506484"/>
-        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="507088"/>
-        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="507540"/>
-        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="507890"/>
-        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="509432"/>
-        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="509554"/>
-        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="521154"/>
-        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="521231"/>
-        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="525292"/>
-        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="525667"/>
-        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="530176"/>
-        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="530480"/>
-        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="532665"/>
+        <TIME_SLOT TIME_SLOT_ID="ts24" TIME_VALUE="402711"/>
+        <TIME_SLOT TIME_SLOT_ID="ts25" TIME_VALUE="403139"/>
+        <TIME_SLOT TIME_SLOT_ID="ts26" TIME_VALUE="403139"/>
+        <TIME_SLOT TIME_SLOT_ID="ts27" TIME_VALUE="403397"/>
+        <TIME_SLOT TIME_SLOT_ID="ts28" TIME_VALUE="409854"/>
+        <TIME_SLOT TIME_SLOT_ID="ts29" TIME_VALUE="410659"/>
+        <TIME_SLOT TIME_SLOT_ID="ts30" TIME_VALUE="411214"/>
+        <TIME_SLOT TIME_SLOT_ID="ts31" TIME_VALUE="411534"/>
+        <TIME_SLOT TIME_SLOT_ID="ts32" TIME_VALUE="417426"/>
+        <TIME_SLOT TIME_SLOT_ID="ts33" TIME_VALUE="417977"/>
+        <TIME_SLOT TIME_SLOT_ID="ts34" TIME_VALUE="425030"/>
+        <TIME_SLOT TIME_SLOT_ID="ts35" TIME_VALUE="425849"/>
+        <TIME_SLOT TIME_SLOT_ID="ts36" TIME_VALUE="426390"/>
+        <TIME_SLOT TIME_SLOT_ID="ts37" TIME_VALUE="426584"/>
+        <TIME_SLOT TIME_SLOT_ID="ts38" TIME_VALUE="430680"/>
+        <TIME_SLOT TIME_SLOT_ID="ts39" TIME_VALUE="431528"/>
+        <TIME_SLOT TIME_SLOT_ID="ts40" TIME_VALUE="432042"/>
+        <TIME_SLOT TIME_SLOT_ID="ts41" TIME_VALUE="432346"/>
+        <TIME_SLOT TIME_SLOT_ID="ts42" TIME_VALUE="439151"/>
+        <TIME_SLOT TIME_SLOT_ID="ts43" TIME_VALUE="439198"/>
+        <TIME_SLOT TIME_SLOT_ID="ts44" TIME_VALUE="447033"/>
+        <TIME_SLOT TIME_SLOT_ID="ts45" TIME_VALUE="447579"/>
+        <TIME_SLOT TIME_SLOT_ID="ts46" TIME_VALUE="447893"/>
+        <TIME_SLOT TIME_SLOT_ID="ts47" TIME_VALUE="447942"/>
+        <TIME_SLOT TIME_SLOT_ID="ts48" TIME_VALUE="460698"/>
+        <TIME_SLOT TIME_SLOT_ID="ts49" TIME_VALUE="460856"/>
+        <TIME_SLOT TIME_SLOT_ID="ts50" TIME_VALUE="464988"/>
+        <TIME_SLOT TIME_SLOT_ID="ts51" TIME_VALUE="465489"/>
+        <TIME_SLOT TIME_SLOT_ID="ts52" TIME_VALUE="466003"/>
+        <TIME_SLOT TIME_SLOT_ID="ts53" TIME_VALUE="466017"/>
+        <TIME_SLOT TIME_SLOT_ID="ts54" TIME_VALUE="474098"/>
+        <TIME_SLOT TIME_SLOT_ID="ts55" TIME_VALUE="474513"/>
+        <TIME_SLOT TIME_SLOT_ID="ts56" TIME_VALUE="480692"/>
+        <TIME_SLOT TIME_SLOT_ID="ts57" TIME_VALUE="481094"/>
+        <TIME_SLOT TIME_SLOT_ID="ts58" TIME_VALUE="481522"/>
+        <TIME_SLOT TIME_SLOT_ID="ts59" TIME_VALUE="481956"/>
+        <TIME_SLOT TIME_SLOT_ID="ts60" TIME_VALUE="483248"/>
+        <TIME_SLOT TIME_SLOT_ID="ts61" TIME_VALUE="483590"/>
+        <TIME_SLOT TIME_SLOT_ID="ts62" TIME_VALUE="490872"/>
+        <TIME_SLOT TIME_SLOT_ID="ts63" TIME_VALUE="490939"/>
+        <TIME_SLOT TIME_SLOT_ID="ts64" TIME_VALUE="495798"/>
+        <TIME_SLOT TIME_SLOT_ID="ts65" TIME_VALUE="496694"/>
+        <TIME_SLOT TIME_SLOT_ID="ts66" TIME_VALUE="497197"/>
+        <TIME_SLOT TIME_SLOT_ID="ts67" TIME_VALUE="497412"/>
+        <TIME_SLOT TIME_SLOT_ID="ts68" TIME_VALUE="500435"/>
+        <TIME_SLOT TIME_SLOT_ID="ts69" TIME_VALUE="500874"/>
+        <TIME_SLOT TIME_SLOT_ID="ts70" TIME_VALUE="506484"/>
+        <TIME_SLOT TIME_SLOT_ID="ts71" TIME_VALUE="507088"/>
+        <TIME_SLOT TIME_SLOT_ID="ts72" TIME_VALUE="507540"/>
+        <TIME_SLOT TIME_SLOT_ID="ts73" TIME_VALUE="507890"/>
+        <TIME_SLOT TIME_SLOT_ID="ts74" TIME_VALUE="509432"/>
+        <TIME_SLOT TIME_SLOT_ID="ts75" TIME_VALUE="509554"/>
+        <TIME_SLOT TIME_SLOT_ID="ts76" TIME_VALUE="521154"/>
+        <TIME_SLOT TIME_SLOT_ID="ts77" TIME_VALUE="521231"/>
+        <TIME_SLOT TIME_SLOT_ID="ts78" TIME_VALUE="525292"/>
+        <TIME_SLOT TIME_SLOT_ID="ts79" TIME_VALUE="525667"/>
+        <TIME_SLOT TIME_SLOT_ID="ts80" TIME_VALUE="530176"/>
+        <TIME_SLOT TIME_SLOT_ID="ts81" TIME_VALUE="530480"/>
+        <TIME_SLOT TIME_SLOT_ID="ts82" TIME_VALUE="532665"/>
     </TIME_ORDER>
     <TIER ANNOTATOR="关彳山" DEFAULT_LOCALE="zh" LANG_REF="mul"
         LINGUISTIC_TYPE_REF="default" TIER_ID="sentence">
@@ -161,175 +163,175 @@
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a17"
-                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts24">
+                TIME_SLOT_REF1="ts23" TIME_SLOT_REF2="ts25">
                 <ANNOTATION_VALUE>二</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a18"
-                TIME_SLOT_REF1="ts25" TIME_SLOT_REF2="ts26">
+                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
                 <ANNOTATION_VALUE>全市工廠 工地 對湖北武漢重點疫情區域其工作人員 推遲復工</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a22"
-                TIME_SLOT_REF1="ts27" TIME_SLOT_REF2="ts28">
+                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
                 <ANNOTATION_VALUE>三</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a23"
-                TIME_SLOT_REF1="ts29" TIME_SLOT_REF2="ts30">
+                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
                 <ANNOTATION_VALUE>圖書館 博物館 公園 景區等 全部公共活動場所 暫時關閉</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a24"
-                TIME_SLOT_REF1="ts31" TIME_SLOT_REF2="ts32">
+                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
                 <ANNOTATION_VALUE>網吧 KTV 桑拿 夜總會 遊輪等 人員密集型服務場所 全部暫時關停</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a25"
-                TIME_SLOT_REF1="ts33" TIME_SLOT_REF2="ts34">
+                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
                 <ANNOTATION_VALUE>四</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a26"
-                TIME_SLOT_REF1="ts35" TIME_SLOT_REF2="ts36">
+                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
                 <ANNOTATION_VALUE>各類學校活動 共線下培訓活動 全面停止</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a27"
-                TIME_SLOT_REF1="ts37" TIME_SLOT_REF2="ts38">
+                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
                 <ANNOTATION_VALUE>五</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a28"
-                TIME_SLOT_REF1="ts39" TIME_SLOT_REF2="ts40">
+                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
                 <ANNOTATION_VALUE>近期由武漢等重點地區 返榕 來榕人員 以及共伊密切接觸人員</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a31"
-                TIME_SLOT_REF1="ts41" TIME_SLOT_REF2="ts42">
+                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
                 <ANNOTATION_VALUE>着主動向社區報告健康情況 接受健康管理 並且避免遘人流密集場所</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a32"
-                TIME_SLOT_REF1="ts43" TIME_SLOT_REF2="ts44">
+                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
                 <ANNOTATION_VALUE>六</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a33"
-                TIME_SLOT_REF1="ts45" TIME_SLOT_REF2="ts46">
+                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
                 <ANNOTATION_VALUE>所有需要接受隔離治療 醫學觀察措施其病儂 疑似病儂 共密切接觸者 必須配合衛生健康部門 或且有關機構 採取醫學隔離措施</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a34"
-                TIME_SLOT_REF1="ts47" TIME_SLOT_REF2="ts48">
+                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
                 <ANNOTATION_VALUE>拒絕配合其 由公安機關依法強制隔離</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a35"
-                TIME_SLOT_REF1="ts49" TIME_SLOT_REF2="ts50">
+                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
                 <ANNOTATION_VALUE>七</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a39"
-                TIME_SLOT_REF1="ts51" TIME_SLOT_REF2="ts52">
+                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
                 <ANNOTATION_VALUE>着疫情存續期 市民應該當做好個人防護 減少探親訪友 共遘儂価地方</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a40"
-                TIME_SLOT_REF1="ts53" TIME_SLOT_REF2="ts54">
+                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
                 <ANNOTATION_VALUE>着公共場所着戴口罩 避免去已經有疫情其地區旅遊共居住</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a41"
-                TIME_SLOT_REF1="ts55" TIME_SLOT_REF2="ts56">
+                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
                 <ANNOTATION_VALUE>八</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a42"
-                TIME_SLOT_REF1="ts57" TIME_SLOT_REF2="ts58">
+                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
                 <ANNOTATION_VALUE>實施交通檢疫</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a43"
-                TIME_SLOT_REF1="ts59" TIME_SLOT_REF2="ts60">
+                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
                 <ANNOTATION_VALUE>着車站 機場 碼頭等重點場所 設置體溫檢測設施設備 進行體溫檢測</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a47"
-                TIME_SLOT_REF1="ts61" TIME_SLOT_REF2="ts62">
+                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
                 <ANNOTATION_VALUE>並且加強通風消毒 出入人員必須配合檢測體溫</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a48"
-                TIME_SLOT_REF1="ts63" TIME_SLOT_REF2="ts64">
+                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
                 <ANNOTATION_VALUE>九</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a49"
-                TIME_SLOT_REF1="ts65" TIME_SLOT_REF2="ts66">
+                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
                 <ANNOTATION_VALUE>嚴厲打擊野生動物非法販運 交易</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a50"
-                TIME_SLOT_REF1="ts67" TIME_SLOT_REF2="ts68">
+                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
                 <ANNOTATION_VALUE>加強農貿市場環境衛生整治 落實通風 消毒等措施</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a51"
-                TIME_SLOT_REF1="ts69" TIME_SLOT_REF2="ts70">
+                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
                 <ANNOTATION_VALUE>十</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a52"
-                TIME_SLOT_REF1="ts71" TIME_SLOT_REF2="ts72">
+                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
                 <ANNOTATION_VALUE>着疫情存續期</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a53"
-                TIME_SLOT_REF1="ts73" TIME_SLOT_REF2="ts74">
+                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
                 <ANNOTATION_VALUE>凡是散布謠言 哄擡物價 欺騙消費者 擾亂社會秩序共市場秩序其 由公安機關 或且市場監管部門 依法乞予行政處罰</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a57"
-                TIME_SLOT_REF1="ts75" TIME_SLOT_REF2="ts76">
+                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
                 <ANNOTATION_VALUE>構成犯罪其 依法追究刑事責任</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a58"
-                TIME_SLOT_REF1="ts77" TIME_SLOT_REF2="ts78">
+                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
                 <ANNOTATION_VALUE>福州市新型冠狀病毒感染肺炎防控工作一線指揮部</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
         <ANNOTATION>
             <ALIGNABLE_ANNOTATION ANNOTATION_ID="a59"
-                TIME_SLOT_REF1="ts79" TIME_SLOT_REF2="ts80">
+                TIME_SLOT_REF1="ts81" TIME_SLOT_REF2="ts82">
                 <ANNOTATION_VALUE>二環二環年一月廿五號</ANNOTATION_VALUE>
             </ALIGNABLE_ANNOTATION>
         </ANNOTATION>
@@ -538,13 +540,26 @@
         </ANNOTATION>
     </TIER>
     <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
-        LINGUISTIC_TYPE_REF="included-in" PARENT_REF="sentence" TIER_ID="word"/>
+        LINGUISTIC_TYPE_REF="included-in" PARENT_REF="sentence" TIER_ID="word">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a121"
+                TIME_SLOT_REF1="ts24" TIME_SLOT_REF2="ts26">
+                <ANNOTATION_VALUE>二</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER DEFAULT_LOCALE="zh" LANG_REF="cmn"
         LINGUISTIC_TYPE_REF="symbolic-association" PARENT_REF="word" TIER_ID="cmn trans. by word"/>
     <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
         PARENT_REF="word" TIER_ID="gáu-huôi lò̤-mā-cê"/>
     <TIER LANG_REF="cdo" LINGUISTIC_TYPE_REF="symbolic-association"
-        PARENT_REF="word" TIER_ID="yngping"/>
+        PARENT_REF="word" TIER_ID="yngping">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a122" ANNOTATION_REF="a121">
+                <ANNOTATION_VALUE>nei242</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
     <TIER LANG_REF="zxx" LINGUISTIC_TYPE_REF="symbolic-association"
         PARENT_REF="word" TIER_ID="language"/>
     <TIER DEFAULT_LOCALE="zh" LANG_REF="mul"
