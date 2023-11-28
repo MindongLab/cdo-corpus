@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
+	<Speaker>
+		<Name>cgkyk</Name>
+	</Speaker>
+	<Translator Iso639-1="zh" Iso639-3="cmn">
+		<Name>劉佳</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Date="2020-05-10" Iso639-1="zh" Iso639-3="cdo" Section="Article" Property="poem">
+		<Title Text="我其心眩倒">
+			<Translation Iso639-1="zh" Iso639-3="cmn" TransText="我的心好冷"/>
+		</Title>
+		<SecLv2 Section="Sentence" Text="這時間已是暝晡">
+			<Translation TransText="如果你還需要我" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="當愛情吹過">
+			<Translation TransText="這城市漸入夜色" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="幸福其花開幾蒲" TypoFix="幸福其花開幾柎">
+			<Translation TransText="當愛情經過" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="我不再去羡慕">
+			<Translation TransText="幸福的能有幾個" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="我伓想去轉厝">
+			<Translation TransText="沒有人再愛我" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="我只想七處亂搓" TypoFix="我衹想七處亂俥">
+			<Translation TransText="沒有人再等我" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="這地方我屈𣍐落" TypoFix="者地方我屈儥落">
+			<Translation TransText="我想我不會寂寞" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="恰脆弱結果">
+			<Translation TransText="這城市人太冷漠" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="孤單啊著心中勃" TypoFix="孤單吓著心中發">
+			<Translation TransText="太脆弱結果" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="蜀個儂打單馬墿">
+			<Translation TransText="孤單的衹剩下我" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="目滓啊無停流落" TypoFix="目滓吓無停流落">
+			<Translation TransText="一個人走了太多" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="無儂會行過來問好">
+			<Translation TransText="眼淚也不停轉著" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="我其心眩倒">
+			<Translation TransText="誰把愛攢下來給我" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="阿汝無塊討">
+			<Translation TransText="我的心好冷" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="現在汝覭底呢躲" TypoFix="現在汝覭底所躲">
+			<Translation TransText="等著你來疼" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="風吹過雨逿落">
+			<Translation TransText="而你現在還不懂" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="希望汝來褒">
+			<Translation TransText="冷冷的夜雨中" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="但是汝始終是話無幾句">
+			<Translation TransText="好想你來擁" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="我其心眩倒">
+			<Translation TransText="一切衹換來你一句保重" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="阿汝無塊討">
+			<Translation TransText="我的心好冷" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="怨我自家也無歩">
+			<Translation TransText="等著你來疼" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="有無儂像我喏">
+			<Translation TransText="恨我自己沒有用" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="傷心想倒墓">
+			<Translation TransText="有沒有人像我" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="心像破布無塊去補">
+			<Translation TransText="傷的那麼多" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="牧𣍐好" TypoFix="牧儥好">
+			<Translation TransText="心如刀割沒人能說" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="這城市燈紅酒綠" TypoFix="者城市燈紅酒綠">
+			<Translation TransText="我的痛" Iso639-1="zh" Iso639-3="cmn"/>
+			<Translation TransText="這城市霓虹交錯" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="儂真侈行過" TypoFix="儂盡価行過">
+			<Translation TransText="誰擦身而過" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="下蜀站會遘底呢" TypoFix="下蜀站會遘底所">
+			<Translation TransText="下一站開向哪呢" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="伓想問伓想措">
+			<Translation TransText="不再問為什麼" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="耳機裏放禮歌" TypoFix="耳機裏放𡅏歌">
+			<Translation TransText="傷心歌還在播" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Section="Sentence" Text="安慰我心中難過">
+			<Translation TransText="我想我難逃寂寞" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+	</SecLv1>
+	<Source>cgkyk. 《我的心好冷》福州话歌词[EB/OL]. 新浪博客, 2020-05-10. http://blog.sina.com.cn/s/blog_632254e5010302g8.html.</Source>
+</Corpus>

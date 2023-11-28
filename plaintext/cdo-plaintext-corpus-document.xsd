@@ -31,9 +31,12 @@
 		<xs:simpleType>
 			<xs:restriction base="xs:string">
 				<xs:enumeration value="spoken"/>
+				<xs:enumeration value="idiom"/>
 				<xs:enumeration value="written"/>
-				<xs:enumeration value="formal"/>
+				<xs:enumeration value="essay"/>
+				<xs:enumeration value="poem"/>
 				<xs:enumeration value="translated"/>
+				<xs:enumeration value="formal"/>
 			</xs:restriction>
 		</xs:simpleType>
 	</xs:attribute>
@@ -300,7 +303,7 @@
 	</xs:element>
 	<xs:attribute name="Section">
 		<xs:annotation>
-			<xs:documentation>Section of corpus / 語料節</xs:documentation>
+			<xs:documentation>Level of section / 節級別</xs:documentation>
 		</xs:annotation>
 		<xs:simpleType>
 			<xs:restriction base="xs:string">
@@ -959,6 +962,7 @@
 		<xs:attribute name="Year" type="xs:integer" use="optional"/>
 		<xs:attribute name="Month" type="xs:integer" use="optional"/>
 		<xs:attribute name="Day" type="xs:integer" use="optional"/>
+		<xs:attribute name="HourMinuteSecond" type="xs:time" use="optional"/>
 		<xs:attribute name="Date" type="xs:date" use="optional"/>
 		<xs:attribute name="DateTime" type="xs:dateTime" use="optional">
 			<xs:annotation>

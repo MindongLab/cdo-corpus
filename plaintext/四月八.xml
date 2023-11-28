@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd" Conversation="false" Property="written">
+	<Speaker>
+		<Name>李浩博</Name>
+		<SpeakerId>36</SpeakerId>
+	</Speaker>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+		<SecLv1 Section="Article" Iso639-1="zh" Iso639-3="cdo" Year="2020" Date="2020-04-23" Property="essay">
+			<Title Text="四月八"/>
+			<SecLv2 Section="Sentence" Text="今旦是農曆四月初一,"/>
+			<SecLv2 Section="Sentence" Text="有供神佛其厝會燒金銀錢紙揖保佑."/>
+			<SecLv2 Section="Sentence" Text="下禮拜者時候,"/>
+			<SecLv2 Section="Sentence" Text="就是四月八佛誕囉."/>
+			<SecLv2 Section="Sentence" Text="敆阿嬷厝," TypoFix="敆阿媽厝,"/>
+			<SecLv2 Section="Sentence" Text="四月八號𡅏公公爺爺大典."/>
+			<SecLv2 Section="Sentence" Text="四月初三開始,"/>
+			<SecLv2 Section="Sentence" Text="阿嬷厝𡅏就準備好揖保佑其乇," TypoFix="阿媽厝𡅏就準備好揖保佑其乇,"/>
+			<SecLv2 Section="Sentence" Text="像長長其香線共三頭放生使其龜."/>
+			<SecLv2 Section="Sentence" Text="舊底,"/>
+			<SecLv2 Section="Sentence" Text="敆福州讀書時候,"/>
+			<SecLv2 Section="Sentence" Text="㑚無住校,"/>
+			<SecLv2 Section="Sentence" Text="四月八暝晡我都有去阿嬷厝食酒慶賀." TypoFix="四月八暝晡我都有去阿媽厝食酒慶賀."/>
+			<SecLv2 Section="Sentence" Text="蜀隻大家庭幾十隻儂都着圓𡅏蜀堆食飯, 冇講,"/>
+			<SecLv2 Section="Sentence" Text="故有請厝邊鄉里客佻幫來."/>
+			<SecLv2 Section="Sentence" Text="伲囝哥就動命客佻."/>
+			<SecLv2 Section="Sentence" Text="嘻時候故有閩劇看,"/>
+			<SecLv2 Section="Sentence" Text="開場都是富貴長春,"/>
+			<SecLv2 Section="Sentence" Text="也號跳加官,"/>
+			<SecLv2 Section="Sentence" Text="卜演完着放炮仗,"/>
+			<SecLv2 Section="Sentence" Text="阿嬷故着告伲囝哥都來接元寶," TypoFix="阿媽故着告伲囝哥都來接元寶,"/>
+			<SecLv2 Section="Sentence" Text="盡去有味."/>
+			<SecLv2 Section="Sentence" Text="尾了我高中住校," TypoFix="尾斗我高中住校,"/>
+			<SecLv2 Section="Sentence" Text="去外斗讀大學,"/>
+			<SecLv2 Section="Sentence" Text="就無閑參加囉."/>
+			<SecLv2 Section="Sentence" Text="今年暝,"/>
+			<SecLv2 Section="Sentence" Text="因爲疫情,"/>
+			<SecLv2 Section="Sentence" Text="農曆四月故着厝𡅏,"/>
+			<SecLv2 Section="Sentence" Text="四月八正好有機會去阿嬷厝." TypoFix="四月八正好有機會去阿媽厝."/>
+			<SecLv2 Section="Sentence" Text="雖然講今年無辦法食酒冇講,"/>
+			<SecLv2 Section="Sentence" Text="但是故是會現場體驗揖保佑."/>
+		</SecLv1>
+</Corpus>
