@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd" Property="written">
+	<Speaker><Name>刑部Dana</Name><SpeakerId>25</SpeakerId></Speaker>
+	<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+	<Translator>
+		<Name>刑部Dana</Name>
+	</Translator>
+	<Provider>
+		<Name>刑部Dana</Name>
+	</Provider>
+	<SecLv1 Section="Sentence" Date="2020-05-19" HourMinuteSecond="15:37:35">
+		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="很厲害."></Translation>
+		<SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="很" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="霸" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="厲害" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Section="Sentence" Date="2020-05-19" HourMinuteSecond="15:37:51">
+		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="已經好了."></Translation>
+		<SecLv2 Section="Word" Text="已經" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="已經" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Word" Text="OK" Iso639-1="en">
+			<Translation TransText="好" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"></SecLv2>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Section="Sentence" Date="2020-05-19" HourMinuteSecond="15:38:16">
+		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="很好!"></Translation>
+		<SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="很" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="好" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="好" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Text="!" Section="Punctuation"/></SecLv1>
+	<SecLv1 Section="Sentence" Date="2020-05-19" HourMinuteSecond="15:38:35">
+		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="真的很舒服."></Translation>
+		<SecLv2 Section="Character" Text="真" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="真" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="的" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="很" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Word" Text="透骹" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="舒服" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Section="Sentence" Date="2020-05-19" HourMinuteSecond="15:39:24">
+		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="謝謝你!"></Translation>
+		<SecLv2 Section="Word" Text="謝謝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="謝謝" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="汝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="你" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Text="!" Section="Punctuation"/>
+	</SecLv1>
+	<SecLv1 Section="Sentence" Date="2020-05-19" HourMinuteSecond="15:40:21">
+		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="但是..."></Translation>
+		<SecLv2 Section="Word" Text="但是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="但是" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Text="..." Section="Punctuation"/></SecLv1>
+	<SecLv1 Section="Sentence" Date="2020-05-19" HourMinuteSecond="15:40:48">
+		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="我掌握的詞很少."></Translation>
+		<SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="我" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="的" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="詞" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="詞" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="很" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Section="Character" Text="少" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+			<Translation TransText="少" Iso639-1="zh" Iso639-3="cmn"></Translation>
+		</SecLv2>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+</Corpus>
