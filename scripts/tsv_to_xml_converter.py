@@ -18,7 +18,7 @@ def parse_language_tag(word):
 # 添加一个检测标点的函数
 def is_punctuation(text):
     # 包含所有需要检测的标点符号
-    punctuation_list = [",", ".", "...", ":", ";", "!", "?", "(", ")", "“", "”", "，", "。", "！", "（", "）", "……", "…"]
+    punctuation_list = [",", ".", "...", ":", ";", "!", "?", "?!", "!?", "(", ")", "“", "”", "，", "。", "！", "（", "）", "……", "…", "？！", "！？"]
     return text in punctuation_list
 
 def create_xml_elements_from_tsv_final(row, corpus, providers_added):
