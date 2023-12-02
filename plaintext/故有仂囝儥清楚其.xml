@@ -1,0 +1,72 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd">
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="15:54:53" Property="written">
+    <Translation TransText="還有一點不明白." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="故" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="有" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="仂囝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="儥" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="清楚" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="15:57:36" Property="written">
+    <Translation TransText="普通話反查是不是只需要查一個詞?" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Word" Text="普通話" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="反查" Iso639-3="cmn"/>
+    <SecLv2 Section="Word" Text="是否" TypoFix="是伓是" YngPing="sie53-nei242" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="㑚" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="查" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="一" TypoFix="蜀" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="隻" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="詞?" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="15:58:43" Property="written">
+    <Translation TransText="我繁體掌握得很差." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="繁體" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="很" Iso639-1="zh" Iso639-3="cmn"/>
+    </SecLv2>
+    <SecLv2 Section="Character" Text="呆" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="差" Iso639-1="zh" Iso639-3="cmn"/>
+    </SecLv2>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:00:39" Property="written">
+    <Translation TransText="我用這個打字還是有問題." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="嚽" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="拍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="故是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="有" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="問題" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+</Corpus>
