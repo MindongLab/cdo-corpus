@@ -21,6 +21,16 @@ def is_punctuation(text):
     punctuation_list = [",", ".", "...", ":", ";", "!", "?", "?!", "!?", "(", ")", "“", "”", "，", "。", "！", "（", "）", "……", "…", "？！", "！？"]
     return text in punctuation_list
 
+# 添加函数解析 <typofix=> 标签
+def parse_typofix_tag(word):
+    match = re.search(r"<typofix=([^>]+)>", word)
+    return {"TypoFix": match.group(1)} if match else {}
+
+# 添加函数解析 <y=> 标签
+def parse_y_tag(word):
+    match = re.search(r"<y=([^>]+)>", word)
+    return {"YngPing": match.group(1)} if match else {}
+
 def create_xml_elements_from_tsv_final(row, corpus, providers_added):
     # Common attributes
     provider_name_text = row['Provider']
@@ -56,12 +66,18 @@ def create_xml_elements_from_tsv_final(row, corpus, providers_added):
             etree.SubElement(sec_lv1, "SecLv2", Text=text, Section="Punctuation")
         else:
             lang_tags = parse_language_tag(word)
+            typofix_tags = parse_typofix_tag(word)
+            y_tags = parse_y_tag(word)
+
             iso_tags = {"Iso639-1": "zh", "Iso639-3": "cdo", "Iso639-6": row['ISO 639-6']}
             iso_tags.update(lang_tags)  # 如果为非闽东语，更新语言标签
+            extra_tags = {}
+            extra_tags.update(typofix_tags)  # 添加TypoFix属性
+            extra_tags.update(y_tags)        # 添加YngPing属性
 
             # 创建SecLv2元素
             section_type = "Character" if len(text) == 1 else "Word"
-            sec_lv2 = etree.SubElement(sec_lv1, "SecLv2", Section=section_type, Text=text, **iso_tags)
+            sec_lv2 = etree.SubElement(sec_lv1, "SecLv2", Section=section_type, Text=text, **iso_tags, **extra_tags)
 
             # 处理翻译
             if '<m=' in word:
