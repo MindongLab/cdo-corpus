@@ -1,0 +1,277 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd">
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:24:17" Property="written">
+    <Translation TransText="我現在開始有一點茫然." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="現在" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="開始" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="有" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="仂囝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="摸魚摸蝦" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:25:12" Property="written">
+    <Translation TransText="我等你起牀, 那時候你再回覆." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="等" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="汝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="爬" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="起" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="去" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="汝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="講" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:32:13" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="也" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="儥仈" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="傒勢" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Word" Text="就是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="儥" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="鍾意" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="中意"/>
+    <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="反察" Iso639-1="zh" Iso639-3="cmn" Iso639-6="" TypoFix="反查"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:33:20" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Word" Text="雖然" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="嚽" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="這個" Iso639-1="zh" Iso639-3="cmn"/>
+    </SecLv2>
+    <SecLv2 Section="Character" Text="無" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="許般" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="hi21-wuang55"/>
+    <SecLv2 Section="Word" Text="習慣" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:34:27" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Word" Text="但是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="反察" Iso639-1="zh" Iso639-3="cmn" Iso639-6="" TypoFix="反查"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="時候" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="就是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="有" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="仂囝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="排斥" Iso639-1="zh" Iso639-3="cmn" Iso639-6=""/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:35:16" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="就" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="敆" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="𡅏" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="跇了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="直頭" YngPing="ti53-lau33"/>
+    <SecLv2 Section="Character" Text="拍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Word" Text="實在" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="是拍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="儥" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="出" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="乍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="反察" Iso639-1="" Iso639-3="cmn" Iso639-6="" TypoFix="反查"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:36:08" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="仱" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="嚽" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="𡅏" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="嚽" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="時間" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="𣆯" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="……" Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:38:54" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="故" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="有" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="嚽" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="𡅏" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="也" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="儥" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="仈" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="字" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="是偍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="是伓是" YngPing="sie53-nei242"/>
+    <SecLv2 Section="Character" Text="對" Iso639-1="zh" Iso639-3="cmn"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="故" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="賺" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Word" Text="反正" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="都" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="儥仈" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="…" Section="Punctuation"/>
+    <SecLv2 Section="Word" Text="都是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="敆" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="𡅏" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="摸魚摸蝦" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="hhh" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="哈哈哈"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:40:59" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="盡" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="像" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="蜀" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="隻" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="蜀" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="兩" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="歲" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="伲囝哥" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="敆" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="𡅏" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="學" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="蔣" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="講" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="話" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:43:37" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="自家" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="拍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="字" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="會仈" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="世乇" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="sieng53-noh24"/>
+    <SecLv2 Section="Word" Text="意思" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Word" Text="但是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="看" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="別人" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="別儂"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="就" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="吃力" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="卸力" YngPing="sia55-lik5"/>
+    <SecLv2 Section="Character" Text="了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:46:47" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="先" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="伓" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="共" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="汝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="講" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="跟" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="汝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="講" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="這般" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="価" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="辛苦" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="……" Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:47:53" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="費" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="頭腦" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="蒻" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="yok24"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+</Corpus>

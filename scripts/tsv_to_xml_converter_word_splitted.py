@@ -42,10 +42,15 @@ def create_xml_elements_from_tsv_final(row, corpus, providers_added):
     year_str = str(row['Year'])
     month_str = str(row['Month'])
     day_str = str(row['Day'])
+    
+    # 检查并转换 'Mandarin Trans.' 列的值
+    mandarin_trans = row['Mandarin Trans.']
+    if pd.isna(mandarin_trans) or not isinstance(mandarin_trans, str):
+        mandarin_trans = ""  # 将非字符串或空值转换为空字符串
 
     # 创建SecLv1元素
     sec_lv1 = etree.SubElement(corpus, "SecLv1", Section="Sentence", Year=year_str, Month=month_str, Day=day_str, Date=date_text, HourMinuteSecond=time_text, Property=row['Property'])
-    translation = etree.SubElement(sec_lv1, "Translation", TransText=row['Mandarin Trans.'], **{"Iso639-1": "zh", "Iso639-3": "cmn"})
+    translation = etree.SubElement(sec_lv1, "Translation", TransText=mandarin_trans, **{"Iso639-1": "zh", "Iso639-3": "cmn"})
 
     # 在此处添加Speaker和Provider
     speaker = etree.SubElement(sec_lv1, "Speaker")
