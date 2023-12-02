@@ -67,11 +67,11 @@
 		<SecLv2 Text="!" Section="Punctuation"/>
 	</SecLv1>
 	<SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="15:40:21" Property="written">
-		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="但是..."></Translation>
+		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="但是……"></Translation>
 		<SecLv2 Section="Word" Text="但是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
 			<Translation TransText="但是" Iso639-1="zh" Iso639-3="cmn"></Translation>
 		</SecLv2>
-		<SecLv2 Text="..." Section="Punctuation"/></SecLv1>
+		<SecLv2 Text="……" Section="Punctuation"/></SecLv1>
 	<SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="15:40:48" Property="written">
 		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="我掌握的詞很少."></Translation>
 		<SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">

@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd">
+	<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:02:31" Property="written" Conversation="true">
+    <Translation TransText="我先去睡午覺, 很睏了." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>24</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>关彳山</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="先" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="去" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="睏晝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="睶" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="去" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:08:39" Property="written">
+    <Translation TransText="你快去睡." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="汝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="你" Iso639-1="zh" Iso639-3="cmn"/></SecLv2>
+    <SecLv2 Section="Character" Text="快" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="ke53"/>
+    <SecLv2 Section="Character" Text="去" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="oo213"/>
+    <SecLv2 Section="Character" Text="睏" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+</Corpus>
