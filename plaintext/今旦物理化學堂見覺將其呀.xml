@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd">
+  <SecLv1 Section="Sentence" Year="2020" Month="4" Day="16" Date="2020-04-16" Property="written">
+    <Translation TransText="今天的物理化學課感覺如何?" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>36</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>李浩博</Name>
+    </Provider>
+    <SecLv2 Section="Word" Text="今旦" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Word" Text="物理" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Word" Text="化學" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Character" Text="堂" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Word" Text="見覺" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Character" Text="將" Iso639-1="zh" Iso639-3="cdo" TypoFix="蔣"/>
+    <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Character" Text="呀" Iso639-1="zh" Iso639-3="cdo" TypoFix="也"/>
+    <SecLv2 Text="?" Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="4" Day="16" Date="2020-04-16" Property="written">
+    <Translation TransText="還行, 還行, 就是內容太豐滿了." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>36</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>李浩博</Name>
+    </Provider>
+    <SecLv2 Section="Word" Text="洋當池" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Word" Text="洋當池" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Word" Text="就是" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Character" Text="乇" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Character" Text="恰" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Character" Text="価" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv2 Section="Character" Text="咯" Iso639-1="zh" Iso639-3="cdo" TypoFix="囉"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+</Corpus>

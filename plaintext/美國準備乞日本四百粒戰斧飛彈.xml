@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd">
+  <SecLv1 Section="Article">
+    <Title Text="美國準備乞日本四百粒戰斧飛彈"></Title>
+  <SecLv2 Section="Paragraph"  Text="美國準備乞日本四百粒戰斧飛彈."  Year="2023" Month="11" Day="18" Date="2023-11-18" Property="translated" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+    <Translation TransText="美國準備向日本提供四百枚戰斧飛彈." Iso639-1="zh" Iso639-3="cmn"/>
+    <Provider>
+      <Name>关彳山</Name>
+    </Provider>
+  </SecLv2>
+  <SecLv2 Section="Paragraph" Year="2023" Month="11" Day="18" Date="2023-11-18" Property="translated">
+    <Translation TransText="美國週五, 即十一月十七日, 批准了日本購買四百枚戰斧飛彈的請求. 儘管與中國進行了新的對話, 但這是東京加強其防禦能力的一部分. 美國國務院表示, 美國將批准這筆價值二十三點五億美元的交易, 其中包括兩種類型的戰斧飛彈, 射程為一千六百公里, 即九百九十五英里." Iso639-1="zh" Iso639-3="cmn"/>
+    <Provider>
+      <Name>关彳山</Name>
+    </Provider>
+    <SecLv3 Section="Word" Text="美國禮拜五," Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="也就是十一月十七號," Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="批准了日本買四百粒戰斧飛彈其請求." Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="悗算共中國有做新其對話," Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="㑚是講嚽是東京加強自家防禦能力其蜀部分." Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="美國國務院講," Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="美國將批准這芘會值廿三點五億美元其交易," Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="臺中包括兩種戰斧飛彈," Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="射程會遘千六公里," Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv3 Section="Word" Text="也就是九百九十五英里." Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+  </SecLv2>
+</SecLv1>
+  <Source>Wikimedia Incubator contributors. 美國準備乞日本400粒「戰斧」飛彈[G/OL]. Wikimedia Incubator, 2023-11-18[2023-11-26]. https://incubator.wikimedia.org/w/index.php?title=Wn/cdo/美國準備乞日本400粒「戰斧」飛彈%26oldid=6152521.</Source>
+</Corpus>

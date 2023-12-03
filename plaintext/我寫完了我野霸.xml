@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd">
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="21" Date="2020-05-21" HourMinuteSecond="15:32:27" Property="written">
+    <Translation TransText="" Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="寫" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="完" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="霸" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="就是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="天才" Iso639-1="zh" Iso639-3="cmn"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+  <SecLv1 Section="Sentence" Year="2020" Month="5" Day="21" Date="2020-05-21" HourMinuteSecond="15:32:58" Property="written">
+    <Translation TransText="兩個小時寫了三千字." Iso639-1="zh" Iso639-3="cmn"/>
+    <Speaker>
+      <SpeakerId>25</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>刑部Dana</Name>
+    </Provider>
+    <SecLv2 Section="Word" Text="2h" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="兩點鍾"/>
+    <SecLv2 Section="Character" Text="寫" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Character" Text="了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Section="Word" Text="3000" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="三千"/>
+    <SecLv2 Section="Character" Text="字" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+</Corpus>

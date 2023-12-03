@@ -144,12 +144,15 @@
 				<Translation TransText="星" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
 			</SecLv3>
 			<SecLv3 Section="Punctuation" Text=","/>
-			<SecLv3 Section="Character" Text="我"/>
-			<Translation TransText="我" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
-			<SecLv3 Section="Character" Text="伓"/>
-			<Translation TransText="不" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
-			<SecLv3 Section="Character" Text="驚"/>
-			<Translation TransText="怕" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<SecLv3 Section="Character" Text="我">
+				<Translation TransText="我" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="伓">
+				<Translation TransText="不" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
+			<SecLv3 Section="Character" Text="驚">
+				<Translation TransText="怕" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			</SecLv3>
 			<SecLv3 Section="Character" Text="有"/>
 			<SecLv3 Section="Word" Text="菅蓁" TypoFix="菅菁">
 			</SecLv3>

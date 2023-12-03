@@ -52,7 +52,7 @@
     <SecLv2 Section="Character" Text="儥" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Word" Text="鍾意" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="中意"/>
     <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="反察" Iso639-1="zh" Iso639-3="cmn" Iso639-6="" TypoFix="反查"/>
+    <SecLv2 Section="Word" Text="反察" Iso639-1="zh" Iso639-3="cmn"  TypoFix="反查"/>
     <SecLv2 Text="." Section="Punctuation"/>
   </SecLv1>
   <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:33:20" Property="written">
@@ -85,13 +85,13 @@
     <SecLv2 Section="Word" Text="但是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="反察" Iso639-1="zh" Iso639-3="cmn" Iso639-6="" TypoFix="反查"/>
+    <SecLv2 Section="Word" Text="反察" Iso639-1="zh" Iso639-3="cmn"  TypoFix="反查"/>
     <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Word" Text="時候" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Word" Text="就是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="有" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Word" Text="仂囝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="排斥" Iso639-1="zh" Iso639-3="cmn" Iso639-6=""/>
+    <SecLv2 Section="Word" Text="排斥" Iso639-1="zh" Iso639-3="cmn" />
     <SecLv2 Text="." Section="Punctuation"/>
   </SecLv1>
   <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:35:16" Property="written">
@@ -115,7 +115,7 @@
     <SecLv2 Section="Character" Text="出" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="乍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="反察" Iso639-1="" Iso639-3="cmn" Iso639-6="" TypoFix="反查"/>
+    <SecLv2 Section="Word" Text="反察" Iso639-1="" Iso639-3="cmn"  TypoFix="反查"/>
     <SecLv2 Text="." Section="Punctuation"/>
   </SecLv1>
   <SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="16:36:08" Property="written">

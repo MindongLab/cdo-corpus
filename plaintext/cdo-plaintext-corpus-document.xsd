@@ -312,7 +312,7 @@
 				<xs:enumeration value="Volume"/>
 				<xs:enumeration value="Chapter"/>
 				<xs:enumeration value="Article"/>
-				<xs:enumeration value="Paragragh"/>
+				<xs:enumeration value="Paragraph"/>
 				<xs:enumeration value="Sentence"/>
 				<xs:enumeration value="Phrase"/>
 				<xs:enumeration value="Word"/>

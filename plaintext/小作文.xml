@@ -3,12 +3,12 @@
 	<Speaker>
 		<Name>刑部Dana</Name>
 	</Speaker>
+	<Translator>
+		<Name>刑部Dana</Name>
+	</Translator>
 	<Provider>
 		<Name>关彳山</Name>
 	</Provider>
-	<Translator Iso639-1="zh" Iso639-3="cmn">
-		<Name>刑部Dana</Name>
-	</Translator>
 	<SecLv1 Section="Article" Iso639-1="zh" Iso639-3="cdo" Date="2020-10-12" Property="essay">
 		<Title Text="小作文"/>
 		<SecLv2 Section="Sentence" Text="我罷奶都是倉山儂">

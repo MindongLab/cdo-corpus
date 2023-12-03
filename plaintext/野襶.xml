@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cdo-plaintext-corpus-document.xsd" Conversation="false" Property="spoken">
-	<Translator>
-		<Name>关彳山</Name>
-	</Translator>
 	<Speaker>
 		<Name>郑华榕</Name>
 	</Speaker>
+	<Translator>
+		<Name>关彳山</Name>
+	</Translator>
 	<Provider>
 		<Name>关彳山</Name>
 	</Provider>

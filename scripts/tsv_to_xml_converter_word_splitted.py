@@ -31,25 +31,45 @@ def parse_y_tag(word):
     match = re.search(r"<y=([^>]+)>", word)
     return {"YngPing": match.group(1)} if match else {}
 
+def safe_str(val):
+    # 安全地将值转换为字符串，对于空值或 NaN 返回空字符串
+    if pd.isna(val) or val is None:
+        return ""
+    return str(val)
+
+def filter_valid_str_attrs(attrs):
+    """ 过滤出有效的字符串属性 """
+    return {k: v for k, v in attrs.items() if isinstance(v, str) and v}
+
 def create_xml_elements_from_tsv_final(row, corpus, providers_added):
     # Common attributes
     provider_name_text = row['Provider']
     speaker_id_text = str(row['Speaker ID'])
-    date_text = f"{row['Year']}-{str(row['Month']).zfill(2)}-{str(row['Day']).zfill(2)}"
-    time_text = row['HH:MM:SS (UTC+8)']
-
-    # 将年、月、日转换为字符串
-    year_str = str(row['Year'])
-    month_str = str(row['Month'])
-    day_str = str(row['Day'])
     
-    # 检查并转换 'Mandarin Trans.' 列的值
-    mandarin_trans = row['Mandarin Trans.']
-    if pd.isna(mandarin_trans) or not isinstance(mandarin_trans, str):
-        mandarin_trans = ""  # 将非字符串或空值转换为空字符串
+    # 使用 safe_str 函数确保所有值都安全地转换为字符串
+    year_str = safe_str(row['Year'])
+    month_str = safe_str(row['Month']).zfill(2)
+    day_str = safe_str(row['Day']).zfill(2)
+    date_text = f"{year_str}-{month_str}-{day_str}" if year_str and month_str and day_str else ""
+    time_text = safe_str(row['HH:MM:SS (UTC+8)'])
+    mandarin_trans = safe_str(row['Mandarin Trans.'])
+    property_val = safe_str(row['Property'])
 
     # 创建SecLv1元素
-    sec_lv1 = etree.SubElement(corpus, "SecLv1", Section="Sentence", Year=year_str, Month=month_str, Day=day_str, Date=date_text, HourMinuteSecond=time_text, Property=row['Property'])
+    sec_lv1_attrs = {
+        "Section": "Sentence",
+        "Year": year_str,
+        "Month": month_str,
+        "Day": day_str,
+        "Date": date_text,
+        "HourMinuteSecond": time_text,
+        "Property": property_val
+    }
+    # 移除空字符串属性
+    sec_lv1_attrs = {k: v for k, v in sec_lv1_attrs.items() if v}
+    
+    sec_lv1 = etree.SubElement(corpus, "SecLv1", **sec_lv1_attrs)
+    
     translation = etree.SubElement(sec_lv1, "Translation", TransText=mandarin_trans, **{"Iso639-1": "zh", "Iso639-3": "cmn"})
 
     # 在此处添加Speaker和Provider
@@ -80,9 +100,19 @@ def create_xml_elements_from_tsv_final(row, corpus, providers_added):
             extra_tags.update(typofix_tags)  # 添加TypoFix属性
             extra_tags.update(y_tags)        # 添加YngPing属性
 
+            # 确保iso_tags和extra_tags只包含有效的字符串属性
+            iso_tags = filter_valid_str_attrs(iso_tags)
+            extra_tags = filter_valid_str_attrs(extra_tags)
+
             # 创建SecLv2元素
             section_type = "Character" if len(text) == 1 else "Word"
-            sec_lv2 = etree.SubElement(sec_lv1, "SecLv2", Section=section_type, Text=text, **iso_tags, **extra_tags)
+            sec_lv2_attrs = {
+                "Section": section_type,
+                "Text": text,
+                **iso_tags,
+                **extra_tags
+            }
+            sec_lv2 = etree.SubElement(sec_lv1, "SecLv2", **sec_lv2_attrs)
 
             # 处理翻译
             if '<m=' in word:
