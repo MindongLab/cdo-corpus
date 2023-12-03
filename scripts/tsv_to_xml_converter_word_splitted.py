@@ -58,6 +58,7 @@ def create_xml_elements_from_tsv_final(row, corpus, providers_added):
     date_text = f"{year_str}-{month_str}-{day_str}" if year_str and month_str and day_str else ""
     time_text = safe_str(row['HH:MM:SS (UTC+8)'])
     mandarin_trans = safe_str(row['Mandarin Trans.'])
+    english_trans = safe_str(row['English Trans.'])
     property_val = safe_str(row['Property'])
 
     # 创建SecLv1元素
@@ -76,6 +77,7 @@ def create_xml_elements_from_tsv_final(row, corpus, providers_added):
     sec_lv1 = etree.SubElement(corpus, "SecLv1", **sec_lv1_attrs)
     
     translation = etree.SubElement(sec_lv1, "Translation", TransText=mandarin_trans, **{"Iso639-1": "zh", "Iso639-3": "cmn"})
+    translation = etree.SubElement(sec_lv1, "Translation", TransText=english_trans, **{"Iso639-1": "en"})
 
     # 在此处添加Speaker和Provider
     speaker = etree.SubElement(sec_lv1, "Speaker")

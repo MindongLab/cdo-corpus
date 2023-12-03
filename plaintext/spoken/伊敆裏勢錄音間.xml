@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd">
+  <SecLv1 Section="Sentence" Year="2019" Month="10" Day="25" Date="2019-10-25" Property="spoken">
+    <Translation TransText="他在裏面, 錄音間, 我在外頭把關." Iso639-1="zh" Iso639-3="cmn"/>
+    <Translation TransText="She's inside, in the recording studio; I'm outside supervising." Iso639-1="en"/>
+    <Speaker>
+      <SpeakerId>3</SpeakerId>
+    </Speaker>
+    <Provider>
+      <Name>关彳山</Name>
+    </Provider>
+    <SecLv2 Section="Character" Text="伊" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="ĭ"/>
+    <SecLv2 Section="Character" Text="敆" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="găk">
+      <Translation TransText="在" Iso639-1="zh" Iso639-3="cmn"/>
+    </SecLv2>
+    <SecLv2 Section="Word" Text="裏勢" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="diē-sié">
+      <Translation TransText="裏面" Iso639-1="zh" Iso639-3="cmn"/>
+    </SecLv2>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Word" Text="錄音間" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="liŏh-ĭng-găng"/>
+    <SecLv2 Text="," Section="Punctuation"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="nguāi"/>
+    <SecLv2 Section="Character" Text="敆" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="găk">
+      <Translation TransText="在" Iso639-1="zh" Iso639-3="cmn"/>
+    </SecLv2>
+    <SecLv2 Section="Word" Text="外斗" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="ngiê-dāu">
+      <Translation TransText="外頭" Iso639-1="zh" Iso639-3="cmn"/>
+      <Translation TransText="outside" Iso639-1="en"/>
+    </SecLv2>
+    <SecLv2 Section="Word" Text="把關" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="bā-guăng"/>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+</Corpus>
