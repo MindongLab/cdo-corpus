@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="true" Property="written">
+	<Provider><Name>李浩博</Name></Provider>
+	<SecLv1 Section="Sentence" Date="2020-04-24" Iso639-3="cdo" Iso639-6="fzho">
+	<Translation Iso639-1="zh" Iso639-3="cmn" TransText="這兩天降溫真厲害, 一下子就從三十多度掉到十幾度了."></Translation>
+	<Speaker><Name>李浩博</Name><SpeakerId>36</SpeakerId></Speaker>
+	<SecLv2 Section="Word" Text="這" YngPing="zi21"></SecLv2>
+	<SecLv2 Section="Word" Text="兩" YngPing="lang55"></SecLv2>
+	<SecLv2 Section="Word" Text="工" YngPing="eoyng55"></SecLv2>
+	<SecLv2 Section="Word" Text="降溫"></SecLv2>
+	<SecLv2 Section="Word" Text="野"></SecLv2>
+	<SecLv2 Section="Word" Text="利害"></SecLv2>
+	<SecLv2 Section="Word" Text="啊" TypoFix="吓"></SecLv2>
+	<SecLv2 Section="Punctuation" Text=","></SecLv2>
+	<SecLv2 Section="Word" Text="做"></SecLv2>
+	<SecLv2 Section="Word" Text="蜀下"></SecLv2>
+	<SecLv2 Section="Word" Text="就"></SecLv2>
+	<SecLv2 Section="Word" Text="趁"></SecLv2>
+	<SecLv2 Section="Word" Text="三十"></SecLv2>
+	<SecLv2 Section="Word" Text="度"></SecLv2>
+	<SecLv2 Section="Word" Text="逿"></SecLv2>
+	<SecLv2 Section="Word" Text="遘"></SecLv2>
+	<SecLv2 Section="Word" Text="十"></SecLv2>
+	<SecLv2 Section="Word" Text="幾"></SecLv2>
+	<SecLv2 Section="Word" Text="度"></SecLv2>
+	<SecLv2 Section="Word" Text="了"></SecLv2>
+	<SecLv2 Section="Word" Text="去"></SecLv2>
+	<SecLv2 Section="Punctuation" Text="."></SecLv2>
+	</SecLv1>
+	<SecLv1 Section="Sentence" Date="2020-04-24" Iso639-3="cdo" Iso639-6="fzho">
+	<Translation Iso639-1="zh" Iso639-3="cmn" TransText="那可不是. 俗話說: 清明穀雨, 寒死老鼠, 今年雖然說天氣反常地熱, 但是冷空氣到底雖遲但到啊."></Translation>
+	<Speaker><Name>李浩博</Name><SpeakerId>36</SpeakerId></Speaker>
+	<SecLv2 Section="Word" Text="伓是"></SecLv2>
+	<SecLv2 Section="Word" Text="故"></SecLv2>
+	<SecLv2 Section="Word" Text="儥"></SecLv2>
+	<SecLv2 Section="Word" Text="捨"></SecLv2>
+	<SecLv2 Section="Punctuation" Text="."></SecLv2>
+	<SecLv2 Section="Word" Text="都"></SecLv2>
+	<SecLv2 Section="Word" Text="講"></SecLv2>
+	<SecLv2 Section="Punctuation" Text=":"></SecLv2>
+	<SecLv2 Section="Word" Text="清明"></SecLv2>
+	<SecLv2 Section="Word" Text="穀雨"></SecLv2>
+	<SecLv2 Section="Punctuation" Text=","></SecLv2>
+	<SecLv2 Section="Word" Text="寒"></SecLv2>
+	<SecLv2 Section="Word" Text="死"></SecLv2>
+	<SecLv2 Section="Word" Text="老鼠"></SecLv2>
+	<SecLv2 Section="Punctuation" Text="."></SecLv2>
+	<SecLv2 Section="Word" Text="今年暝"></SecLv2>
+	<SecLv2 Section="Word" Text="雖然"></SecLv2>
+	<SecLv2 Section="Word" Text="講"></SecLv2>
+	<SecLv2 Section="Word" Text="天氣"></SecLv2>
+	<SecLv2 Section="Word" Text="反常"></SecLv2>
+	<SecLv2 Section="Word" Text="熱"></SecLv2>
+	<SecLv2 Section="Punctuation" Text=","></SecLv2>
+	<SecLv2 Section="Word" Text="者"></SecLv2>
+	<SecLv2 Section="Word" Text="寒"></SecLv2>
+	<SecLv2 Section="Word" Text="遲"></SecLv2>
+	<SecLv2 Section="Word" Text="囉"></SecLv2>
+	<SecLv2 Section="Punctuation" Text=","></SecLv2>
+	<SecLv2 Section="Word" Text="但是"></SecLv2>
+	<SecLv2 Section="Word" Text="到底"></SecLv2>
+	<SecLv2 Section="Word" Text="也"></SecLv2>
+	<SecLv2 Section="Word" Text="遘"></SecLv2>
+	<SecLv2 Section="Word" Text="囉啊" TypoFix="囉吓"></SecLv2>
+	<SecLv2 Section="Punctuation" Text="."></SecLv2>
+	</SecLv1>
+</Corpus>

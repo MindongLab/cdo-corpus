@@ -21,6 +21,11 @@ def is_punctuation(text):
     punctuation_list = [",", ".", "...", ":", ";", "!", "?", "?!", "!?", "(", ")", "“", "”", "，", "。", "！", "（", "）", "……", "…", "？！", "！？"]
     return text in punctuation_list
 
+# 添加函数解析 <g=> 标签
+def parse_g_tag(word):
+    match = re.search(r"<g=([^>]+)>", word)
+    return {"FoochowRomanized": match.group(1)} if match else {}
+
 # 添加函数解析 <typofix=> 标签
 def parse_typofix_tag(word):
     match = re.search(r"<typofix=([^>]+)>", word)
@@ -48,8 +53,8 @@ def create_xml_elements_from_tsv_final(row, corpus, providers_added):
     
     # 使用 safe_str 函数确保所有值都安全地转换为字符串
     year_str = safe_str(row['Year'])
-    month_str = safe_str(row['Month']).zfill(2)
-    day_str = safe_str(row['Day']).zfill(2)
+    month_str = safe_str(row['Month'])
+    day_str = safe_str(row['Day'])
     date_text = f"{year_str}-{month_str}-{day_str}" if year_str and month_str and day_str else ""
     time_text = safe_str(row['HH:MM:SS (UTC+8)'])
     mandarin_trans = safe_str(row['Mandarin Trans.'])
@@ -93,12 +98,14 @@ def create_xml_elements_from_tsv_final(row, corpus, providers_added):
             lang_tags = parse_language_tag(word)
             typofix_tags = parse_typofix_tag(word)
             y_tags = parse_y_tag(word)
+            g_tags = parse_g_tag(word)
 
             iso_tags = {"Iso639-1": "zh", "Iso639-3": "cdo", "Iso639-6": row['ISO 639-6']}
             iso_tags.update(lang_tags)  # 如果为非闽东语，更新语言标签
             extra_tags = {}
             extra_tags.update(typofix_tags)  # 添加TypoFix属性
             extra_tags.update(y_tags)        # 添加YngPing属性
+            extra_tags.update(g_tags)        # 添加FoochowRomanized属性
 
             # 确保iso_tags和extra_tags只包含有效的字符串属性
             iso_tags = filter_valid_str_attrs(iso_tags)
@@ -125,7 +132,7 @@ def convert_tsv_to_xml_final(tsv_file_path):
     tsv_data = pd.read_csv(tsv_file_path, sep='\t')
     ns_map = {"xsi": "http://www.w3.org/2001/XMLSchema-instance"}
     corpus = etree.Element("Corpus", nsmap=ns_map)
-    corpus.set("{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation", "cdo-plaintext-corpus-document.xsd")
+    corpus.set("{http://www.w3.org/2001/XMLSchema-instance}noNamespaceSchemaLocation", "../cdo-plaintext-corpus-document.xsd")
 
     providers_added = set()
     for index, row in tsv_data.iterrows():
@@ -141,7 +148,7 @@ def convert_tsv_to_xml_final(tsv_file_path):
     return xml_str
 
 # 使用
-tsv_file_path = 'file_to.tsv'
+tsv_file_path = 'path_to_file.tsv'
 xml_output_final = convert_tsv_to_xml_final(tsv_file_path)
 
 # 输出结果到命令行

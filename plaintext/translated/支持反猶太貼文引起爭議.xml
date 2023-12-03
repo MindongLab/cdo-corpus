@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd">
+<SecLv1 Section="Article">
+  <Title Text="支持反猶太貼文引起爭議，馬斯克威脅對批評者提起「核彈蜀樣其」訴訟"></Title>
+  <SecLv2 Section="Paragraph" Year="2023" Month="11" Day="18" Date="2023-11-18" Property="translated">
+    <Translation TransText="支持反猶太貼文惹爭議, 馬斯克威脅對批評者提起核彈式訴訟." Iso639-1="zh" Iso639-3="cmn"/>
+    <Provider>
+      <Name>关彳山</Name>
+    </Provider>
+    <SecLv3 Section="Word" Text="支持" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="反" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="猶太" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="貼文" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="引" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="起" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="爭議" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="馬斯克" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="威脅" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="對" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="批評者" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="提" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="起" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="核彈" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="蜀" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="樣" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="訴訟" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="." Section="Punctuation"/>
+  </SecLv2>
+  <SecLv2 Section="Paragraph" Year="2023" Month="11" Day="18" Date="2023-11-18" Property="translated">
+    <Translation TransText="星期六, 即十一月十八日, 美國太空探索技術公司特斯拉電動車集團執行長馬斯克在社媒X平臺上貼文表示, X公司將因爲受到美國自由派媒體監督機構, 美國媒體重要, 等組織的攻擊而提起訴訟." Iso639-1="zh" Iso639-3="cmn"/>
+    <Provider>
+      <Name>关彳山</Name>
+    </Provider>
+    <SecLv3 Section="Word" Text="拜六" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Character" Text="也" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="就" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="是" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="十一月" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="十八號" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="美國" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="太空" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="探索" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="技術" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="公司" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="特斯拉" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="電動車" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="集團" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="執行長" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="馬斯克" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="敆" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="社媒" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="X" Iso639-1="en"/>
+    <SecLv3 Section="Word" Text="平台" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="𡅏" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="貼" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="文" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="表示" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Character" Text="X" Iso639-1="en"/>
+    <SecLv3 Section="Word" Text="公司" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="會" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="提" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="起" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="訴訟" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="因爲" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="公司" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="受" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="遘" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="美國" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="自由派" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="媒體" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="監督" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="機構" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="“" Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="美國" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="媒體" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="重要" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="”" Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="等等" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="組織" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="批判" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="." Section="Punctuation"/>
+  </SecLv2>
+  <SecLv2 Section="Paragraph" Year="2023" Month="11" Day="18" Date="2023-11-18" Property="translated">
+    <Translation TransText="星期一法院大門一開, 公司將對媒體重要以及其他合謀對我們公司進行虛假攻擊者提出一項核彈式的訴訟, 馬斯克在X平臺上說. 除了美國媒體重要機構, 他沒有提及其他公司的名稱." Iso639-1="zh" Iso639-3="cmn"/>
+    <Provider>
+      <Name>关彳山</Name>
+    </Provider>
+    <SecLv3 Section="Word" Text="拜一" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="法院" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="大門" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="蜀" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="開" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="公司" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="將" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="對" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="“" Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="媒體重要" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="”" Section="Punctuation"/>
+    <SecLv3 Section="Character" Text="共" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="別" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="屈" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="蜀" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="堆" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="卜" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="想" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="對" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="儂家" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="公司" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="做" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="虛假" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="攻擊" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="提出" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="蜀" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="項" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="核彈" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="蜀" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="樣" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="訴訟" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="馬斯克" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="敆" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="X" Iso639-1="en"/>
+    <SecLv3 Section="Word" Text="平臺" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="𡅏" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="講" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="." Section="Punctuation"/>
+    <SecLv3 Section="Character" Text="除" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="了" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="“" Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="美國媒體重要" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="”" Section="Punctuation"/>
+    <SecLv3 Section="Word" Text="機構" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="," Section="Punctuation"/>
+    <SecLv3 Section="Character" Text="伊" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="無" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="講" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="遘" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="別" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="公司" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Word" Text="名字" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Text="." Section="Punctuation"/>
+  </SecLv2>
+</SecLv1>
+<Source>Wikimedia Incubator contributors. 支持反猶太貼文引起爭議，馬斯克威脅對批評者提起「核彈蜀樣其」訴訟[G/OL]. Wikimedia Incubator, 2023-11-18[2023-11-26]. https://incubator.wikimedia.org/w/index.php?title=Wn/cdo/支持反猶太貼文引起爭議，馬斯克威脅對批評者提起「核彈蜀樣其」訴訟%26oldid=6152515.</Source>
+</Corpus>

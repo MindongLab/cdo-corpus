@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="false" Copyright="CC BY-SA 3.0" Property="spoken">
+	<Translator>
+		<Name>关彳山</Name>
+	</Translator>
+	<Provider>
+		<Name>关彳山</Name>
+	</Provider>
+	<SecLv1 Iso639-6="mqig" Section="Sentence" Date="2018-09-20">
+		<Speaker>
+			<SpeakerId>10</SpeakerId>
+		</Speaker>
+		<SecLv2 Text="今旦" FoochowRomanized="gĭng-dáng" Section="Word">
+			<Translation TransText="今天" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="是" FoochowRomanized="sê" Section="Character">
+			<Translation TransText="是" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="禮拜一" FoochowRomanized="lā̤-buái-ék" Section="Word">
+			<Translation TransText="星期一" Iso639-1="zh" Iso639-3="cmn"/>
+		</SecLv2>
+		<SecLv2 Text="." Section="Punctuation"/>
+	</SecLv1>
+	<Source>維基教科書编者. 福州語/會話/第3課[G/OL]. 中文維基教科書, 2018-09-20[2021-01-30]. https://zh.wikibooks.org/w/index.php?title=福州語/會話/第3課%26oldid=123059.</Source>
+</Corpus>
