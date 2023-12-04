@@ -16,7 +16,7 @@
 		<Name>林文芳</Name>
 	</Provider>
 	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fuqi" Section="Sentence" Property="spoken" Year="2017">
-		<Translation TransText="你看我臉現在是不是紅的."  Iso639-1="zh" Iso639-3="cmn"></Translation>
+		<Translation TransText="你看我臉現在是不是紅的." Iso639-1="zh" Iso639-3="cmn"></Translation>
 		<Speaker>
 			<Name>Unknown</Name>
 		</Speaker>
@@ -47,7 +47,7 @@
 		<SecLv2 Text="." Section="Punctuation"/>
 	</SecLv1>
 	<SecLv1 Section="Sentence" Property="spoken" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fuqi" Year="2017">
-		<Translation TransText="是紅的."  Iso639-1="zh" Iso639-3="cmn"></Translation>
+		<Translation TransText="是紅的." Iso639-1="zh" Iso639-3="cmn"></Translation>
 		<Speaker>
 			<Name>Unknown</Name>
 		</Speaker>

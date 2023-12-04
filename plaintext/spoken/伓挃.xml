@@ -8,7 +8,7 @@
 	</Provider>
 	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence" Date="2018-03-23">
 		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="不要"/>
-		<SecLv2 Text="伓" YngPing="n" FoochowRomanized="n̂g" Section="Character"/>
-		<SecLv2 Text="□" YngPing="nih" TypoFix="挃" Section="Character"/>
+		<SecLv2 Text="伓" YngPing="n55" FoochowRomanized="n̂g" Section="Character"/>
+		<SecLv2 Text="□" YngPing="nih5" TypoFix="挃" Section="Character"/>
 	</SecLv1>
 	</Corpus>

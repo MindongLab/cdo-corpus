@@ -24,7 +24,9 @@
     <SecLv2 Section="Character" Text="無" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="mò̤">
       <Translation TransText="沒有" Iso639-1="zh" Iso639-3="cmn"/>
     </SecLv2>
-    <SecLv2 Section="Word" Text="先生" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="sĕng-săng"/>
+    <SecLv2 Section="Word" Text="先生" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="sĕng-săng">
+      <Translation TransText="老師" Iso639-1="zh" Iso639-3="cmn"/>
+    </SecLv2>
     <SecLv2 Section="Word" Text="把關" Iso639-1="zh" Iso639-3="cdo" Iso639-6="mnhu" FoochowRomanized="bā-guăng"/>
     <SecLv2 Text="." Section="Punctuation"/>
   </SecLv1>

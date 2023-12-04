@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd">
+   <Translator><Name>关彳山</Name></Translator>
+  <Provider>
+    <Name>关彳山</Name>
+    </Provider>
+  <SecLv1 Section="Sentence" Year="2023" Month="12" Day="4" Date="2023-12-04" HourMinuteSecond="22:56:00" Property="translated">
+    <Translation TransText="我會說一點點臺語." Iso639-1="zh" Iso639-3="cmn"/>
+    <Translation TransText="I can speak a little Taiwanese." Iso639-1="en"/>
+    <Translation TransText="台湾語がちょびっと話せるよ。" Iso639-1="ja"/>
+    <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="我" Iso639-1="zh" Iso639-3="cmn"/>
+      <Translation TransText="我" Iso639-1="zh" Iso639-3="nan" Iso639-6="qtik"/>
+    </SecLv2>
+    <SecLv2 Section="Word" Text="會曉" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="懂得" Iso639-1="zh" Iso639-3="cmn"/>
+      <Translation TransText="會曉" Iso639-1="zh" Iso639-3="nan" Iso639-6="qtik"/>
+    </SecLv2>
+    <SecLv2 Section="Character" Text="講" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="說" Iso639-1="zh" Iso639-3="cmn"/>
+      <Translation TransText="講" Iso639-1="zh" Iso639-3="nan" Iso639-6="qtik"/>
+    </SecLv2>
+    <SecLv2 Section="Word" Text="仂仂囝" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="一點點" Iso639-1="zh" Iso639-3="cmn"/>
+      <Translation TransText="ちょびっと" Iso639-1="ja"/>
+      <Translation TransText="一點仔" Iso639-1="zh" Iso639-3="nan" Iso639-6="qtik"/>
+    </SecLv2>
+    <SecLv2 Section="Word" Text="臺語" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
+      <Translation TransText="臺語" Iso639-1="zh" Iso639-3="cmn"/>
+      <Translation TransText="台湾語" Iso639-1="ja"/>
+      <Translation TransText="臺語" Iso639-1="zh" Iso639-3="nan" Iso639-6="qtik"/>
+    </SecLv2>
+    <SecLv2 Text="." Section="Punctuation"/>
+  </SecLv1>
+</Corpus>
