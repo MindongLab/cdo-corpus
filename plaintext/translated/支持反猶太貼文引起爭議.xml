@@ -8,7 +8,9 @@
       <Name>关彳山</Name>
     </Provider>
     <SecLv3 Section="Word" Text="支持" Iso639-1="zh" Iso639-3="cdo"/>
-    <SecLv3 Section="Character" Text="反" Iso639-1="zh" Iso639-3="cdo"/>
+    <SecLv3 Section="Character" Text="反" Iso639-1="zh" Iso639-3="cdo">
+      <Translation TransText="anti" Iso639-1="en"/>
+    </SecLv3>
     <SecLv3 Section="Word" Text="猶太" Iso639-1="zh" Iso639-3="cdo"/>
     <SecLv3 Section="Word" Text="貼文" Iso639-1="zh" Iso639-3="cdo"/>
     <SecLv3 Section="Character" Text="引" Iso639-1="zh" Iso639-3="cdo"/>

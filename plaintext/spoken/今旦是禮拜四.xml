@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="false" Copyright="CC BY-SA 3.0" Property="spoken">
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="false" Property="spoken">
 	<Translator>
 		<Name>关彳山</Name>
 	</Translator>
@@ -7,14 +7,34 @@
 		<Name>关彳山</Name>
 	</Provider>
 	<SecLv1 Iso639-6="fzho" Section="Sentence" Date="2018-09-20">
-		<SecLv2 Text="今旦" FoochowRomanized="gĭng-dáng" Section="Word">
+		<SecLv2 Text="今旦" FoochowRomanized="gĭng-dáng" YngPing="ging53 nang213" Section="Word">
 			<Translation TransText="今天" Iso639-1="zh" Iso639-3="cmn"/>
+			<Translation TransText="今日" Iso639-1="zh" Iso639-3="yue"/>
+			<Translation TransText="今仔日" Iso639-1="zh" Iso639-3="nan"/>
+			<Translation TransText="today" Iso639-1="en"/>
+			<Translation TransText="今日は" Iso639-1="ja"/>
 		</SecLv2>
-		<SecLv2 Text="是" FoochowRomanized="sê" Section="Character">
+		<SecLv2 Text="是" FoochowRomanized="sê" YngPing="si21" Section="Character">
 			<Translation TransText="是" Iso639-1="zh" Iso639-3="cmn"/>
+			<Translation TransText="是" Iso639-1="zh" Iso639-3="nan"/>
+			<Translation TransText="係" Iso639-1="zh" Iso639-3="yue"/>
+			<Translation TransText="is" Iso639-1="en"/>
+			<Translation TransText="です" Iso639-1="ja"/>
 		</SecLv2>
-		<SecLv2 Text="禮拜四" FoochowRomanized="lā̤-bái-sé" Section="Word">
-			<Translation TransText="星期四" Iso639-1="zh" Iso639-3="cmn"/>
+		<SecLv2 Text="禮拜四" FoochowRomanized="lā̤-bái-sé" YngPing="le21 wai53 lei213" Section="Word">
+			<Translation TransText="星期四" Iso639-1="zh" Iso639-3="cmn" Iso639-6="cosc"/>
+			<Translation TransText="禮拜四" Iso639-1="zh" Iso639-3="cmn" Iso639-6="cosc"/>
+			<Translation TransText="週四" Iso639-1="zh" Iso639-3="cmn" Iso639-6="cosc"/>
+			<Translation TransText="禮拜四" Iso639-1="zh" Iso639-3="cmn" Iso639-6="goyu"/>
+			<Translation TransText="週四" Iso639-1="zh" Iso639-3="cmn" Iso639-6="goyu"/>
+			<Translation TransText="禮拜四" Iso639-1="zh" Iso639-3="cmn" Iso639-6="huyu"/>
+			<Translation TransText="星期四" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<Translation TransText="禮拜四" Iso639-1="zh" Iso639-3="yue" Iso639-6="xgng"/>
+			<Translation TransText="星期四" Iso639-1="zh" Iso639-3="yue" Iso639-6="qnli"/>
+			<Translation TransText="禮拜四" Iso639-1="zh" Iso639-3="nan"/>
+			<Translation TransText="拜四" Iso639-1="zh" Iso639-3="nan"/>
+			<Translation TransText="Thursday" Iso639-1="en"/>
+			<Translation TransText="木曜日" Iso639-1="ja"/>
 		</SecLv2>
 		<SecLv2 Text="." Section="Punctuation"/>
 	</SecLv1>

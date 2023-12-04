@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Corpus xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../cdo-plaintext-corpus-document.xsd" Conversation="true">
+    <Provider>
+        <Name>关彳山</Name>
+      </Provider>
+      <SecLv1 Property="written" Section="Sentence" Iso639-1="zh" Iso639-3="cdo" Date="2023-12-04" Year="2023" Month="12" Day="4">
+    <Translation TransText="老闆, 請坐." Iso639-1="zh" Iso639-3="cmn"/>
+    <SecLv2 Section="Word" Text="老闆">
+        <Translation TransText="老闆" Iso639-1="zh" Iso639-3="cmn" Iso639-6="cosc"/>
+        <Translation TransText="頭家" Iso639-1="zh" Iso639-3="cmn" Iso639-6="huyu"/>
+        <Translation TransText="頭家" Iso639-1="zh" Iso639-3="nan"/>
+    </SecLv2>
+    <SecLv2 Section="Punctuation" Text=","></SecLv2>
+    <SecLv2 Section="Character" Text="請"></SecLv2>
+    <SecLv2 Section="Character" Text="坐"></SecLv2>
+    <SecLv2 Section="Punctuation" Text="."></SecLv2>
+  </SecLv1>
+</Corpus>

@@ -13,10 +13,12 @@
 	<SecLv1 Section="Sentence" Year="2020" Month="5" Day="19" Date="2020-05-19" HourMinuteSecond="15:37:35" Property="written">
 		<Translation Iso639-1="zh" Iso639-3="cmn" TransText="很厲害."></Translation>
 		<SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
-			<Translation TransText="很" Iso639-1="zh" Iso639-3="cmn"></Translation>
+			<Translation TransText="很" Iso639-1="zh" Iso639-3="cmn"/>
+			<Translation TransText="好" Iso639-1="zh" Iso639-3="yue"/>
 		</SecLv2>
 		<SecLv2 Section="Character" Text="霸" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho">
-			<Translation TransText="厲害" Iso639-1="zh" Iso639-3="cmn"></Translation>
+			<Translation TransText="厲害" Iso639-1="zh" Iso639-3="cmn"/>
+			<Translation TransText="犀利" Iso639-1="zh" Iso639-3="yue"/>
 		</SecLv2>
 		<SecLv2 Text="." Section="Punctuation"/>
 	</SecLv1>

@@ -6,7 +6,9 @@
 	<Speaker><Name>李浩博</Name><SpeakerId>36</SpeakerId></Speaker>
 	<SecLv2 Section="Word" Text="這" YngPing="zi21"></SecLv2>
 	<SecLv2 Section="Word" Text="兩" YngPing="lang55"></SecLv2>
-	<SecLv2 Section="Word" Text="工" YngPing="eoyng55"></SecLv2>
+	<SecLv2 Section="Word" Text="工" YngPing="eoyng55">
+		<Translation TransText="天" Iso639-1="zh" Iso639-3="cmn"/>
+	</SecLv2>
 	<SecLv2 Section="Word" Text="降溫"></SecLv2>
 	<SecLv2 Section="Word" Text="野"></SecLv2>
 	<SecLv2 Section="Word" Text="利害"></SecLv2>

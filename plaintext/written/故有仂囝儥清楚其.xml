@@ -26,7 +26,7 @@
     </Provider>
     <SecLv2 Section="Word" Text="普通話" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Word" Text="反查" Iso639-1="zh" Iso639-3="cmn"/>
-    <SecLv2 Section="Word" Text="是否" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="是伓是" YngPing="sie53-nei242"/>
+    <SecLv2 Section="Word" Text="是否" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="是伓是" YngPing="sie53 nei242"/>
     <SecLv2 Section="Character" Text="㑚" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="查" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>

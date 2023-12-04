@@ -70,7 +70,7 @@
       <Translation TransText="這個" Iso639-1="zh" Iso639-3="cmn"/>
     </SecLv2>
     <SecLv2 Section="Character" Text="無" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="許般" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="hi21-wuang55"/>
+    <SecLv2 Section="Word" Text="許般" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="hi21 wuang55"/>
     <SecLv2 Section="Word" Text="習慣" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Text="." Section="Punctuation"/>
   </SecLv1>
@@ -106,7 +106,7 @@
     <SecLv2 Section="Character" Text="就" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="敆" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="𡅏" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="跇了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="直頭" YngPing="ti53-lau33"/>
+    <SecLv2 Section="Word" Text="跇了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="直頭" YngPing="ti53 lau33"/>
     <SecLv2 Section="Character" Text="拍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Text="," Section="Punctuation"/>
     <SecLv2 Section="Word" Text="實在" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
@@ -157,7 +157,7 @@
     <SecLv2 Section="Character" Text="使" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="字" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="是偍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="是伓是" YngPing="sie53-nei242"/>
+    <SecLv2 Section="Word" Text="是偍" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="是伓是" YngPing="sie53 nei242"/>
     <SecLv2 Section="Character" Text="對" Iso639-1="zh" Iso639-3="cmn"/>
     <SecLv2 Section="Character" Text="其" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="故" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
@@ -218,7 +218,7 @@
     <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Word" Text="會仈" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="世乇" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="sieng53-noh24"/>
+    <SecLv2 Section="Word" Text="世乇" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" YngPing="sieng53 noh24"/>
     <SecLv2 Section="Word" Text="意思" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Text="," Section="Punctuation"/>
     <SecLv2 Section="Word" Text="但是" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
@@ -227,7 +227,7 @@
     <SecLv2 Section="Character" Text="我" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="就" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Section="Character" Text="野" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
-    <SecLv2 Section="Word" Text="吃力" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="卸力" YngPing="sia55-lik5"/>
+    <SecLv2 Section="Word" Text="吃力" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" TypoFix="卸力" YngPing="sia55 lik5"/>
     <SecLv2 Section="Character" Text="了" Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho"/>
     <SecLv2 Text="." Section="Punctuation"/>
   </SecLv1>
