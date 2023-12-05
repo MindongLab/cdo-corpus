@@ -382,7 +382,17 @@
 		</xs:attribute>
 		<xs:attribute name="YngPing" type="xs:string" use="optional">
 			<xs:annotation>
-				<xs:documentation>Pronunciation in YngPing / 榕拼實際讀音</xs:documentation>
+				<xs:documentation>Pronunciation in YngPing / 榕拼實際讀音（五度標記法）</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="YngPingNum" type="xs:string" use="optional">
+			<xs:annotation>
+				<xs:documentation>Pronunciation in YngPing / 榕拼八音讀音（數字標示法）</xs:documentation>
+			</xs:annotation>
+		</xs:attribute>
+		<xs:attribute name="Ipa" type="xs:string" use="optional">
+			<xs:annotation>
+				<xs:documentation>IPA / 國際音標</xs:documentation>
 			</xs:annotation>
 		</xs:attribute>
 	</xs:attributeGroup>

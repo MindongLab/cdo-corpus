@@ -6,7 +6,7 @@
 	<Provider>
 		<Name>关彳山</Name>
 	</Provider>
-	<SecLv1 Iso639-6="fzho" Section="Sentence" Date="2021-02-15">
+	<SecLv1 Iso639-1="zh" Iso639-3="cdo" Iso639-6="fzho" Section="Sentence" Date="2021-02-15">
 		<SecLv2 Text="㑚" Section="Character">
 			<Translation TransText="衹" Iso639-1="zh" Iso639-3="cmn"/>
 		</SecLv2>
